@@ -6,81 +6,282 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-## Mini Review
+## Part A — Read the Situation
 
-
-1. Which is correct?\
-   a. Vielleicht er kommt morgen.\
-   b. Vielleicht kommt er morgen.\
-   c. Er vielleicht kommt morgen.
-
-<details>
-<summary>Show solution</summary>
-
-**Answer:** **b**
-
-**Explanation:** *Vielleicht kommt er morgen.* The verb stays in second position.
-
-</details>
-
-2. A stranger says **Haben Sie vielleicht Feuer?** What are they mainly doing?\
-   a. Expressing doubt about whether fire exists.\
-   b. Asking politely for a light.\
-   c. Offering you something.
-
-<details>
-<summary>Show solution</summary>
-
-**Answer:** **b**
-
-**Explanation:** asking politely. *vielleicht* softens the request.
-
-</details>
-
-3. Choose the natural word: *___ gehen wir heute Abend ins Kino.* (maybe)\
-   a. Vielleicht\
-   b. Viel\
-   c. Wieder
+1. You have no idea what the weather will do tomorrow.\
+   a. Vielleicht regnet es morgen.\
+   b. Vielleicht es regnet morgen.\
+   c. Es regnet vielleicht nicht morgen.\
+   d. Vielleicht regnet morgen es.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *Vielleicht gehen wir heute Abend ins Kino.*
+**Explanation:** When *vielleicht* opens the sentence, the verb comes straight after it. Option b copies the English order and is the single most common mistake with this word.
 
 </details>
 
-4. Why might a German speaker add *vielleicht* to a request even when they're not uncertain?
+2. You need a pen and want to ask a stranger as gently as possible.\
+   a. Geben Sie mir einen Stift.\
+   b. Haben Sie einen Stift?\
+   c. Haben Sie vielleicht einen Stift?\
+   d. Vielleicht Sie haben einen Stift?
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** To soften it. Adding *vielleicht* makes a request sound less like a demand and gives the other person an easy way to decline.
+**Answer:** **c**
 
-**Explanation:** *vielleicht* marks uncertainty or possibility: “maybe/perhaps.”
+**Explanation:** Option b is perfectly correct, just more direct. Slipping *vielleicht* in makes the request noticeably softer — this is the politeness use, not real doubt about whether pens exist.
 
 </details>
 
-5. **Produce it:** How would you say "Maybe he'll come later" in German?
+3. **Vielleicht können wir morgen telefonieren?** What is the speaker doing?\
+   a. Er ist wirklich unsicher, ob er kann.\
+   b. Er sagt Nein.\
+   c. Er macht höflich einen Vorschlag.\
+   d. Er fragt nach der Uhrzeit.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **c**
+
+**Explanation:** He isn't unsure — he's avoiding sounding like he's giving an order. *vielleicht* in a suggestion is about politeness rather than probability.
+
+</details>
+
+4. A learner writes **Vielleicht er kommt später.** What is wrong?\
+   a. *später* steht an der falschen Stelle.\
+   b. Das Verb muss direkt nach *vielleicht*: *Vielleicht kommt er später.*\
+   c. Man braucht hier *wahrscheinlich*.\
+   d. *vielleicht* darf nicht am Satzanfang stehen.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **b**
+
+**Explanation:** German keeps the verb in second position, and *Vielleicht* counts as the first position — so the subject has to move behind the verb. Option d is wrong: sentence-initial *vielleicht* is completely normal.
+
+</details>
+
+5. Complete the dialogue. B genuinely hasn't decided.
+
+```text
+A: Kommst du mit?
+B: ___
+```
+
+   a. Vielleicht nicht.\
+   b. Vielleicht.\
+   c. Vielleicht viel.\
+   d. Vielleicht sehr.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **b**
+
+**Explanation:** *Vielleicht* stands alone as a complete answer. Option a leans towards no, which is more than "undecided."
+
+</details>
+
+---
+
+## Part B — Tell It Apart
+
+6. What is the difference between **Können Sie mir helfen?** and **Können Sie mir vielleicht helfen?**\
+   a. Der zweite Satz klingt sanfter und vorsichtiger.\
+   b. Der zweite Satz ist unhöflich.\
+   c. Der zweite Satz fragt nach etwas anderem.\
+   d. Beide Sätze sind gleich.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **a**
+
+**Explanation:** The first is fine; the second is gentler and slightly tentative — useful with strangers, officials and shop staff. Nothing about the actual request has changed.
+
+</details>
+
+7. What is the difference between *vielleicht* and *wahrscheinlich*?\
+   a. *vielleicht* ist förmlicher.\
+   b. Beide bedeuten dasselbe.\
+   c. *wahrscheinlich* heißt "ganz sicher".\
+   d. *vielleicht* ist eher unsicher, *wahrscheinlich* eher sicher.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **d**
+
+**Explanation:** *vielleicht* is roughly fifty-fifty or less; *wahrscheinlich* means more likely than not. Recognize the second word, and use the first.
+
+</details>
+
+8. You want to say: **I have a lot of time.** A learner writes **Ich habe vielleicht Zeit.**\
+   a. Richtig — genau diese Bedeutung.\
+   b. Falsches Deutsch.\
+   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
+   d. Richtig, aber unhöflich.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **c**
+
+**Explanation:** The sentence is fine — it just means "maybe I have time." *vielleicht* and *viel* only look alike; they are unrelated words. For a lot of time you want **viel Zeit**.
+
+</details>
+
+9. Which sentence keeps the verb in the right position?\
+   a. Vielleicht wir nehmen ein Taxi.\
+   b. Vielleicht ein Taxi wir nehmen.\
+   c. Wir vielleicht nehmen ein Taxi.\
+   d. Vielleicht nehmen wir ein Taxi.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **d**
+
+**Explanation:** Verb second, always. You can also say *Wir nehmen vielleicht ein Taxi*, with *vielleicht* in the middle — but then the verb sits in second position again.
+
+</details>
+
+10. You are fairly confident your colleague will be at the meeting and want to say so.\
+   a. Vielleicht kommt er.\
+   b. Wahrscheinlich kommt er.\
+   c. Vielleicht nicht.\
+   d. Vielleicht später.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **b**
+
+**Explanation:** *vielleicht* would undersell your confidence — it suggests a coin flip. *wahrscheinlich* is the word for "probably," and it takes the same word order.
+
+</details>
+
+---
+
+## Part C — Apply It
+
+11. At a hotel desk: **Haben Sie vielleicht ein Zimmer frei?** What does *vielleicht* contribute?\
+   a. Der Sprecher weiß nicht, was ein Zimmer ist.\
+   b. Der Sprecher will nicht bezahlen.\
+   c. Der Sprecher fragt nach dem Preis.\
+   d. Die Frage klingt höflicher und weniger fordernd.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **d**
+
+**Explanation:** *Haben Sie vielleicht …?* is a genuinely useful travel formula — it softens the question without changing what you're asking for.
+
+</details>
+
+12. In which sentence does *vielleicht* **not** express real uncertainty?\
+   a. Können Sie mir vielleicht helfen?\
+   b. Vielleicht regnet es morgen.\
+   c. Vielleicht ist er zu Hause.\
+   d. Vielleicht kommt der Bus später.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **a**
+
+**Explanation:** In a request, *vielleicht* is pure politeness — you are not wondering whether help is possible. The other three are genuine guesses about facts.
+
+</details>
+
+13. Complete the dialogue.
+
+```text
+A: Wann treffen wir uns?
+B: ___ — heute passt mir nicht.
+```
+
+   a. Vielleicht nicht\
+   b. Vielleicht viel\
+   c. Vielleicht morgen\
+   d. Vielleicht sehr
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **c**
+
+**Explanation:** *vielleicht morgen* proposes an alternative day without insisting on it. Option a would decline altogether, which contradicts the question A asked.
+
+</details>
+
+14. Compare **Wir nehmen ein Taxi** and **Vielleicht nehmen wir ein Taxi.** What changes?\
+   a. Der zweite Satz ist ein Vorschlag, kein Beschluss.\
+   b. Der zweite Satz ist eine Frage.\
+   c. Der zweite Satz ist unhöflich.\
+   d. Im zweiten Satz fährt jemand anderes.
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **a**
+
+**Explanation:** The first announces a decision; the second floats an idea and leaves room for the other person to disagree. That's why *vielleicht* is so common when planning things with other people.
+
+</details>
+
+---
+
+## Part D — Retrieve and Produce
+
+15. **Select all that apply.** In which sentences is *vielleicht* mainly politeness rather than doubt?\
+   a. Haben Sie vielleicht einen Stift?\
+   b. Vielleicht regnet es morgen.\
+   c. Können Sie mir vielleicht helfen?\
+   d. Vielleicht können wir morgen telefonieren?
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **a, c, d**
+
+**Explanation:** Two requests and a suggestion — in all three, *vielleicht* softens rather than doubts. Only b is a real guess about something you can't control.
+
+</details>
+
+16. Fill in the missing word. No options given. *(das Kleingeld = small change)*
+
+   You need coins for the bus and want to ask a stranger politely.
+
+```text
+Haben Sie ___ Kleingeld?
+```
+
+<details>
+<summary>Show solution</summary>
+
+**Answer:** **vielleicht**
+
+**Explanation:** *Haben Sie vielleicht Kleingeld?* Without it the question is still correct, just blunter — and with strangers the softer version is what most speakers reach for.
+
+</details>
+
+17. Rewrite this sentence so that it begins with *Vielleicht*: **Er kommt später.**
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **Vielleicht kommt er später.**
 
-**Explanation:** *vielleicht* marks uncertainty or possibility: “maybe/perhaps.”
-
-</details>
-
-6. **Produce it:** Ask politely whether someone happens to have time, using *vielleicht*.
-
-<details>
-<summary>Show solution</summary>
-
-**Answer:** A natural way to say this is **Haben Sie vielleicht Zeit?** (informal: *Hast du vielleicht Zeit?*)
-
-**Explanation:** *vielleicht* marks uncertainty or possibility: “maybe/perhaps.”
+**Explanation:** The verb has to stay in second position, so *er* moves behind *kommt*. *Er kommt vielleicht später* is equally correct and keeps the original order — both are natural.
 
 </details>
 
