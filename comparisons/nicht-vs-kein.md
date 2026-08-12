@@ -70,37 +70,11 @@ The shortcut most learners find useful: **if you could put *ein* in front of it,
 - **Forgetting the accusative ending.** *Ich habe kein Hunger* → **keinen Hunger**.
 - **Doubling negatives.** German doesn't stack them the way casual English does.
 
-## Self-Check
+## Check Your Understanding
 
-1. Choose the natural word: *Ich habe ___ Geld.*\
-   a. nicht\
-   b. kein
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Das Wetter ist ___ schön.*\
-   a. nicht\
-   b. kein
-
-3. Choose the natural word: *Das ist ___ mein Auto.*\
-   a. nicht\
-   b. kein
-
-4. Why is *Ich habe nicht Zeit* wrong?
-
-5. **Produce it:** How would you say "that's not a problem" in German?
-
-6. **Produce it:** How would you say "the soup isn't hot"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich habe kein Geld.*
-2. **a** — *Das Wetter ist nicht schön* (adjective).
-3. **a** — *Das ist nicht mein Auto* (possessive).
-4. *Zeit* is a noun with no article, so it takes *kein*: **Ich habe keine Zeit.**
-5. **Das ist kein Problem.**
-6. **Die Suppe ist nicht heiß.**
-
-</details>
+[Take the **nicht vs. kein** quiz →](nicht-vs-kein-quiz.md)
 
 ## Related Pages
 

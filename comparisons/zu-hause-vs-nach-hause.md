@@ -75,35 +75,11 @@ You'll also see **zuhause** written as one word; both spellings are accepted. *n
 - **Adding an article.** *zu dem Hause* is not a thing. These expressions never take an article.
 - **Using *Haus*.** *nach Haus* is heard colloquially but *nach Hause* is the standard form.
 
-## Self-Check
+## Check Your Understanding
 
-1. You're sitting on your sofa. Which is right?\
-   a. Ich bin zu Hause.\
-   b. Ich bin nach Hause.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. You're leaving the office. Which is right?\
-   a. Ich gehe zu Hause.\
-   b. Ich gehe nach Hause.
-
-3. Fill in the pattern: *Wir bleiben heute ___.* (staying home)
-
-4. Which question does *nach Hause* answer — *Wo?* or *Wohin?*
-
-5. **Produce it:** Ask a friend when they're coming home.
-
-6. **Produce it:** Say that he isn't at home.
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *Ich bin zu Hause.*
-2. **b** — *Ich gehe nach Hause.*
-3. **zu Hause** — *Wir bleiben heute zu Hause.*
-4. *Wohin?* — it's movement toward home.
-5. **Wann kommst du nach Hause?**
-6. **Er ist nicht zu Hause.**
-
-</details>
+[Take the **zu Hause vs. nach Hause** quiz →](zu-hause-vs-nach-hause-quiz.md)
 
 ## Related Pages
 

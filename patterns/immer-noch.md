@@ -63,33 +63,11 @@ You'll also hear **noch immer**, which means the same thing and is slightly more
 - **Using it where plain *noch* fits.** If there's no surprise or impatience, use *noch*.
 - **Confusing it with *immer wieder*.** *immer wieder* = over and over (repeated events). *immer noch* = one continuous, unfinished situation.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Er ist immer noch krank.** What's implied?\
-   a. He gets ill often.\
-   b. He's been ill for longer than expected.\
-   c. He recovered.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Which is more neutral?\
-   a. Der Bus ist noch nicht da.\
-   b. Der Bus ist immer noch nicht da.
-
-3. What's the difference between *immer noch* and *immer wieder*?
-
-4. **Produce it:** How would you say "I still don't understand", using *immer noch*?
-
-5. **Produce it:** Ask a friend whether they still live in Munich.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — it's gone on longer than expected.
-2. **a** — plain *noch nicht* is the neutral report; *immer noch nicht* adds impatience.
-3. *immer noch* = one situation continuing without a break. *immer wieder* = something happening again and again.
-4. **Ich verstehe das immer noch nicht.**
-5. A natural way to say this is **Wohnst du immer noch in München?**
-
-</details>
+[Take the **immer noch** quiz →](immer-noch-quiz.md)
 
 ## Related Pages
 

@@ -104,37 +104,11 @@ This is one of the words where trying to produce it early makes your German soun
 - **Na ja, mal sehen.** — Well, we'll see.
 - **Ach ja, stimmt!** — Oh right, true!
 
-## Mini Review
+## Check Your Understanding
 
-1. **Das ist ja teuer!** What is *ja* doing?\
-   a. Answering "yes."\
-   b. Marking surprise or shared observation.\
-   c. Negating the sentence.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Du kennst ihn ja.** What is the speaker assuming?\
-   a. You've never met him.\
-   b. You already know him.\
-   c. You want to meet him.
-
-3. Someone asks **Hast du keine Zeit?** and you *do* have time. Which word do you answer with?\
-   a. Ja\
-   b. Doch\
-   c. Nein
-
-4. Is particle *ja* stressed or unstressed?
-
-5. **Recognition:** Should you start inserting *ja* into your own sentences at A1?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — surprise or shared observation, not "yes."
-2. **b** — that you already know him.
-3. **b** — *Doch.*
-4. Unstressed. The stress falls on the word after it.
-5. No — recognize it for now. It depends on intonation and shared context, and inserting it too early tends to sound odd.
-
-</details>
+[Take the **ja** quiz →](ja-quiz.md)
 
 ## Related Pages
 

@@ -93,40 +93,11 @@ The first is fine. The second is gentler and slightly more tentative — useful 
 - **Vielleicht hast du recht.** — Maybe you're right.
 - **Na vielleicht.** — Well, maybe.
 
-## Mini Review
+## Check Your Understanding
 
-1. Which is correct?\
-   a. Vielleicht er kommt morgen.\
-   b. Vielleicht kommt er morgen.\
-   c. Er vielleicht kommt morgen.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. A stranger says **Haben Sie vielleicht Feuer?** What are they mainly doing?\
-   a. Expressing doubt about whether fire exists.\
-   b. Asking politely for a light.\
-   c. Offering you something.
-
-3. Choose the natural word: *___ gehen wir heute Abend ins Kino.* (maybe)\
-   a. Vielleicht\
-   b. Viel\
-   c. Wieder
-
-4. Why might a German speaker add *vielleicht* to a request even when they're not uncertain?
-
-5. **Produce it:** How would you say "Maybe he'll come later" in German?
-
-6. **Produce it:** Ask politely whether someone happens to have time, using *vielleicht*.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Vielleicht kommt er morgen.* The verb stays in second position.
-2. **b** — asking politely. *vielleicht* softens the request.
-3. **a** — *Vielleicht gehen wir heute Abend ins Kino.*
-4. To soften it. Adding *vielleicht* makes a request sound less like a demand and gives the other person an easy way to decline.
-5. **Vielleicht kommt er später.**
-6. A natural way to say this is **Haben Sie vielleicht Zeit?** (informal: *Hast du vielleicht Zeit?*)
-
-</details>
+[Take the **vielleicht** quiz →](vielleicht-quiz.md)
 
 ## Related Pages
 

@@ -113,37 +113,11 @@ That second pair is worth noticing: *eigentlich* leaves a door open.
 - **Wie spät ist es eigentlich?** — What time is it, actually?
 - **Das wollte ich eigentlich fragen.** — That's what I was actually going to ask.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Wo wohnst du eigentlich?** What does *eigentlich* signal?\
-   a. Suspicion.\
-   b. A friendly, slightly off-topic question.\
-   c. That the previous answer was wrong.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Ich habe eigentlich keine Zeit.** What's likely to come next?\
-   a. A firm refusal.\
-   b. "… but go on, tell me."\
-   c. A change of subject.
-
-3. Someone answers your question with **Eigentlich nicht.** What do they mean?\
-   a. Definitely not.\
-   b. Not really.\
-   c. Yes.
-
-4. Why is "eventually" a false friend here?
-
-5. **Recognition:** In **Eigentlich komme ich aus Köln**, what is the speaker signalling about where they live now?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — a friendly aside, often introducing a new topic.
-2. **b** — *eigentlich* leaves a door open; an exception usually follows.
-3. **b** — not really. It's softer than a flat *nein*.
-4. Because *eigentlich* means "actually," not "eventually." The English word for that is *schließlich* or *irgendwann*.
-5. That they live somewhere else now. *eigentlich* marks Cologne as the original, not the current, situation.
-
-</details>
+[Take the **eigentlich** quiz →](eigentlich-quiz.md)
 
 ## Related Pages
 

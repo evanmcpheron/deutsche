@@ -62,37 +62,11 @@ Both take the **dative**, so at least the endings don't change between them.
 - **Using *bei* for movement.** *bei* is static. Going to someone's place is **zu**: *Ich gehe zu meiner Schwester.*
 - **Translating "by" mechanically.** "By train" is *mit dem Zug*; "by the station" is *beim Bahnhof*; "written by" is *von*.
 
-## Self-Check
+## Check Your Understanding
 
-1. You're staying at your parents' house. Which is right?\
-   a. Ich wohne mit meinen Eltern zusammen.\
-   b. Ich wohne bei meinen Eltern.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Ich arbeite ___ einer Bank.*\
-   a. mit\
-   b. bei
-
-3. Choose the natural word: *Ich fahre ___ dem Bus.*\
-   a. mit\
-   b. bei
-
-4. Which preposition would you use for *going* to someone's place?
-
-5. **Produce it:** Say you're at your friend's place right now.
-
-6. **Produce it:** Say you're travelling with your wife.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *bei meinen Eltern* (it's their home). *mit … zusammen* would suggest an equal flatshare.
-2. **b** — *bei einer Bank.*
-3. **a** — *mit dem Bus.*
-4. **zu** — *Ich gehe zu meinem Freund.* Neither *bei* nor *mit* works for movement.
-5. **Ich bin bei meinem Freund.** (Or *bei meiner Freundin* for a female friend.)
-6. A natural way to say this is **Ich reise mit meiner Frau.** (*Ich fahre mit meiner Frau* also works.)
-
-</details>
+[Take the **bei vs. mit** quiz →](bei-vs-mit-quiz.md)
 
 ## Related Pages
 

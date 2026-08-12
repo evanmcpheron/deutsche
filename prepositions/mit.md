@@ -110,37 +110,11 @@ I'm going to Berlin by train. *(destination + means)*
 - **Fahren Sie mit dem Zug?** — Are you travelling by train?
 - **Mit oder ohne Milch?** — With or without milk?
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich fahre ___ dem Bus.*\
-   a. mit\
-   b. bei\
-   c. nach
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Which is correct?\
-   a. mit mein Bruder\
-   b. mit meinem Bruder\
-   c. mit meinen Bruder
-
-3. **Kommst du mit?** Why is there no noun after *mit*?
-
-4. What's the difference between **Ich wohne mit meiner Schwester zusammen** and **Ich wohne bei meiner Schwester**?
-
-5. **Produce it:** How would you say "I'm going to Berlin by train" in German?
-
-6. **Produce it:** Order a coffee with milk.
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *Ich fahre mit dem Bus.*
-2. **b** — *mit meinem Bruder* (dative).
-3. Because *mit* here is the prefix of the separable verb *mitkommen*, not a preposition. The sentence means "are you coming along?"
-4. *mit meiner Schwester zusammen* = we share a flat as equals. *bei meiner Schwester* = I'm staying at her place; it's her home. See [bei vs. mit](../comparisons/bei-vs-mit.md).
-5. **Ich fahre mit dem Zug nach Berlin.**
-6. A natural way to say this is **Einen Kaffee mit Milch, bitte.**
-
-</details>
+[Take the **mit** quiz →](mit-quiz.md)
 
 ## Related Pages
 

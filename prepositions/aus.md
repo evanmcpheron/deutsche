@@ -106,40 +106,11 @@ That last contrast is the one to get right: *aus* for where you're **from** in l
 - **Der Zug kommt aus München.** — The train is coming from Munich.
 - **Ist das aus Deutschland?** — Is that from Germany?
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich komme ___ Kanada.*\
-   a. von\
-   b. aus\
-   c. bei
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Ich komme gerade ___ der Arbeit.* (just coming from work)\
-   a. aus\
-   b. von\
-   c. nach
-
-3. **Der Film ist aus.** What does this mean?\
-   a. The film is out (released).\
-   b. The film is over.\
-   c. The film is from abroad.
-
-4. Contrast: **Ich komme aus Berlin.** / **Ich fahre von Berlin nach Hamburg.**
-
-5. **Produce it:** How would you say "I'm from America" in German?
-
-6. **Produce it:** How would you say "the table is made of wood"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich komme aus Kanada.*
-2. **b** — *von der Arbeit.* Work is a starting point for today's journey, not your origin.
-3. **b** — the film is over.
-4. *aus Berlin* = Berlin is where I'm from. *von Berlin nach Hamburg* = Berlin is only where this journey starts — that's the one situation where a city takes *von*, and it needs the *nach* half to sound natural. For a city of origin, always *aus*.
-5. **Ich komme aus Amerika.** (Or *aus den USA*.)
-6. **Der Tisch ist aus Holz.**
-
-</details>
+[Take the **aus** quiz →](aus-quiz.md)
 
 ## Related Pages
 

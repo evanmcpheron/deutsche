@@ -12,14 +12,14 @@ Always the same case, no matter what the sentence means. Learn the case once.
 
 | Word | Case | Typically used for | Tier |
 |---|---|---|---|
-| [mit](mit.md) | dative | accompaniment, instrument, transport | 1 |
-| [zu](zu.md) | dative | people, many destinations, fixed phrases | 1 |
-| [nach](nach.md) | dative | cities, most countries, directions, "after" | 1 |
-| [bei](bei.md) | dative | at someone's place, near, during | 1 |
-| [aus](aus.md) | dative | origin, out of | 1 |
-| [von](von.md) | dative | source, starting point, "of" | 1 |
-| [für](fuer.md) | accusative | recipient, purpose, duration | 1 |
-| [um](um.md) | accusative | clock times, around | 1 |
+| [mit](mit.md) · [Quiz](mit-quiz.md) | dative | accompaniment, instrument, transport | 1 |
+| [zu](zu.md) · [Quiz](zu-quiz.md) | dative | people, many destinations, fixed phrases | 1 |
+| [nach](nach.md) · [Quiz](nach-quiz.md) | dative | cities, most countries, directions, "after" | 1 |
+| [bei](bei.md) · [Quiz](bei-quiz.md) | dative | at someone's place, near, during | 1 |
+| [aus](aus.md) · [Quiz](aus-quiz.md) | dative | origin, out of | 1 |
+| [von](von.md) · [Quiz](von-quiz.md) | dative | source, starting point, "of" | 1 |
+| [für](fuer.md) · [Quiz](fuer-quiz.md) | accusative | recipient, purpose, duration | 1 |
+| [um](um.md) · [Quiz](um-quiz.md) | accusative | clock times, around | 1 |
 
 ## Two-way prepositions (*Wechselpräpositionen*)
 
@@ -30,9 +30,9 @@ These switch case depending on the meaning of the sentence:
 
 | Word | Rough sense | Tier |
 |---|---|---|
-| [in](in.md) | in, into | 1 |
-| [auf](auf.md) | on, onto | 1 |
-| [an](an.md) | at, to (a vertical surface, an edge, a person) | 2 |
+| [in](in.md) · [Quiz](in-quiz.md) | in, into | 1 |
+| [auf](auf.md) · [Quiz](auf-quiz.md) | on, onto | 1 |
+| [an](an.md) · [Quiz](an-quiz.md) | at, to (a vertical surface, an edge, a person) | 2 |
 
 The full family also includes *über, unter, vor, hinter, neben, zwischen*. Those follow exactly the same rule, and are beyond what you need to produce at A1 — recognize them and move on.
 

@@ -99,37 +99,11 @@ Three sentences, identical facts, opposite emotional messages. This trio is the 
 - **Ich bin erst seit gestern hier.** — I only got here yesterday.
 - **Das kommt erst später.** — That comes later.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Der Zug kommt erst um zehn.** What does this mean?\
-   a. The train comes before ten.\
-   b. The train doesn't come until ten.\
-   c. The train is the first one at ten.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Someone says **Es ist erst sieben Uhr.** What are they suggesting?\
-   a. Hurry, it's late.\
-   b. Relax, it's early.\
-   c. The clock is wrong.
-
-3. Choose the natural word: *Ich lerne ___ zwei Monate Deutsch.* (only two months so far)\
-   a. schon\
-   b. erst\
-   c. immer
-
-4. Contrast: **Es ist erst acht Uhr.** / **Es ist schon acht Uhr.**
-
-5. **Produce it:** The shop opens at nine and it's eight now. How would you tell someone, using *erst*?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — not until ten.
-2. **b** — relax, there's time.
-3. **b** — *Ich lerne erst zwei Monate Deutsch.*
-4. Same time, opposite attitude. *erst acht* = only eight, plenty of time. *schon acht* = eight already, we're behind.
-5. A natural way to say this is **Das Geschäft öffnet erst um neun.**
-
-</details>
+[Take the **erst** quiz →](erst-quiz.md)
 
 ## Related Pages
 

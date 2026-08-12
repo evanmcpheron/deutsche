@@ -63,34 +63,11 @@ Both are polite and both work. *noch* just tells the server this is a repeat ord
 - **Using *wieder*.** *wieder* means the event repeats, not that you want a second serving.
 - **Adding *mehr*.** *noch mehr Kaffee* means "even more coffee" (a larger quantity), not "one more cup."
 
-## Mini Review
+## Check Your Understanding
 
-1. You've finished your beer and want a second. What do you say?\
-   a. Ein anderes Bier, bitte.\
-   b. Noch ein Bier, bitte.\
-   c. Wieder ein Bier, bitte.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. A server asks **Noch etwas?** What are they asking?\
-   a. Do you want anything else?\
-   b. Is everything all right?\
-   c. Would you like to pay?
-
-3. Which is the careful form for a masculine noun: *noch ein Kaffee* or *noch einen Kaffee*?
-
-4. **Produce it:** Order one more glass of water.
-
-5. **Produce it:** Ask a friend whether they'd like another coffee.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Noch ein Bier, bitte.*
-2. **a** — anything else?
-3. **noch einen Kaffee** (accusative). Both are heard; this one is the careful version.
-4. A natural way to say this is **Noch ein Glas Wasser, bitte.**
-5. A natural way to say this is **Möchtest du noch einen Kaffee?**
-
-</details>
+[Take the **noch ein …** quiz →](noch-ein-quiz.md)
 
 ## Related Pages
 

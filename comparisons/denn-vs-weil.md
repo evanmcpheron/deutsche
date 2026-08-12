@@ -59,35 +59,11 @@ Why aren't you coming? — Because I don't have time.
 - **Starting a sentence with *denn* to mean "because."** Not possible. Use *weil*.
 - **Confusing this *denn* with the question particle.** *Was ist denn das?* has nothing to do with reasons — see [denn](../particles/denn.md).
 
-## Self-Check
+## Check Your Understanding
 
-1. Which is correct?\
-   a. Ich bleibe hier, weil ich bin müde.\
-   b. Ich bleibe hier, weil ich müde bin.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Which is correct?\
-   a. Ich bleibe hier, denn ich bin müde.\
-   b. Ich bleibe hier, denn ich müde bin.
-
-3. Someone asks *Warum lernst du Deutsch?* Can you start your answer with *denn*?
-
-4. What happens to the verb after *weil*?
-
-5. **Produce it:** Say "I'm staying home because I'm tired" — using *weil*.
-
-6. **Produce it:** Say the same thing using *denn*.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *weil ich müde bin* (verb at the end).
-2. **a** — *denn ich bin müde* (normal word order).
-3. No. *denn* can't begin a sentence; use *weil*: **Weil ich in Deutschland arbeite.**
-4. It moves to the end of the clause.
-5. **Ich bleibe zu Hause, weil ich müde bin.**
-6. **Ich bleibe zu Hause, denn ich bin müde.**
-
-</details>
+[Take the **denn vs. weil** quiz →](denn-vs-weil-quiz.md)
 
 ## Related Pages
 

@@ -69,37 +69,11 @@ That table is worth memorizing outright. The negatives don't line up the way Eng
 - **Fixing *noch* as "still" and *schon* as "already."** Both words do more than that — *noch einen Kaffee* is "another," and *schon* can be pure reassurance (*Das wird schon*).
 - **Hearing them as neutral.** Both carry an attitude. *Er ist schon hier* can mean "and I wasn't ready"; *Er ist noch hier* can mean "and I wish he'd go."
 
-## Self-Check
+## Check Your Understanding
 
-1. Choose the natural word: *Der Zug ist ___ nicht da.* (not here yet)\
-   a. schon\
-   b. noch
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Es ist ___ acht Uhr — wir müssen los!* (already eight)\
-   a. noch\
-   b. schon
-
-3. **Wohnst du noch in Berlin?** What's being asked?\
-   a. Have you moved there yet?\
-   b. Do you still live there?
-
-4. What's the negative of **Ich bin schon fertig**?
-
-5. **Produce it:** How would you say "he's still asleep" in German?
-
-6. **Produce it:** How would you say "I've already eaten"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Der Zug ist noch nicht da.*
-2. **b** — *Es ist schon acht Uhr.*
-3. **b** — do you still live there?
-4. **Ich bin noch nicht fertig.** (Not *schon nicht*.)
-5. **Er schläft noch.**
-6. A natural way to say this is **Ich habe schon gegessen.**
-
-</details>
+[Take the **noch vs. schon** quiz →](noch-vs-schon-quiz.md)
 
 ## Related Pages
 

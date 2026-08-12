@@ -59,34 +59,11 @@ And watch for the hidden negative in *erst*: **erst um zehn** = "not before ten.
 - **Substituting *nur*.** *nur* limits a fixed amount (*nur zehn Euro* — ten euros, that's all). *erst* measures progress along a scale that will keep moving (*erst zehn Minuten* — only ten minutes so far).
 - **Treating *schon* as neutral.** It always adds "and that's more/earlier than expected."
 
-## Self-Check
+## Check Your Understanding
 
-1. **Es ist erst sieben Uhr.** What's the speaker suggesting?\
-   a. Hurry up.\
-   b. There's plenty of time.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Der Bus kommt erst um neun.** Can you catch it at half past eight?\
-   a. Yes.\
-   b. No.
-
-3. Choose the natural word: *Ich bin ___ seit gestern hier.* (only since yesterday)\
-   a. schon\
-   b. erst
-
-4. Contrast: **Wir warten schon seit einer Stunde.** / **Wir warten erst seit einer Stunde.**
-
-5. **Produce it:** The shop opens at ten and it's nine now. Tell someone, using *erst*.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — plenty of time.
-2. **b** — no; *erst um neun* means not before nine.
-3. **b** — *Ich bin erst seit gestern hier.*
-4. Same hour of waiting. *schon* = an hour already, that's too long. *erst* = only an hour so far, be patient.
-5. A natural way to say this is **Das Geschäft öffnet erst um zehn.**
-
-</details>
+[Take the **erst vs. schon** quiz →](erst-vs-schon-quiz.md)
 
 ## Related Pages
 

@@ -91,37 +91,11 @@ The difference matters on the phone: *Ich arbeite* tells someone what you do for
 - **Ich bin gerade unterwegs.** — I'm on my way / out and about right now.
 - **Immer geradeaus, dann links.** — Straight on, then left.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Ich arbeite gerade.** What is the speaker saying?\
-   a. I have a job.\
-   b. I'm working at this moment.\
-   c. I worked earlier.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Sie ist ___ gegangen.* (she just left)\
-   a. gerade\
-   b. schon\
-   c. immer
-
-3. Someone giving directions says **immer geradeaus**. What should you do?\
-   a. Turn around.\
-   b. Keep going straight.\
-   c. Wait.
-
-4. Contrast: **Ich arbeite.** / **Ich arbeite gerade.** When would each be the right thing to say on the phone?
-
-5. **Produce it:** Someone calls at a bad moment. How would you say "I'm eating right now" in German?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — working at this moment.
-2. **a** — *Sie ist gerade gegangen.*
-3. **b** — keep going straight ahead.
-4. *Ich arbeite* answers "what do you do?" *Ich arbeite gerade* answers "is now a good time?" — and means no.
-5. A natural way to say this is **Ich esse gerade.**
-
-</details>
+[Take the **gerade** quiz →](gerade-quiz.md)
 
 ## Related Pages
 

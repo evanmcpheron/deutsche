@@ -81,7 +81,7 @@ If a page marks something as A2 or "recognize only," you can safely skim it.
 
 | If you have … | Spend it on … |
 |---|---|
-| 10 minutes | One Tier 1 word page + its Mini Review |
+| 10 minutes | One Tier 1 word page + its linked quiz |
 | 30 minutes | A Tier 1 page and the comparison it links to |
 | A week | One [Start Here](../START_HERE.md) stage, review included |
 | A passive commute | A [phrases](../phrases/README.md) page — pure Tier 2/3 exposure |

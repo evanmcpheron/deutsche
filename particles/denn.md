@@ -116,37 +116,11 @@ Where'd you get to? *(curious)*
 - **Hast du denn Zeit?** — Do you actually have time?
 - **Wo denn?** — Where, though?
 
-## Mini Review
+## Check Your Understanding
 
-1. **Wo warst du denn?** compared with **Wo warst du?** — what does *denn* add?\
-   a. A demand for an explanation.\
-   b. Interest and warmth.\
-   c. Nothing; they're identical.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Someone says **Ich komme nicht mit.** You reply **Warum denn nicht?** What are you doing?\
-   a. Asking, with interest, why not.\
-   b. Telling them off.\
-   c. Agreeing.
-
-3. In **Ich bleibe zu Hause, denn ich bin müde**, what is *denn* doing?\
-   a. Softening a question.\
-   b. Meaning "because".\
-   c. Meaning "then".
-
-4. Where does particle *denn* sit in a question — at the start, or inside?
-
-5. **Recognition:** Does adding *denn* change what a question is asking, or how it sounds?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — interest and warmth; it makes the question conversational.
-2. **a** — asking why not, with genuine curiosity.
-3. **b** — it's the conjunction "because" (and note the verb stays in second position).
-4. Inside — after the verb and subject: *Wo warst du **denn**?*
-5. How it sounds. The information requested is identical.
-
-</details>
+[Take the **denn** quiz →](denn-quiz.md)
 
 ## Related Pages
 

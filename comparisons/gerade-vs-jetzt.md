@@ -61,34 +61,11 @@ They also combine: **gerade jetzt** = right at this very moment, emphatic — of
 - **Using *jetzt* to decline a call.** *Ich arbeite jetzt* sounds like a life update. *Ich arbeite gerade* is the one that means "call me back."
 - **Overusing *gerade jetzt*.** It's emphatic; most sentences want one word or the other, not both.
 
-## Self-Check
+## Check Your Understanding
 
-1. Someone calls at a bad moment. Which is better?\
-   a. Ich esse jetzt.\
-   b. Ich esse gerade.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Er ist gerade in Berlin.** What's implied?\
-   a. He's moved there.\
-   b. He's there temporarily.
-
-3. Which word marks a change ("from now on")?\
-   a. jetzt\
-   b. gerade
-
-4. Why is *Ich bin arbeiten* wrong?
-
-5. **Produce it:** Tell a friend you're cooking right now.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich esse gerade* ("I'm in the middle of eating").
-2. **b** — temporarily; he's there at the moment.
-3. **a** — *jetzt*.
-4. German has no continuous tense. The present tense alone covers "I am doing," and *gerade* adds "right now": **Ich arbeite gerade.**
-5. **Ich koche gerade.**
-
-</details>
+[Take the **gerade vs. jetzt** quiz →](gerade-vs-jetzt-quiz.md)
 
 ## Related Pages
 

@@ -72,7 +72,7 @@ Then, more slowly:
 ## Stage 3 — roughly 1 week
 ### The contrasts that actually cause errors
 
-Work through these comparison pages, and **do each page's self-check as you finish it** — not all four at the end.
+Work through these comparison pages, and **do each page's linked quiz as you finish it** — not all four at the end.
 
 - [noch vs. schon](comparisons/noch-vs-schon.md)
 - [zu vs. nach](comparisons/zu-vs-nach.md)

@@ -74,32 +74,11 @@ See [in](../prepositions/in.md) and [Cases at a Glance](../reference/cases-at-a-
 - **Using dative for movement.** *Ich fahre in der Schweiz* means you're driving around inside Switzerland.
 - **Forgetting *zu* exists.** For shops, doctors, and people, neither of these is right — see [zu vs. nach](zu-vs-nach.md).
 
-## Self-Check
+## Check Your Understanding
 
-1. Choose the natural form: *Wir fahren ___ Österreich.*\
-   a. nach\
-   b. in die
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Wir fahren ___ Schweiz.*\
-   a. nach\
-   b. in die
-
-3. What's the difference between **Ich fahre in die Schweiz** and **Ich wohne in der Schweiz**?
-
-4. Which four countries at A1 need *in* rather than *nach*?
-
-5. **Produce it:** How would you say "I'm flying to Italy" in German?
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *nach Österreich* (no article).
-2. **b** — *in die Schweiz* (*die Schweiz* has an article; movement → accusative).
-3. The first is movement (accusative, *die*): I'm travelling there. The second is location (dative, *der*): I live there.
-4. *die Schweiz*, *die Türkei*, *die USA*, *die Niederlande* — plus any other country whose name comes with an article.
-5. **Ich fliege nach Italien.**
-
-</details>
+[Take the **in vs. nach** quiz →](in-vs-nach-quiz.md)
 
 ## Related Pages
 

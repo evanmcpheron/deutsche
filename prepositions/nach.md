@@ -114,37 +114,11 @@ And the choice that actually causes errors:
 - **Nach Ihnen!** — After you!
 - **Zehn nach sieben.** — Ten past seven.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich fliege ___ Deutschland.*\
-   a. zu\
-   b. nach\
-   c. in
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Fill in the pattern: *Ich gehe ___ Hause.* (I'm going home)
-
-3. **Nach dem Essen gehen wir spazieren.** What does *nach* mean here?\
-   a. To\
-   b. After\
-   c. Toward
-
-4. Why is **Ich gehe nach dem Arzt** wrong for "I'm going to the doctor"? What should it be?
-
-5. **Produce it:** How would you say "I'm going to Munich" in German?
-
-6. **Produce it:** Tell someone to go left.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich fliege nach Deutschland.* (*Deutschland* takes no article.)
-2. **nach** — *Ich gehe nach Hause.*
-3. **b** — after.
-4. *nach* + a person means "after" them in time or sequence, and doctors are people. Destinations that are people take *zu*: **Ich gehe zum Arzt.**
-5. **Ich fahre nach München.** (*Ich fliege nach München* if flying.)
-6. **Gehen Sie nach links.** (informal: *Geh nach links.*)
-
-</details>
+[Take the **nach** quiz →](nach-quiz.md)
 
 ## Related Pages
 

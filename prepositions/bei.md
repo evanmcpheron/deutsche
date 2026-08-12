@@ -109,40 +109,11 @@ And the movement/location pair:
 - **Ich arbeite bei einer kleinen Firma.** — I work at a small company.
 - **Bei Regen bleiben wir zu Hause.** — If it rains, we're staying home.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich bin ___ meiner Mutter.* (I'm at my mother's)\
-   a. zu\
-   b. bei\
-   c. nach
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Ich gehe ___ meiner Mutter.* (I'm going to my mother's)\
-   a. zu\
-   b. bei\
-   c. nach
-
-3. **Er ist beim Arzt.** What's the situation?\
-   a. He's on his way to the doctor.\
-   b. He's at the doctor's now.\
-   c. He's a doctor.
-
-4. What's wrong with **Ich gehe bei meinem Freund** if you mean "I'm going with my friend"?
-
-5. **Produce it:** How would you say "I work at a bank" in German, using *bei*?
-
-6. **Produce it:** How would you say "we're meeting at my place"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *bei* for location.
-2. **a** — *zu* for movement toward a person.
-3. **b** — he's there now. (*zum Arzt* would be on the way.)
-4. *bei* means "at someone's place," not "together with." For accompaniment use *mit*: **Ich gehe mit meinem Freund.**
-5. A natural way to say this is **Ich arbeite bei einer Bank.**
-6. A natural way to say this is **Wir treffen uns bei mir.**
-
-</details>
+[Take the **bei** quiz →](bei-quiz.md)
 
 ## Related Pages
 

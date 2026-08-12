@@ -63,34 +63,11 @@ See [nicht mehr vs. noch](../comparisons/nicht-mehr-vs-noch.md).
 - **Confusing it with *noch nicht*.** *noch nicht* = hasn't happened yet. *nicht mehr* = has stopped. Opposite ends of the timeline.
 - **Reading *mehr* as "more" in quantity.** *nicht mehr* isn't about amounts; *nicht mehr Kaffee* would be an odd way to say "no more coffee" — say *keinen Kaffee mehr*.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Er arbeitet nicht mehr hier.** What happened?\
-   a. He never worked here.\
-   b. He used to work here and has left.\
-   c. He starts next week.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Wir haben ___ Brot ___.* (we're out of bread)\
-   a. nicht / mehr\
-   b. kein / mehr\
-   c. noch / nicht
-
-3. Contrast: **Er ist noch nicht hier.** / **Er ist nicht mehr hier.**
-
-4. **Produce it:** How would you say "I'm not tired any more" in German?
-
-5. **Produce it:** How would you say "there's no time left", using *kein … mehr*?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — he used to work here.
-2. **b** — *Wir haben kein Brot mehr.*
-3. *noch nicht hier* = he hasn't arrived yet, we're expecting him. *nicht mehr hier* = he was here and has gone.
-4. **Ich bin nicht mehr müde.**
-5. A natural way to say this is **Wir haben keine Zeit mehr.** (Or *Es ist keine Zeit mehr.*)
-
-</details>
+[Take the **nicht mehr** quiz →](nicht-mehr-quiz.md)
 
 ## Related Pages
 

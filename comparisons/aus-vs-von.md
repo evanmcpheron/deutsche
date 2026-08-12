@@ -67,39 +67,11 @@ The bus comes from the station. *(starting point)*
 - **Using *aus* for today's journey.** *Ich komme aus der Arbeit* sounds like you emerged from inside the concept of work; say **von der Arbeit**.
 - **Forgetting the contractions.** *von dem* → **vom**. (*aus dem* has no short form.)
 
-## Self-Check
+## Check Your Understanding
 
-1. Choose the natural word: *Ich komme ___ Irland.* (that's where I'm from)\
-   a. aus\
-   b. von
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Ich komme gerade ___ Bahnhof.*\
-   a. aus dem\
-   b. vom
-
-3. Choose the natural word: *Das ist ein Brief ___ meinem Vater.*\
-   a. aus\
-   b. von
-
-4. Choose the natural word: *Die Tasche ist ___ Leder.* (made of leather)\
-   a. aus\
-   b. von
-
-5. **Produce it:** Answer the question *Woher kommen Sie?* — say you're from Germany.
-
-6. **Produce it:** Say you're coming from work.
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *aus Irland.*
-2. **b** — *vom Bahnhof* (starting point of this trip).
-3. **b** — *von meinem Vater* (a person).
-4. **a** — *aus Leder* (material).
-5. **Ich komme aus Deutschland.**
-6. **Ich komme von der Arbeit.**
-
-</details>
+[Take the **aus vs. von** quiz →](aus-vs-von-quiz.md)
 
 ## Related Pages
 

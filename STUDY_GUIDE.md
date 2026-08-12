@@ -27,7 +27,7 @@ Same word, three cards, and none of them lie to you.
 1. **Read the Core Idea.** Don't try to memorize it. You're looking for the shape of the word.
 2. **Read the examples out loud.** Out loud matters — these words carry stress and rhythm, and your ear will learn patterns your eye won't.
 3. **Cover the translations** and reread the German. If a sentence still makes sense to you, that word is starting to land.
-4. **Do the Mini Review** at the bottom. Attempt every question before opening the answers.
+4. **Open the linked quiz.** Attempt each question before opening the solution directly below it.
 
 Ten focused minutes on one page beats an hour of skimming five.
 
@@ -76,7 +76,7 @@ Small words fade quietly — you don't notice you've lost *erst* until it appear
 | When | What |
 |---|---|
 | Same day | Reread the page you studied, for two minutes |
-| Next day | Redo just the Mini Review |
+| Next day | Redo just the linked quiz |
 | One week later | The relevant [review](review/README.md) page |
 | One month later | [Cumulative Review](review/cumulative-review.md) |
 

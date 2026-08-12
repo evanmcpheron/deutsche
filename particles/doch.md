@@ -130,37 +130,11 @@ And:
 - **Komm doch rein!** — Do come in!
 - **Das kann doch nicht sein.** — That can't be.
 
-## Mini Review
+## Check Your Understanding
 
-1. Someone asks **Hast du keinen Hunger?** and you *are* hungry. What do you say?\
-   a. Ja.\
-   b. Doch.\
-   c. Nein.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Komm doch mit!** compared with **Komm mit!** — what does *doch* add?\
-   a. Urgency bordering on an order.\
-   b. Warmth and persuasion.\
-   c. A question.
-
-3. **Das weißt du doch.** What is the speaker assuming?\
-   a. That you don't know.\
-   b. That you already know.\
-   c. That nobody knows.
-
-4. Why is answering *ja* to a negative question a problem in German?
-
-5. **Produce it:** Someone says *Du kommst nicht mit* ("you're not coming"), but you are. Contradict them.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Doch!* (Yes, I am hungry.)
-2. **b** — warmth and persuasion; it's an encouraging invitation rather than a bare one.
-3. **b** — that you already know it; *doch* appeals to shared knowledge.
-4. Because *ja* would seem to agree with the negative. German reserves *doch* for contradicting a negative, and speakers rely on that distinction.
-5. **Doch, ich komme mit!**
-
-</details>
+[Take the **doch** quiz →](doch-quiz.md)
 
 ## Related Pages
 

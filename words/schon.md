@@ -114,40 +114,11 @@ Same speaker, same place, opposite direction of travel.
 - **Das wird schon.** — It'll work out.
 - **Ich komme schon!** — I'm coming! *(slightly impatient)*
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Er ist ___ hier — wir können anfangen.* (he's already here)\
-   a. noch\
-   b. schon\
-   c. erst
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Hast du schon gegessen?** What is the speaker asking?\
-   a. Whether you eat at all.\
-   b. Whether you have eaten by now.\
-   c. Whether you're still eating.
-
-3. A friend is nervous about an exam and says nothing. You say **Das schaffst du schon.** What are you doing?\
-   a. Reassuring them.\
-   b. Correcting them.\
-   c. Asking a question.
-
-4. Contrast: **Ich bin noch hier.** / **Ich bin schon hier.** What's the difference?
-
-5. **Produce it:** How would you say "I'm already finished" in German?
-
-6. **Produce it:** Ask a friend whether they're there yet, using *schon*.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Er ist schon hier.*
-2. **b** — whether you've eaten by now.
-3. **a** — reassuring them. This is *schon* as a comfort particle, not "already."
-4. *noch hier* = I haven't left yet. *schon hier* = I've already arrived, possibly earlier than expected.
-5. **Ich bin schon fertig.**
-6. A natural way to say this is **Bist du schon da?**
-
-</details>
+[Take the **schon** quiz →](schon-quiz.md)
 
 ## Related Pages
 

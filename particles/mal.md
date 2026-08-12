@@ -130,36 +130,11 @@ Neither version is rude in the right context — but *mal* makes the request sou
 - **Sag mal, wie geht's dir?** — So tell me, how are you?
 - **Kannst du mal helfen?** — Could you give me a hand?
 
-## Mini Review
+## Check Your Understanding
 
-1. **Warte mal.** How does this differ from **Warte!**?\
-   a. It's a different verb.\
-   b. It's softer and more casual.\
-   c. It's more urgent.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Someone begins with **Sag mal, …**. What are they about to do?\
-   a. Tell you a story.\
-   b. Ask you something.\
-   c. Correct you.
-
-3. Is *mal* appropriate in a formal written complaint to a landlord?\
-   a. Yes, it's neutral.\
-   b. No, it's spoken and casual.
-
-4. What does *mal* add to **Kannst du mir helfen?**
-
-5. **Recognition:** In **Ich war schon mal in Wien**, is *mal* softening a request?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — softer and more casual. Same request, friendlier delivery.
-2. **b** — asking you something. *Sag mal* flags an incoming question.
-3. **b** — leave it out of formal writing.
-4. It makes the request smaller and more casual — closer to "could you give me a hand?" than "can you help me?"
-5. No. Here *mal* is short for *einmal* and means "at some point / ever" — the sentence says "I've been to Vienna before."
-
-</details>
+[Take the **mal** quiz →](mal-quiz.md)
 
 ## Related Pages
 

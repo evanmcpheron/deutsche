@@ -74,32 +74,11 @@ If you can produce those four sentences accurately, you've got the core of this 
 - **Using *noch nicht* for "not any more."** *noch nicht* is about something that hasn't started; *nicht mehr* is about something that has stopped.
 - **Assuming the negative of *noch* is *noch nicht*.** It isn't. *noch* → *nicht mehr*; *schon* → *noch nicht*.
 
-## Self-Check
+## Check Your Understanding
 
-1. Your friend moved away from Munich last year. Which is right?\
-   a. Er wohnt noch in München.\
-   b. Er wohnt nicht mehr in München.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Wir haben ___ Brot ___.* (no bread left)\
-   a. nicht / mehr\
-   b. kein / mehr
-
-3. Contrast: **Er ist noch nicht hier.** / **Er ist nicht mehr hier.**
-
-4. What's the negative of **Ich habe noch Zeit**?
-
-5. **Produce it:** How would you say "he doesn't work here any more" in German?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Er wohnt nicht mehr in München.*
-2. **b** — *Wir haben kein Brot mehr.*
-3. *noch nicht hier* = hasn't arrived yet, still expected. *nicht mehr hier* = was here, has gone.
-4. **Ich habe keine Zeit mehr.**
-5. **Er arbeitet nicht mehr hier.**
-
-</details>
+[Take the **nicht mehr vs. noch** quiz →](nicht-mehr-vs-noch-quiz.md)
 
 ## Related Pages
 

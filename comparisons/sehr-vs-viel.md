@@ -66,35 +66,11 @@ And they stack: **sehr viel** = a very great deal. *Ich habe sehr viel Arbeit.*
 - ***Ich habe sehr Hunger.*** → **Ich habe großen Hunger**, or simply **Ich habe Hunger.**
 - **Mixing up the two thank-yous.** *Vielen Dank* and *Danke sehr* are both right; *Sehr Dank* and *Danke viel* are not.
 
-## Self-Check
+## Check Your Understanding
 
-1. Choose the natural word: *Das Hotel ist ___ teuer.*\
-   a. sehr\
-   b. viel
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Wir haben ___ Arbeit.*\
-   a. sehr\
-   b. viel
-
-3. Is **sehr viel Geld** correct?
-
-4. Why is *Ich habe sehr Zeit* wrong?
-
-5. **Produce it:** How would you say "he speaks very quickly" in German?
-
-6. **Produce it:** How would you say "I don't have much time"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *sehr teuer* (adjective).
-2. **b** — *viel Arbeit* (noun).
-3. Yes — "a very great deal of money." *sehr* intensifies *viel*, which counts the money.
-4. *Zeit* is a noun, and nouns take *viel*: **Ich habe viel Zeit.**
-5. **Er spricht sehr schnell.**
-6. A natural way to say this is **Ich habe nicht viel Zeit.**
-
-</details>
+[Take the **sehr vs. viel** quiz →](sehr-vs-viel-quiz.md)
 
 ## Related Pages
 

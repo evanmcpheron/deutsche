@@ -140,37 +140,11 @@ Three prepositions, three positions. English uses "on" for the first two, which 
 - **Der Zug kommt um zehn an.** — The train arrives at ten.
 - **Am besten fragen Sie dort.** — You'd best ask over there.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich habe ___ Montag frei.*\
-   a. um\
-   b. am\
-   c. in
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Ich hänge das Bild an ___ Wand.*\
-   a. der\
-   b. die\
-   c. dem
-
-3. **Wann kommt der Zug an?** Why is *an* at the end?\
-   a. It's a preposition with no noun.\
-   b. It's the prefix of the separable verb *ankommen*.\
-   c. It's a typo.
-
-4. Contrast: **Wir sitzen am Tisch.** / **Wir setzen uns an den Tisch.**
-
-5. **Produce it:** How would you say "I'll call you tomorrow" (informal) in German?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *am Montag.*
-2. **b** — *an die Wand* (movement → accusative).
-3. **b** — it belongs to *ankommen* ("to arrive"), which splits in a main clause.
-4. The first describes where we are (location, dative). The second describes the act of sitting down at the table (movement, accusative).
-5. **Ich rufe dich morgen an.**
-
-</details>
+[Take the **an** quiz →](an-quiz.md)
 
 ## Related Pages
 

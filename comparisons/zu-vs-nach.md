@@ -68,37 +68,11 @@ I'm going home. *(fixed expression, movement)*
 - ***Ich fahre zu Berlin.*** → **nach Berlin.**
 - **Swapping the *Hause* pair.** *zu Hause* = at home. *nach Hause* = homeward. See [zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md).
 
-## Self-Check
+## Check Your Understanding
 
-1. Choose the natural word: *Ich fahre ___ Hamburg.*\
-   a. zu\
-   b. nach
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Ich gehe ___ Zahnarzt.*\
-   a. zum\
-   b. nach
-
-3. Choose the natural word: *Wir fliegen ___ Spanien.*\
-   a. zu\
-   b. nach
-
-4. Which destination type always takes *zu*, without exception?
-
-5. **Produce it:** How would you say "I'm going to my brother's" in German?
-
-6. **Produce it:** How would you say "how do I get to the station?"
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *nach Hamburg* (a city).
-2. **a** — *zum Zahnarzt* (a person).
-3. **b** — *nach Spanien* (a country with no article).
-4. People. *zu meiner Mutter*, *zum Arzt*, *zu dir*.
-5. **Ich gehe zu meinem Bruder.** (*Ich fahre …* if it's a drive.)
-6. **Wie komme ich zum Bahnhof?**
-
-</details>
+[Take the **zu vs. nach** quiz →](zu-vs-nach-quiz.md)
 
 ## Related Pages
 

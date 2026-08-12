@@ -95,40 +95,11 @@ And the chunk contrast:
 - **Das sagst du immer.** — You always say that.
 - **Er ist immer noch nicht da.** — He's still not here.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich stehe ___ um sechs Uhr auf.* (always)\
-   a. immer\
-   b. noch\
-   c. schon
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Er wartet immer noch.** What's the situation?\
-   a. He waits regularly.\
-   b. He's been waiting a long time and hasn't stopped.\
-   c. He waited once before.
-
-3. What does **immer wieder** mean?\
-   a. always again\
-   b. over and over\
-   c. still
-
-4. Contrast: **Er ist noch krank.** / **Er ist immer noch krank.**
-
-5. **Produce it:** How would you say "the bus is always late" in German?
-
-6. **Produce it:** How would you say "I always drink tea in the morning"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *Ich stehe immer um sechs Uhr auf.*
-2. **b** — still waiting, and it's gone on longer than expected.
-3. **b** — over and over, repeatedly.
-4. Both mean he's still ill. *immer noch* adds a note of "this has been going on a while" — surprise, impatience, or concern.
-5. **Der Bus kommt immer zu spät.**
-6. A natural way to say this is **Ich trinke morgens immer Tee.** (*Ich trinke immer Tee am Morgen* also works.)
-
-</details>
+[Take the **immer** quiz →](immer-quiz.md)
 
 ## Related Pages
 

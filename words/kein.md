@@ -113,37 +113,11 @@ And against the other negation:
 - **Ich habe keinen Hunger.** — I'm not hungry.
 - **Das ist keine gute Idee.** — That's not a good idea.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich habe ___ Geld.*\
-   a. nicht\
-   b. kein\
-   c. keine
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. What situation does **Ich habe keine Ahnung** describe?\
-   a. The speaker doesn't know.\
-   b. The speaker disagrees.\
-   c. The speaker is busy.
-
-3. Negate this sentence: *Er hat einen Bruder.*
-
-4. Which is right, and why? *Das ist nicht Problem* / *Das ist kein Problem*
-
-5. **Produce it:** How would you say "I don't drink coffee" in German, using *kein*?
-
-6. **Produce it:** How would you say "We don't have any children" in German?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich habe kein Geld.* (*Geld* is neuter, so no ending.)
-2. **a** — the speaker doesn't know.
-3. **Er hat keinen Bruder.** (Masculine accusative → *keinen*.)
-4. **Das ist kein Problem.** *Problem* is a noun, and nouns take *kein*, not *nicht*.
-5. A natural way to say this is **Ich trinke keinen Kaffee.**
-6. A natural way to say this is **Wir haben keine Kinder.**
-
-</details>
+[Take the **kein** quiz →](kein-quiz.md)
 
 ## Related Pages
 

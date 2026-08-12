@@ -95,37 +95,11 @@ It's expensive, that's just how it is. *(no complaint intended)*
 - **Es ist halt Winter.** — Well, it's winter.
 - **Nächster Halt: Marienplatz.** — Next stop: Marienplatz.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Das ist halt so.** What's the speaker doing?\
-   a. Complaining bitterly.\
-   b. Accepting something unchangeable.\
-   c. Asking a question.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. What's the difference between *halt* and [eben](eben.md) as particles?\
-   a. Opposite meanings.\
-   b. Almost none — *halt* is more southern and casual.\
-   c. *halt* is formal.
-
-3. **Nächster Halt: Hauptbahnhof.** What does *Halt* mean here?\
-   a. Stop (station).\
-   b. Just.\
-   c. Hold on.
-
-4. Should *halt* appear in a formal email?
-
-5. **Recognition:** In **Dann nehmen wir halt den Bus**, how does the speaker feel about taking the bus?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — accepting it.
-2. **b** — near-synonyms; *halt* is more southern and casual.
-3. **a** — a stop or station. That's the noun, not the particle.
-4. No. It's casual spoken German.
-5. It's not their first choice, but they're fine with it — resigned, not annoyed.
-
-</details>
+[Take the **halt** quiz →](halt-quiz.md)
 
 ## Related Pages
 

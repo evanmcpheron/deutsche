@@ -61,34 +61,11 @@ These are among the most useful four-word-or-fewer sentences in German.
 - **Adding an article after bare *bis*.** *bis der Bahnhof* → **bis zum Bahnhof**.
 - **Using *zu* for the start.** The start is *von*: *von Montag*, not *zu Montag*.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Wir haben von Montag bis Freitag geöffnet.** What's described?\
-   a. A one-day event.\
-   b. The days they're open.\
-   c. A holiday.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Fill in the pattern: *Der Bus fährt von hier ___ ___ Bahnhof.*
-
-3. Someone says **Bis morgen!** What are they doing?\
-   a. Saying goodbye until tomorrow.\
-   b. Asking about tomorrow.\
-   c. Cancelling.
-
-4. **Produce it:** How would you say "from eight to five" in German?
-
-5. **Produce it:** Say goodbye to someone you'll see later today.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — their opening days.
-2. **bis zum** — *von hier bis zum Bahnhof.*
-3. **a** — see you tomorrow.
-4. **von acht bis fünf.**
-5. **Bis später!**
-
-</details>
+[Take the **von … bis …** quiz →](von-bis-quiz.md)
 
 ## Related Pages
 

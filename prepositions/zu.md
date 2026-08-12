@@ -129,37 +129,11 @@ Two different prepositions, two different situations, one fixed pair worth memor
 - **Das ist mir zu teuer.** — That's too expensive for me.
 - **Zum Wohl!** — Cheers!
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich gehe ___ Arzt.*\
-   a. nach\
-   b. zum\
-   c. in
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. What does **Das ist zu teuer** mean?\
-   a. That's expensive to buy.\
-   b. That's too expensive.\
-   c. That's the expensive one.
-
-3. Fill in the pattern: *Wie komme ich ___ Bahnhof?*
-
-4. Contrast: **Ich bin zu Hause.** / **Ich gehe nach Hause.**
-
-5. **Produce it:** How would you say "I'm going to my brother's" in German, using *zu*?
-
-6. **Produce it:** How would you say "the coffee is too hot"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich gehe zum Arzt.* People and professionals always take *zu*.
-2. **b** — too expensive.
-3. **zum** — *Wie komme ich zum Bahnhof?*
-4. *zu Hause* describes where you are: at home. *nach Hause* describes movement: going home.
-5. **Ich gehe zu meinem Bruder.** (Or *Ich fahre zu meinem Bruder*, if it's far enough to drive.)
-6. **Der Kaffee ist zu heiß.**
-
-</details>
+[Take the **zu** quiz →](zu-quiz.md)
 
 ## Related Pages
 

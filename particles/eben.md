@@ -104,37 +104,11 @@ That's just how it is. *(and there's no point complaining)*
 - **Dann eben morgen.** — Tomorrow, then.
 - **Er ist eben so.** — That's just how he is.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Das ist eben so.** What's the speaker's attitude?\
-   a. Angry.\
-   b. Resigned; accepting.\
-   c. Surprised.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Someone says **Eben!** after your remark. What do they mean?\
-   a. They disagree.\
-   b. They strongly agree.\
-   c. They didn't hear you.
-
-3. **Er war eben hier.** What does *eben* mean here?\
-   a. That's just how it is.\
-   b. A moment ago.\
-   c. Flat.
-
-4. Which is more southern and casual — *eben* or *halt*?
-
-5. **Recognition:** Should you produce *eben* as a particle at A1?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — resigned acceptance.
-2. **b** — strong agreement, "exactly."
-3. **b** — a moment ago. That's the adverb use, not the particle.
-4. *halt* — though *eben* is understood everywhere and both are common.
-5. No, apart from the one-word *Eben!* Recognition is enough for now.
-
-</details>
+[Take the **eben** quiz →](eben-quiz.md)
 
 ## Related Pages
 

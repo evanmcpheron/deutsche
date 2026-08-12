@@ -51,7 +51,7 @@ The fix is not more definitions. It is more **patterns**.
 | [Patterns](patterns/README.md) | Fixed chunks: noch nicht, noch ein…, gar nicht, von … bis … |
 | [Comparisons](comparisons/README.md) | Confusing pairs: noch vs. schon, zu vs. nach, aus vs. von … |
 | [Phrases](phrases/README.md) | Everyday, conversation, and travel chunks you will hear |
-| [Review](review/README.md) | Self-contained exercises — every one has an answer key |
+| [Review](review/README.md) | Self-contained exercises with a solution dropdown below each question |
 | [Reference](reference/README.md) | Priority tiers, case overview, how to read without translating |
 
 ## Where a Beginner Should Start
@@ -60,7 +60,7 @@ Read [START_HERE.md](START_HERE.md) first. It gives you a four-stage sequence, a
 
 ## How to Use the Exercises
 
-Every exercise page is self-contained and has its **answer key at the bottom**, separated from the questions. Attempt the questions first, then scroll down or expand the answer section.
+Every exercise page is self-contained and has a **solution dropdown directly below each question**. Attempt the question first, then expand only that solution before continuing.
 
 Most questions test **recognition** — do you understand the situation the sentence describes? — rather than translation. Pages covering words marked **Active** also include **production** questions, where you write the German yourself. Production questions often have more than one good answer; the key gives one natural version, not the only correct one.
 

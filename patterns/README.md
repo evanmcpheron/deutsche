@@ -6,14 +6,14 @@ Some German is easier learned in groups than word by word. *noch nicht* is not "
 
 | Chunk | Means | Built from | Tier |
 |---|---|---|---|
-| [noch nicht](noch-nicht.md) | not yet | [noch](../words/noch.md) + [nicht](../words/nicht.md) | 1 |
-| [noch ein …](noch-ein.md) | another one | [noch](../words/noch.md) + article | 1 |
-| [immer noch](immer-noch.md) | still, even now | [immer](../words/immer.md) + [noch](../words/noch.md) | 1 |
-| [schon mal](schon-mal.md) | ever, before now | [schon](../words/schon.md) + [mal](../particles/mal.md) | 2 |
-| [nicht mehr](nicht-mehr.md) | not any more | [nicht](../words/nicht.md) + mehr | 1 |
-| [gar nicht](gar-nicht.md) | not at all | gar + [nicht](../words/nicht.md) | 2 |
-| [von … bis …](von-bis.md) | from … to … | [von](../prepositions/von.md) + bis | 1 |
-| [ein bisschen](ein-bisschen.md) | a little, a bit | fixed | 1 |
+| [noch nicht](noch-nicht.md) · [Quiz](noch-nicht-quiz.md) | not yet | [noch](../words/noch.md) + [nicht](../words/nicht.md) | 1 |
+| [noch ein …](noch-ein.md) · [Quiz](noch-ein-quiz.md) | another one | [noch](../words/noch.md) + article | 1 |
+| [immer noch](immer-noch.md) · [Quiz](immer-noch-quiz.md) | still, even now | [immer](../words/immer.md) + [noch](../words/noch.md) | 1 |
+| [schon mal](schon-mal.md) · [Quiz](schon-mal-quiz.md) | ever, before now | [schon](../words/schon.md) + [mal](../particles/mal.md) | 2 |
+| [nicht mehr](nicht-mehr.md) · [Quiz](nicht-mehr-quiz.md) | not any more | [nicht](../words/nicht.md) + mehr | 1 |
+| [gar nicht](gar-nicht.md) · [Quiz](gar-nicht-quiz.md) | not at all | gar + [nicht](../words/nicht.md) | 2 |
+| [von … bis …](von-bis.md) · [Quiz](von-bis-quiz.md) | from … to … | [von](../prepositions/von.md) + bis | 1 |
+| [ein bisschen](ein-bisschen.md) · [Quiz](ein-bisschen-quiz.md) | a little, a bit | fixed | 1 |
 
 ## Chunks Covered Elsewhere
 

@@ -96,40 +96,11 @@ Three sentences, one word of difference each, three quite different situations. 
 - **Schon wieder?** — Again?
 - **Es geht ihm wieder gut.** — He's doing well again.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Der Laden ist ___ offen.* (open again, after being closed)\
-   a. noch\
-   b. wieder\
-   c. schon
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Er ist wieder krank.** What happened in between?\
-   a. Nothing — he never got better.\
-   b. He recovered, and is now ill again.\
-   c. He's about to get ill.
-
-3. Someone says **Schon wieder!** What's their mood?\
-   a. Pleased\
-   b. Neutral\
-   c. Annoyed
-
-4. Contrast: **Er ist noch krank.** / **Er ist wieder krank.**
-
-5. **Produce it:** How would you say "I'm back" in German, using *wieder*?
-
-6. **Produce it:** How would you say "I'll come again tomorrow"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Der Laden ist wieder offen.*
-2. **b** — he recovered and has now relapsed.
-3. **c** — annoyed. *schon wieder* carries irritation.
-4. *noch krank* = still ill, continuously. *wieder krank* = ill again, after being well.
-5. **Ich bin wieder da.**
-6. A natural way to say this is **Ich komme morgen wieder.**
-
-</details>
+[Take the **wieder** quiz →](wieder-quiz.md)
 
 ## Related Pages
 

@@ -98,34 +98,11 @@ And the error to avoid:
 - **Sehr gern.** — Gladly.
 - **Das ist sehr nett von Ihnen.** — That's very kind of you. *(formal)*
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Das Zimmer ist ___ klein.*\
-   a. viel\
-   b. sehr\
-   c. noch
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Wir haben ___ Zeit.* (a lot of time)\
-   a. sehr\
-   b. viel\
-   c. sehr viel — also possible?
-
-3. Why is **Ich habe sehr Hunger** wrong? What would a German speaker say?
-
-4. **Produce it:** How would you say "the soup is very hot" in German?
-
-5. **Produce it:** Someone gives you a gift. How would you say "thank you very much"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Das Zimmer ist sehr klein.* (*klein* is an adjective.)
-2. **b** — *Wir haben viel Zeit.* And yes, **sehr viel Zeit** is also correct and natural: "a very great deal of time."
-3. *Hunger* is a noun, and *sehr* doesn't attach to nouns. German says **Ich habe großen Hunger** or, far more commonly, just **Ich habe Hunger.**
-4. **Die Suppe ist sehr heiß.**
-5. **Danke sehr!** (Or *Vielen Dank!*)
-
-</details>
+[Take the **sehr** quiz →](sehr-quiz.md)
 
 ## Related Pages
 

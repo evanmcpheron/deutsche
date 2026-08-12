@@ -124,40 +124,11 @@ I'd like another coffee. *(there was already one)*
 - **Haben Sie noch Zimmer frei?** — Do you still have rooms available?
 - **Einen Moment noch, bitte.** — Just a moment more, please.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Ich bin ___ nicht fertig.*\
-   a. schon\
-   b. noch\
-   c. aus
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Ich bin noch hier.** What is the overall situation?\
-   a. I arrived a moment ago.\
-   b. I haven't left yet.\
-   c. I'm coming later.
-
-3. In a café, the waiter asks **Noch etwas?** What is he doing?\
-   a. Asking if you want anything else.\
-   b. Asking if you're still waiting.\
-   c. Asking whether you've paid.
-
-4. What's the difference between **Ich möchte einen Kaffee** and **Ich möchte noch einen Kaffee**?
-
-5. **Produce it:** How would you say "I'm not finished yet" in German, using *noch*?
-
-6. **Produce it:** You want one more beer. How would you ask for it politely, using *noch*?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich bin noch nicht fertig.*
-2. **b** — I haven't left yet. The situation is continuing.
-3. **a** — anything else? It's the standard shop and café question.
-4. Without *noch*, you're ordering a coffee — presumably your first. With *noch*, you've already had one and want another.
-5. **Ich bin noch nicht fertig.**
-6. A natural way to say this is **Noch ein Bier, bitte.** (Or *Ich möchte noch ein Bier, bitte.*)
-
-</details>
+[Take the **noch** quiz →](noch-quiz.md)
 
 ## Related Pages
 

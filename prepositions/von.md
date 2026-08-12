@@ -109,40 +109,11 @@ See [aus vs. von](../comparisons/aus-vs-von.md); this pair causes more errors th
 - **Wir haben von Montag bis Freitag geöffnet.** — We're open Monday to Friday.
 - **Das hängt von dir ab.** — That depends on you.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Das ist ein Geschenk ___ meiner Mutter.*\
-   a. aus\
-   b. von\
-   c. bei
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Ich komme ___ Spanien.* (that's my home country)\
-   a. von\
-   b. aus\
-   c. bei
-
-3. **Wir haben von Montag bis Freitag geöffnet.** What's being described?\
-   a. Opening hours across the week.\
-   b. A holiday closure.\
-   c. A single day.
-
-4. How would a German speaker normally say "my sister's car" in everyday speech?
-
-5. **Produce it:** How would you say "I'm coming from work" in German?
-
-6. **Produce it:** How would you say "a friend of mine"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *von meiner Mutter.*
-2. **b** — *aus Spanien.* Origin takes *aus*.
-3. **a** — the days they're open.
-4. **das Auto von meiner Schwester.** The genitive (*das Auto meiner Schwester*) is correct but more formal than you need at A1.
-5. **Ich komme von der Arbeit.**
-6. **ein Freund von mir.**
-
-</details>
+[Take the **von** quiz →](von-quiz.md)
 
 ## Related Pages
 

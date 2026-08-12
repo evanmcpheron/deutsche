@@ -144,39 +144,11 @@ German draws the in/on line more sharply than English does, and *auf* is always 
 - **Warten Sie auf mich!** — Wait for me!
 - **Auf jeden Fall!** — Definitely!
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural form: *Ich lege das Buch auf ___ Tisch.*\
-   a. dem\
-   b. den\
-   c. der
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Die Tasse steht auf ___ Tisch.*\
-   a. dem\
-   b. den\
-   c. das
-
-3. Which question does **Stell den Stuhl auf den Balkon** answer?\
-   a. Wo?\
-   b. Wohin?
-
-4. Contrast: **Das Buch liegt auf dem Tisch.** / **Ich lege das Buch auf den Tisch.** What's different?
-
-5. **Produce it:** How would you ask "how do you say that in German?"
-
-6. **Produce it:** How would you say "the key is on the table"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *auf den Tisch* (the book is moving → accusative).
-2. **a** — *auf dem Tisch* (the cup is at rest → dative).
-3. **b** — *Wohin?* The chair is being moved, so accusative.
-4. The first describes where the book is (location, dative). The second describes putting it there (movement, accusative). The article carries the difference: *dem* → *den*.
-5. **Wie sagt man das auf Deutsch?** (*Wie heißt das auf Deutsch?* also works.)
-6. **Der Schlüssel liegt auf dem Tisch.** (*Der Schlüssel ist auf dem Tisch* is fine too.)
-
-</details>
+[Take the **auf** quiz →](auf-quiz.md)
 
 ## Related Pages
 

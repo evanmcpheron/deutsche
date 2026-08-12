@@ -106,40 +106,11 @@ German doesn't drop the preposition before clock times the way English sometimes
 - **In Frankfurt bitte umsteigen.** — Please change trains in Frankfurt.
 - **So um zehn, ja?** — Around ten, then?
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Der Zug fährt ___ neun Uhr.*\
-   a. in\
-   b. um\
-   c. am
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural word: *Wir treffen uns ___ Montag.*\
-   a. um\
-   b. am\
-   c. in
-
-3. **In Köln bitte umsteigen.** What should you do?\
-   a. Get off for good.\
-   b. Change trains.\
-   c. Stay on board.
-
-4. Which preposition goes with clock times, and which with days?
-
-5. **Produce it:** How would you say "the film starts at eight" in German?
-
-6. **Produce it:** Ask what time someone is coming.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *um neun Uhr.*
-2. **b** — *am Montag.*
-3. **b** — change trains.
-4. Clock times take *um* (*um acht Uhr*); days take *am* (*am Montag*).
-5. **Der Film beginnt um acht.**
-6. A natural way to say this is **Um wie viel Uhr kommst du?**
-
-</details>
+[Take the **um** quiz →](um-quiz.md)
 
 ## Related Pages
 

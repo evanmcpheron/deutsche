@@ -62,34 +62,11 @@ If you're unsure which is true, *noch* is the safer guess for something that's b
 - **Confusing *immer noch* and *immer wieder*.** *immer noch* = one long unbroken situation. *immer wieder* = repeated separate events. See [immer noch](../patterns/immer-noch.md).
 - **Using *wieder* for "say it again."** German prefers **noch mal**: *Sag das noch mal.*
 
-## Self-Check
+## Check Your Understanding
 
-1. Your friend was ill last month, recovered, and is now ill again. Which is right?\
-   a. Er ist noch krank.\
-   b. Er ist wieder krank.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. **Ich bin wieder da.** What happened?\
-   a. I never left.\
-   b. I left and came back.
-
-3. What's the difference between *immer noch* and *immer wieder*?
-
-4. Choose the natural word: *Es regnet ___ — den ganzen Tag schon.* (still, all day)\
-   a. noch\
-   b. wieder
-
-5. **Produce it:** The shop was closed and has reopened. Say so in German.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Er ist wieder krank.*
-2. **b** — left and came back.
-3. *immer noch* = still, one unbroken situation. *immer wieder* = over and over, separate repeated events.
-4. **a** — *Es regnet noch* (it hasn't stopped all day).
-5. A natural way to say this is **Das Geschäft ist wieder offen.**
-
-</details>
+[Take the **noch vs. wieder** quiz →](noch-vs-wieder-quiz.md)
 
 ## Related Pages
 

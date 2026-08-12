@@ -61,34 +61,11 @@ Same chunk, opposite emotional direction — the adjective decides.
 - **Using *nicht* with a noun.** *gar nicht Zeit* → **gar keine Zeit**.
 - **Confusing it with *gerade*.** Different words entirely — see [gerade](../words/gerade.md).
 
-## Mini Review
+## Check Your Understanding
 
-1. **Das ist gar nicht schwer.** What's the speaker doing?\
-   a. Warning you.\
-   b. Reassuring you.\
-   c. Complaining.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Ich habe ___ Zeit.* (no time at all)\
-   a. gar nicht\
-   b. gar keine\
-   c. nicht gar
-
-3. What does *gar* contribute on its own?
-
-4. **Recognition:** Is **Das gefällt mir gar nicht** positive or negative?
-
-5. **Produce it:** How would you say "I'm not tired at all" in German?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — reassuring: it's easier than you think.
-2. **b** — *Ich habe gar keine Zeit.*
-3. Nothing translatable on its own — it intensifies the negation that follows.
-4. Negative — strong dislike.
-5. **Ich bin gar nicht müde.**
-
-</details>
+[Take the **gar nicht** quiz →](gar-nicht-quiz.md)
 
 ## Related Pages
 

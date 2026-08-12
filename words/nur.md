@@ -115,37 +115,11 @@ The second version is softer. That's why *nur* is so common in polite speech —
 - **Wir haben nur noch eins.** — We've only got one left.
 - **Nur so.** — No particular reason.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural word: *Das kostet ___ fünf Euro.* (only five euros)\
-   a. nur\
-   b. noch\
-   c. auch
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. What's the difference between **Ich trinke nur Wasser** and **Nur ich trinke Wasser**?
-
-3. **Wir haben nur noch zwei Karten.** What is the situation?\
-   a. There are two tickets left, and that's all.\
-   b. Two tickets have been sold.\
-   c. Tickets cost two euros.
-
-4. Why does **Ich habe nur eine Frage** sound politer than **Ich habe eine Frage**?
-
-5. **Produce it:** How would you say "I only have ten euros" in German, using *nur*?
-
-6. **Produce it:** How would you say "That was just a joke"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *Das kostet nur fünf Euro.*
-2. The first limits what I drink (only water, nothing else). The second limits who drinks water (I'm the only one).
-3. **a** — only two are left.
-4. *nur* shrinks the request, signalling that you won't take much of the listener's time.
-5. **Ich habe nur zehn Euro.**
-6. A natural way to say this is **Das war nur ein Witz.** (*Das war nur Spaß* also works.)
-
-</details>
+[Take the **nur** quiz →](nur-quiz.md)
 
 ## Related Pages
 

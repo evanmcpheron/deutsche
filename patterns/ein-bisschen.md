@@ -65,33 +65,11 @@ German can sound blunt to English ears, and *ein bisschen* is one of the cheapes
 - **Using it with plurals.** For countable plurals you want *ein paar* ("a few"): *ein paar Freunde*, not *ein bisschen Freunde*.
 - **Spelling.** One *s* then double *s*: **bisschen**.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural form: *Ich spreche ___ Deutsch.*\
-   a. ein bisschen\
-   b. ein paar\
-   c. sehr
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Which is right for "a few friends"?\
-   a. ein bisschen Freunde\
-   b. ein paar Freunde
-
-3. Why might you add *ein bisschen* to **Das ist teuer**?
-
-4. **Produce it:** How would you say "I'm a little tired" in German?
-
-5. **Produce it:** Ask for a little milk in your coffee.
-
-<details>
-<summary>Show answers</summary>
-
-1. **a** — *Ich spreche ein bisschen Deutsch.*
-2. **b** — *ein paar Freunde.* Countable plurals take *ein paar*.
-3. To soften the judgement — it turns a verdict into a comment, and leaves room to negotiate or disagree politely.
-4. **Ich bin ein bisschen müde.**
-5. A natural way to say this is **Ein bisschen Milch, bitte.**
-
-</details>
+[Take the **ein bisschen** quiz →](ein-bisschen-quiz.md)
 
 ## Related Pages
 

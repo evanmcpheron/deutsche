@@ -155,39 +155,11 @@ One letter of difference in the article, two different situations. English needs
 - **In zehn Minuten bin ich da.** — I'll be there in ten minutes.
 - **Wir wohnen in der Nähe.** — We live nearby.
 
-## Mini Review
+## Check Your Understanding
 
-1. Choose the natural form: *Ich gehe ___ Kino.*\
-   a. im\
-   b. ins\
-   c. in der
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Das Buch ist ___ Regal.*\
-   a. im\
-   b. ins\
-   c. in das
-
-3. Which question does **Wir fahren in die Stadt** answer?\
-   a. Wo?\
-   b. Wohin?
-
-4. Contrast: **Ich bin in der Küche.** / **Ich gehe in die Küche.** What's different, and which word carries the difference?
-
-5. **Produce it:** How would you say "I'm going to the cinema" in German?
-
-6. **Produce it:** How would you say "the child is in bed"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *ins Kino* (movement → accusative).
-2. **a** — *im Regal* (location → dative).
-3. **b** — *Wohin?* Movement, so accusative: *in die Stadt.*
-4. The first says where I am; the second says where I'm heading. The difference is carried by the article: *der Küche* (dative) vs. *die Küche* (accusative).
-5. **Ich gehe ins Kino.**
-6. **Das Kind ist im Bett.**
-
-</details>
+[Take the **in** quiz →](in-quiz.md)
 
 ## Related Pages
 

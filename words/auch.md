@@ -114,34 +114,11 @@ I'm coming too. *(someone else is already coming)*
 - **Haben Sie auch Tee?** — Do you have tea as well?
 - **Das dachte ich auch.** — I thought so too.
 
-## Mini Review
+## Check Your Understanding
 
-1. Someone says *Ich habe keinen Hunger*. Which reply means "me neither"?\
-   a. Ich auch.\
-   b. Ich auch nicht.\
-   c. Ich nicht auch.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. What's the difference between **Ich trinke auch Kaffee** and **Auch ich trinke Kaffee**?
-
-3. Choose the natural word: *Wir fahren ___ nach München.* (we're going too)\
-   a. auch\
-   b. noch\
-   c. schon
-
-4. **Produce it:** How would you say "I'd like a coffee too" in German, using *auch*?
-
-5. **Produce it:** Someone says they're tired. How would you say "me too"?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich auch nicht.*
-2. The first adds coffee to the list of things *I* drink, or adds me to the list of coffee drinkers — it's the neutral, everyday version. The second puts the emphasis firmly on *me* ("I, too, drink coffee") and sounds more marked or formal.
-3. **a** — *Wir fahren auch nach München.*
-4. A natural way to say this is **Ich möchte auch einen Kaffee.**
-5. **Ich auch.**
-
-</details>
+[Take the **auch** quiz →](auch-quiz.md)
 
 ## Related Pages
 

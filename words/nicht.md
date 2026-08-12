@@ -135,37 +135,11 @@ I don't drink coffee. *(a specific noun is negated → [kein](kein.md))*
 - **Nicht schlecht!** — Not bad!
 - **Das macht nichts.** — That doesn't matter. *(nichts = "nothing," a different word — don't mix them up)*
 
-## Mini Review
+## Check Your Understanding
 
-1. Which sentence is correct?\
-   a. Ich nicht verstehe das.\
-   b. Ich verstehe das nicht.\
-   c. Ich verstehe nicht das.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. What does **Er kommt heute nicht** describe?\
-   a. He's coming, but late.\
-   b. He isn't coming today.\
-   c. He came yesterday.
-
-3. Fill in the natural negation: *Das Zimmer ist ___ groß.* (not big)
-
-4. Why is **Ich habe nicht Zeit** wrong, and what should it be?
-
-5. **Produce it:** How would you say "I can't come today" in German, using *nicht*?
-
-6. **Produce it:** How would you say "That isn't expensive" in German, using *nicht*?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — *Ich verstehe das nicht.* German puts *nicht* after the object here, not before the verb.
-2. **b** — He isn't coming today.
-3. **nicht** — *Das Zimmer ist nicht groß.* (*nicht* goes directly before the adjective.)
-4. *Zeit* is a noun, so it takes *kein*, not *nicht*: **Ich habe keine Zeit.**
-5. A natural way to say this is **Ich kann heute nicht kommen.** (*nicht* before the final verb.)
-6. A natural way to say this is **Das ist nicht teuer.**
-
-</details>
+[Take the **nicht** quiz →](nicht-quiz.md)
 
 ## Related Pages
 

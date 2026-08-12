@@ -8,18 +8,18 @@ Read them roughly in this order. The first six are Stage 1 in [Start Here](../ST
 
 | Word | Type | Rough sense | Tier | Goal |
 |---|---|---|---|---|
-| [nicht](nicht.md) | negation | not | 1 | Active |
-| [kein](kein.md) | negative article | no, not a | 1 | Active |
-| [auch](auch.md) | adverb | also, too | 1 | Active |
-| [noch](noch.md) | adverb / particle | still, yet, another | 1 | Active |
-| [schon](schon.md) | adverb / particle | already, by now | 1 | Active |
-| [nur](nur.md) | adverb / particle | only, just | 1 | Active |
-| [sehr](sehr.md) | adverb | very | 1 | Active |
-| [immer](immer.md) | adverb | always | 1 | Active |
-| [wieder](wieder.md) | adverb | again | 1 | Active |
-| [vielleicht](vielleicht.md) | adverb | maybe | 1 | Active |
-| [erst](erst.md) | adverb | only, not until, first | 2 | Recognition First |
-| [gerade](gerade.md) | adverb | right now, just | 2 | Recognition First |
+| [nicht](nicht.md) · [Quiz](nicht-quiz.md) | negation | not | 1 | Active |
+| [kein](kein.md) · [Quiz](kein-quiz.md) | negative article | no, not a | 1 | Active |
+| [auch](auch.md) · [Quiz](auch-quiz.md) | adverb | also, too | 1 | Active |
+| [noch](noch.md) · [Quiz](noch-quiz.md) | adverb / particle | still, yet, another | 1 | Active |
+| [schon](schon.md) · [Quiz](schon-quiz.md) | adverb / particle | already, by now | 1 | Active |
+| [nur](nur.md) · [Quiz](nur-quiz.md) | adverb / particle | only, just | 1 | Active |
+| [sehr](sehr.md) · [Quiz](sehr-quiz.md) | adverb | very | 1 | Active |
+| [immer](immer.md) · [Quiz](immer-quiz.md) | adverb | always | 1 | Active |
+| [wieder](wieder.md) · [Quiz](wieder-quiz.md) | adverb | again | 1 | Active |
+| [vielleicht](vielleicht.md) · [Quiz](vielleicht-quiz.md) | adverb | maybe | 1 | Active |
+| [erst](erst.md) · [Quiz](erst-quiz.md) | adverb | only, not until, first | 2 | Recognition First |
+| [gerade](gerade.md) · [Quiz](gerade-quiz.md) | adverb | right now, just | 2 | Recognition First |
 
 ## Words Whose Canonical Page Is Elsewhere
 

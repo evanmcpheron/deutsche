@@ -2,7 +2,7 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START_HERE.md)
 
-Every page here is self-contained and every page has an **answer key at the bottom**, separated from the questions. Nothing waits on a tutor.
+Every page here is self-contained and has a **solution dropdown directly below each question**. Nothing waits on a tutor.
 
 | Page | Covers | Do it after |
 |---|---|---|
@@ -24,7 +24,7 @@ The first four test **recognition**, which is what you build first. **Produce it
 
 ## How to Use Them
 
-1. Attempt every question before opening the answers. A wrong answer you committed to teaches more than a right answer you peeked at.
+1. Attempt each question before opening its solution. A wrong answer you committed to teaches more than a right answer you peeked at.
 2. Don't mark yourself on translation quality. Mark yourself on whether you understood the **situation**.
 3. Redo a page a week later rather than doing a new one. Rereading beats reading here.
 4. If you're getting under half right, go back to the word pages — the review isn't the problem.
@@ -32,7 +32,7 @@ The first four test **recognition**, which is what you build first. **Produce it
 ## Related Sections
 
 - [Study Guide](../STUDY_GUIDE.md) — spacing and routine
-- [Comparisons](../comparisons/README.md) — each comparison page has its own self-check
+- [Comparisons](../comparisons/README.md) — each comparison page links to its own quiz
 - [Words](../words/README.md) · [Prepositions](../prepositions/README.md) · [Particles](../particles/README.md)
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START_HERE.md)

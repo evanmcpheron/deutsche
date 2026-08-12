@@ -68,34 +68,11 @@ See [nicht mehr](nicht-mehr.md) and [noch vs. schon](../comparisons/noch-vs-scho
 - **Trying to translate *noch* separately.** In this chunk, *noch* isn't "still" in any way you can point at. Take the pair whole.
 - **Reaching for *schon nicht*.** The negative of *schon* is *noch nicht*, not *schon nicht*.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Der Bus ist noch nicht da.** What's the situation?\
-   a. The bus has left.\
-   b. The bus hasn't arrived yet.\
-   c. The bus isn't running today.
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. Choose the natural form: *Ich habe ___ Zeit gehabt.* (haven't had time yet)\
-   a. noch nicht\
-   b. noch keine\
-   c. nicht noch
-
-3. What's the negative of **Ich bin schon fertig**?
-
-4. **Produce it:** How would you say "I'm not finished yet" in German?
-
-5. **Produce it:** How would you say "we don't have a room yet", using *noch kein*?
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — it hasn't arrived yet.
-2. **b** — *Ich habe noch keine Zeit gehabt.* (*Zeit* is a noun → *kein*.)
-3. **Ich bin noch nicht fertig.**
-4. **Ich bin noch nicht fertig.**
-5. A natural way to say this is **Wir haben noch kein Zimmer.**
-
-</details>
+[Take the **noch nicht** quiz →](noch-nicht-quiz.md)
 
 ## Related Pages
 

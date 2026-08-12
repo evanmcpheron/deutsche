@@ -56,34 +56,11 @@ Recognize it; it's common in spoken German.
 - **Reading *mal* as "times."** In this chunk *mal* is short for *einmal* — "once, at some point."
 - **Dropping *schon*.** *Warst du mal in Berlin?* exists but is casual and less clear; the full *schon mal* is safer.
 
-## Mini Review
+## Check Your Understanding
 
-1. **Warst du schon mal in Hamburg?** What's being asked?\
-   a. Are you in Hamburg now?\
-   b. Have you ever been to Hamburg?\
-   c. Are you going to Hamburg?
+The quiz for this page is kept separately so you can work through the lesson without the answers appearing below it.
 
-2. How do you answer "no, never" to that question?\
-   a. Nein, nicht schon mal.\
-   b. Nein, noch nie.\
-   c. Nein, schon nicht.
-
-3. **Ich fange schon mal an.** What's the speaker doing?\
-   a. Starting ahead of the others.\
-   b. Refusing to start.\
-   c. Asking when to start.
-
-4. **Produce it:** Ask a friend whether they've ever tried German food, using *schon mal*.
-
-<details>
-<summary>Show answers</summary>
-
-1. **b** — have you ever been there.
-2. **b** — *Nein, noch nie.*
-3. **a** — going ahead and starting now.
-4. A natural way to say this is **Hast du schon mal deutsches Essen probiert?**
-
-</details>
+[Take the **schon mal** quiz →](schon-mal-quiz.md)
 
 ## Related Pages
 
