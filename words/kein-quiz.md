@@ -1,6 +1,6 @@
 # Quiz: kein
 
-[← Back to **kein**](kein.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **kein**](kein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -390,4 +390,4 @@ Hunger / habe / keinen / ich
 
 ---
 
-[← Back to **kein**](kein.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **kein**](kein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

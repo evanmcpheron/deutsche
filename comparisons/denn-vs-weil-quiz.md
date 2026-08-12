@@ -1,6 +1,6 @@
 # Quiz: denn vs. weil
 
-[← Back to **denn vs. weil**](denn-vs-weil.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **denn vs. weil**](denn-vs-weil.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -397,4 +397,4 @@ denn / keine / habe / ich / Zeit
 
 ---
 
-[← Back to **denn vs. weil**](denn-vs-weil.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **denn vs. weil**](denn-vs-weil.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

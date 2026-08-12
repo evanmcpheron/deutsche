@@ -1,6 +1,6 @@
 # Preposition Overview
 
-[← Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [Category Index](README.md) | [Next → Cases at a Glance](cases-at-a-glance.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [Category Index](./README.md) | [Next → Cases at a Glance](cases-at-a-glance.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 How to choose between German prepositions when English gives you only one word to work with.
 
@@ -109,4 +109,4 @@ Completely normal German, not shortcuts:
 - [bei vs. mit](../comparisons/bei-vs-mit.md)
 - [in vs. nach](../comparisons/in-vs-nach.md)
 
-[← Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [Category Index](README.md) | [Next → Cases at a Glance](cases-at-a-glance.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [Category Index](./README.md) | [Next → Cases at a Glance](cases-at-a-glance.md) | [↑ Master Index](../MASTER_INDEX.md)

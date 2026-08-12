@@ -1,6 +1,6 @@
 # Quiz: zu Hause vs. nach Hause
 
-[← Back to **zu Hause vs. nach Hause**](zu-hause-vs-nach-hause.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu Hause vs. nach Hause**](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -444,4 +444,4 @@ Hause / heute / nach / gehe / früh / ich
 
 ---
 
-[← Back to **zu Hause vs. nach Hause**](zu-hause-vs-nach-hause.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu Hause vs. nach Hause**](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -3,7 +3,7 @@
 **Covers:** everything in this repository
 **Do this after:** Stage 3 of [Start Here](../START_HERE.md) — then again a month later
 
-[← Recognition 02](recognition-02.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Recognition 02](recognition-02.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Take it twice, a month apart, and keep both scores. The comparison tells you more than either number does on its own.
 
@@ -445,4 +445,4 @@ For **Part E**, don't count small grammar slips against yourself. If a German sp
 - [Recognition 02](recognition-02.md)
 - [Study Guide](../STUDY_GUIDE.md)
 
-[← Recognition 02](recognition-02.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Recognition 02](recognition-02.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

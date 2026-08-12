@@ -1,6 +1,6 @@
 # Quiz: schon
 
-[← Back to **schon**](schon.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **schon**](schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -403,4 +403,4 @@ du / gegessen / schon / hast
 
 ---
 
-[← Back to **schon**](schon.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **schon**](schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

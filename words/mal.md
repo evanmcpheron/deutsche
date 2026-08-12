@@ -3,7 +3,7 @@
 **Type:** Modal particle; also "times" and short for *einmal*
 **Canonical page:** [particles/mal.md](../particles/mal.md)
 
-[Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 *mal* could sit in either `words/` or `particles/`. Under this repository's placement rule —
 
@@ -22,4 +22,4 @@ The arithmetic use (*zwei mal drei* — two times three) and the *einmal* shorte
 - [Modal Particles Overview](../reference/modal-particles-overview.md)
 - [Words index](README.md)
 
-[Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

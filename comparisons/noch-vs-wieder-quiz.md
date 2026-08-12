@@ -1,6 +1,6 @@
 # Quiz: noch vs. wieder
 
-[← Back to **noch vs. wieder**](noch-vs-wieder.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch vs. wieder**](noch-vs-wieder.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -471,4 +471,4 @@ da / wieder / gleich / bin / ich
 
 ---
 
-[← Back to **noch vs. wieder**](noch-vs-wieder.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch vs. wieder**](noch-vs-wieder.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

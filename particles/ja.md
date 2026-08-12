@@ -5,7 +5,7 @@
 **Priority:** Tier 3 *as a particle*
 **Knowledge goal:** Passive
 
-[← eigentlich](eigentlich.md) | [Category Index](README.md) | [Next → eben](eben.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← eigentlich](eigentlich.md) | [Category Index](./README.md) | [Next → eben](eben.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -117,4 +117,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [eben](eben.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← eigentlich](eigentlich.md) | [Category Index](README.md) | [Next → eben](eben.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← eigentlich](eigentlich.md) | [Category Index](./README.md) | [Next → eben](eben.md) | [↑ Master Index](../MASTER_INDEX.md)

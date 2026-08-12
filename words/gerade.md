@@ -5,7 +5,7 @@
 **Priority:** Tier 2
 **Knowledge goal:** Recognition First
 
-[← erst](erst.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← erst](erst.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -105,4 +105,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Travel Patterns](../phrases/travel-patterns.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← erst](erst.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← erst](erst.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

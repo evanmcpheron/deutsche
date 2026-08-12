@@ -1,6 +1,6 @@
 # How to Read Without Translating
 
-[← Modal Particles Overview](modal-particles-overview.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Modal Particles Overview](modal-particles-overview.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 The most useful reading skill at A1 is **tolerating incomplete understanding**. This page is short on purpose — the skill is a habit, not a body of knowledge.
 
@@ -77,4 +77,4 @@ That's not failure. That's how reading works in your first language too.
 - [Phrases](../phrases/README.md)
 - [Start Here](../START_HERE.md)
 
-[← Modal Particles Overview](modal-particles-overview.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Modal Particles Overview](modal-particles-overview.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -6,7 +6,7 @@
 **Knowledge goal:** Recognition First
 **Canonical page:** this one *(stub in [words/doch.md](../words/doch.md))*
 
-[← denn](denn.md) | [Category Index](README.md) | [Next → eigentlich](eigentlich.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← denn](denn.md) | [Category Index](./README.md) | [Next → eigentlich](eigentlich.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -145,4 +145,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [words/doch.md](../words/doch.md) — stub explaining the placement
 
-[← denn](denn.md) | [Category Index](README.md) | [Next → eigentlich](eigentlich.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← denn](denn.md) | [Category Index](./README.md) | [Next → eigentlich](eigentlich.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -1,6 +1,6 @@
 # Quiz: auch vs. noch
 
-[← Back to **auch vs. noch**](auch-vs-noch.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **auch vs. noch**](auch-vs-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -36,13 +36,13 @@ Nothing here tells you which word is being tested. Ask yourself whether somethin
 
 **Answer:** **b**
 
-**Explanation:** Same person, one more unit — *noch ein…*. Compare question 1: identical words except the small one, and the waiter learns something completely different about the table.
+**Explanation:** Same person, one more unit — _noch ein…_. Compare question 1: identical words except the small one, and the waiter learns something completely different about the table.
 
 </details>
 
 3. What's the quick test for the café situation?\
-   a. Andere Person → *auch*; dieselbe Person, zweites Glas → *noch*.\
-   b. Andere Person → *noch*; dieselbe Person → *auch*.\
+   a. Andere Person → _auch_; dieselbe Person, zweites Glas → _noch_.\
+   b. Andere Person → _noch_; dieselbe Person → _auch_.\
    c. Beide Wörter gehen immer.\
    d. Es hängt vom Getränk ab.
 
@@ -51,7 +51,7 @@ Nothing here tells you which word is being tested. Ask yourself whether somethin
 
 **Answer:** **a**
 
-**Explanation:** If a *different person* wants one, it's *auch*. If the *same person* wants a second, it's *noch*. That one test settles most café situations.
+**Explanation:** If a _different person_ wants one, it's _auch_. If the _same person_ wants a second, it's _noch_. That one test settles most café situations.
 
 </details>
 
@@ -81,7 +81,7 @@ Nothing here tells you which word is being tested. Ask yourself whether somethin
 
 **Answer:** **d**
 
-**Explanation:** More of the same thing — topping up. Nothing new is joining the menu, so *auch* has nothing to add.
+**Explanation:** More of the same thing — topping up. Nothing new is joining the menu, so _auch_ has nothing to add.
 
 </details>
 
@@ -92,17 +92,17 @@ A: Ich habe Hunger.
 B: ___
 ```
 
-   a. Ich noch.\
-   b. Ich auch.\
-   c. Noch ich.\
-   d. Ich noch nicht.
+a. Ich noch.\
+ b. Ich auch.\
+ c. Noch ich.\
+ d. Ich noch nicht.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** B is joining A in being hungry, so *Ich auch*. *Ich noch* is not a possible reply here — "me too" never uses *noch*.
+**Explanation:** B is joining A in being hungry, so _Ich auch_. _Ich noch_ is not a possible reply here — "me too" never uses _noch_.
 
 </details>
 
@@ -121,7 +121,7 @@ B: ___
 
 **Answer:** **a**
 
-**Explanation:** She joins a group that's already going. *Anna kommt noch* would mean she's on the way but hasn't arrived — a fact about timing, not about the guest list.
+**Explanation:** She joins a group that's already going. _Anna kommt noch_ would mean she's on the way but hasn't arrived — a fact about timing, not about the guest list.
 
 </details>
 
@@ -136,7 +136,7 @@ B: ___
 
 **Answer:** **d**
 
-**Explanation:** One extra person on top of those already there, still to arrive — *noch jemand*. This is the "one more unit" use applied to people rather than drinks.
+**Explanation:** One extra person on top of those already there, still to arrive — _noch jemand_. This is the "one more unit" use applied to people rather than drinks.
 
 </details>
 
@@ -151,60 +151,60 @@ B: ___
 
 **Answer:** **c**
 
-**Explanation:** *auch Zeit* = I have time as well as you do. *noch Zeit* = my time hasn't run out. One is about other people, the other about the clock.
+**Explanation:** _auch Zeit_ = I have time as well as you do. _noch Zeit_ = my time hasn't run out. One is about other people, the other about the clock.
 
 </details>
 
 10. The waiter has just brought you a beer and you'd like a second. Which should you **not** say?\
-   a. Ich möchte auch ein Bier.\
-   b. Noch ein Bier, bitte.\
-   c. Ich möchte noch ein Bier.\
-   d. Kann ich noch ein Bier haben?
+    a. Ich möchte auch ein Bier.\
+    b. Noch ein Bier, bitte.\
+    c. Ich möchte noch ein Bier.\
+    d. Kann ich noch ein Bier haben?
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** To a server who just put a beer in front of you, *auch* sounds like you're comparing yourself with someone else at another table. The other three all ask for one more.
+**Explanation:** To a server who just put a beer in front of you, _auch_ sounds like you're comparing yourself with someone else at another table. The other three all ask for one more.
 
 </details>
 
 11. You want to say: **Me too.** A learner writes **Ich noch.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — richtig ist *Ich auch.*\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+    a. Richtig — genau diese Bedeutung.\
+    b. Falsch — richtig ist _Ich auch._\
+    c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
+    d. Richtig, aber unhöflich.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** *Ich noch* isn't a reply German uses at all. Agreement always goes through *auch* — *Ich auch* for a positive statement, *Ich auch nicht* for a negative one.
+**Explanation:** _Ich noch_ isn't a reply German uses at all. Agreement always goes through _auch_ — _Ich auch_ for a positive statement, _Ich auch nicht_ for a negative one.
 
 </details>
 
 12. You have three chairs at the table and six people coming.\
-   a. Wir haben auch zwei Stühle.\
-   b. Wir brauchen auch zwei Stühle.\
-   c. Wir haben noch zwei Stühle.\
-   d. Wir brauchen noch drei Stühle.
+    a. Wir haben auch zwei Stühle.\
+    b. Wir brauchen auch zwei Stühle.\
+    c. Wir haben noch zwei Stühle.\
+    d. Wir brauchen noch drei Stühle.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **d**
 
-**Explanation:** More of the same item, on top of what's there — *noch drei Stühle*. Option c reports what you already have rather than what's missing.
+**Explanation:** More of the same item, on top of what's there — _noch drei Stühle_. Option c reports what you already have rather than what's missing.
 
 </details>
 
 13. Which sentence adds a **new kind of thing** rather than more of the same?\
-   a. Möchtest du noch Brot?\
-   b. Wir brauchen noch Milch.\
-   c. Wir haben auch Kuchen.\
-   d. Ist noch Kaffee da?
+    a. Möchtest du noch Brot?\
+    b. Wir brauchen noch Milch.\
+    c. Wir haben auch Kuchen.\
+    d. Ist noch Kaffee da?
 
 <details>
 <summary>Show solution</summary>
@@ -222,17 +222,17 @@ A: Ich habe keinen Hunger.
 B: ___
 ```
 
-   a. Ich noch nicht.\
-   b. Ich nicht auch.\
-   c. Ich auch.\
-   d. Ich auch nicht.
+a. Ich noch nicht.\
+ b. Ich nicht auch.\
+ c. Ich auch.\
+ d. Ich auch nicht.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **d**
 
-**Explanation:** Agreeing with a negative needs *auch nicht*, in that order. *Ich auch* would agree with a positive statement and reverse B's meaning.
+**Explanation:** Agreeing with a negative needs _auch nicht_, in that order. _Ich auch_ would agree with a positive statement and reverse B's meaning.
 
 </details>
 
@@ -240,41 +240,41 @@ B: ___
 
 ## Part C — Apply It
 
-15. At the bakery. You've asked for a loaf, and the assistant says *Noch etwas?* You'd like two rolls as well.\
-   a. Auch zwei Brötchen, bitte.\
-   b. Noch zwei Brötchen, bitte.\
-   c. Wieder zwei Brötchen, bitte.\
-   d. Nur zwei Brötchen, bitte.
+15. At the bakery. You've asked for a loaf, and the assistant says _Noch etwas?_ You'd like two rolls as well.\
+    a. Auch zwei Brötchen, bitte.\
+    b. Noch zwei Brötchen, bitte.\
+    c. Wieder zwei Brötchen, bitte.\
+    d. Nur zwei Brötchen, bitte.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** You're adding to your **own** order, so it's the topping-up word. *auch* would only fit if you were matching somebody else's order.
+**Explanation:** You're adding to your **own** order, so it's the topping-up word. _auch_ would only fit if you were matching somebody else's order.
 
 </details>
 
 16. Which sentence would a waiter understand as "another one for me"?\
-   a. Ich möchte auch einen Tee.\
-   b. Ich möchte wieder einen Tee.\
-   c. Ich möchte noch einen Tee.\
-   d. Ich möchte nur einen Tee.
+    a. Ich möchte auch einen Tee.\
+    b. Ich möchte wieder einen Tee.\
+    c. Ich möchte noch einen Tee.\
+    d. Ich möchte nur einen Tee.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** *noch einen* is the standard way to order a second. Option b would suggest you had tea, it was taken away, and you want the same thing back.
+**Explanation:** _noch einen_ is the standard way to order a second. Option b would suggest you had tea, it was taken away, and you want the same thing back.
 
 </details>
 
-17. A learner says *Ich möchte auch ein Bier* to a server who has just brought them one. How does it come across?\
-   a. Ganz normal.\
-   b. Unhöflich.\
-   c. Als würde man sich mit jemand anderem vergleichen.\
-   d. Als hätte man nichts bestellt.
+17. A learner says _Ich möchte auch ein Bier_ to a server who has just brought them one. How does it come across?\
+    a. Ganz normal.\
+    b. Unhöflich.\
+    c. Als würde man sich mit jemand anderem vergleichen.\
+    d. Als hätte man nichts bestellt.
 
 <details>
 <summary>Show solution</summary>
@@ -292,10 +292,10 @@ A: Wir fahren im Sommer nach Italien.
 B: Wir ___!
 ```
 
-   a. noch\
-   b. auch\
-   c. wieder\
-   d. schon
+a. noch\
+ b. auch\
+ c. wieder\
+ d. schon
 
 <details>
 <summary>Show solution</summary>
@@ -307,25 +307,25 @@ B: Wir ___!
 </details>
 
 19. Which is the correct order for "me neither"?\
-   a. Ich auch nicht.\
-   b. Ich nicht auch.\
-   c. Nicht ich auch.\
-   d. Auch nicht ich.
+    a. Ich auch nicht.\
+    b. Ich nicht auch.\
+    c. Nicht ich auch.\
+    d. Auch nicht ich.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** Fixed order, *auch* before *nicht*. Reversing them doesn't change the meaning — it just produces something German speakers don't say.
+**Explanation:** Fixed order, _auch_ before _nicht_. Reversing them doesn't change the meaning — it just produces something German speakers don't say.
 
 </details>
 
 20. In which sentence does the small word add **one more unit** of something already there?\
-   a. Anna kommt auch.\
-   b. Wir haben auch Tee.\
-   c. Wir brauchen noch zwei Stühle.\
-   d. Ich habe auch Zeit.
+    a. Anna kommt auch.\
+    b. Wir haben auch Tee.\
+    c. Wir brauchen noch zwei Stühle.\
+    d. Ich habe auch Zeit.
 
 <details>
 <summary>Show solution</summary>
@@ -337,32 +337,32 @@ B: Wir ___!
 </details>
 
 21. You and your partner were both invited to a party. He tells the host he's coming, and so are you.\
-   a. Ich komme noch.\
-   b. Ich komme wieder.\
-   c. Ich komme schon.\
-   d. Ich komme auch.
+    a. Ich komme noch.\
+    b. Ich komme wieder.\
+    c. Ich komme schon.\
+    d. Ich komme auch.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **d**
 
-**Explanation:** You're joining a guest list that already includes him. *Ich komme noch* would tell the host you're running late.
+**Explanation:** You're joining a guest list that already includes him. _Ich komme noch_ would tell the host you're running late.
 
 </details>
 
 22. In a shop, **Möchten Sie noch etwas?** — what is being offered?\
-   a. Etwas ganz anderes als bisher.\
-   b. Ein Ersatz für die Bestellung.\
-   c. Ein weiterer Artikel zusätzlich zur Bestellung.\
-   d. Eine zweite Person in der Schlange.
+    a. Etwas ganz anderes als bisher.\
+    b. Ein Ersatz für die Bestellung.\
+    c. Ein weiterer Artikel zusätzlich zur Bestellung.\
+    d. Eine zweite Person in der Schlange.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** One more item on top of what you've already asked for — the classic *noch* offer. You'll hear this in every bakery and every café.
+**Explanation:** One more item on top of what you've already asked for — the classic _noch_ offer. You'll hear this in every bakery and every café.
 
 </details>
 
@@ -371,10 +371,10 @@ B: Wir ___!
 ## Part D — Retrieve and Produce
 
 23. **Select all that apply.** In which sentences does the small word bring in a **new participant**?\
-   a. Anna kommt auch.\
-   b. Ich möchte noch einen Kaffee.\
-   c. Wir haben auch Tee.\
-   d. Ich habe auch Zeit.
+    a. Anna kommt auch.\
+    b. Ich möchte noch einen Kaffee.\
+    c. Wir haben auch Tee.\
+    d. Ich habe auch Zeit.
 
 <details>
 <summary>Show solution</summary>
@@ -387,7 +387,7 @@ B: Wir ___!
 
 24. Fill in the missing word. No options given.
 
-   A colleague mentions she's taking Friday off. You're taking it off too.
+A colleague mentions she's taking Friday off. You're taking it off too.
 
 ```text
 Ich nehme ___ frei.
@@ -398,13 +398,13 @@ Ich nehme ___ frei.
 
 **Answer:** **auch**
 
-**Explanation:** You're joining her, so *auch*. *Ich nehme noch frei* would suggest you're taking an extra day on top of days you've already booked.
+**Explanation:** You're joining her, so _auch_. _Ich nehme noch frei_ would suggest you're taking an extra day on top of days you've already booked.
 
 </details>
 
 25. Fill in the missing word. No options given.
 
-   You've eaten one slice of cake and would like a second.
+You've eaten one slice of cake and would like a second.
 
 ```text
 Ich möchte ___ ein Stück, bitte.
@@ -415,26 +415,27 @@ Ich möchte ___ ein Stück, bitte.
 
 **Answer:** **noch**
 
-**Explanation:** Same person, one more unit. *auch ein Stück* would mean you want a slice because somebody else is having one.
+**Explanation:** Same person, one more unit. _auch ein Stück_ would mean you want a slice because somebody else is having one.
 
 </details>
 
 26. **Produce it:** Write B's reply in each case.
 
-   1. A: *Ich habe keine Zeit.* B agrees.
-   2. A: *Ich habe Zeit.* B agrees.
+1. A: _Ich habe keine Zeit._ B agrees.
+1. A: _Ich habe Zeit._ B agrees.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:**\
+
 1. **Ich auch nicht.**\
 2. **Ich auch.**
 
-**Explanation:** Two of the most useful two-word replies in German, and the only thing that changes is whether A's sentence was negative. Neither of them can use *noch*.
+**Explanation:** Two of the most useful two-word replies in German, and the only thing that changes is whether A's sentence was negative. Neither of them can use _noch_.
 
 </details>
 
 ---
 
-[← Back to **auch vs. noch**](auch-vs-noch.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **auch vs. noch**](auch-vs-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

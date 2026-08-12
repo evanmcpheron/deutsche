@@ -4,7 +4,7 @@
 **Means:** from … to …
 **Level:** A1 · **Tier 1** · **Active**
 
-[← gar nicht](gar-nicht.md) | [Category Index](README.md) | [Next → ein bisschen](ein-bisschen.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← gar nicht](gar-nicht.md) | [Category Index](./README.md) | [Next → ein bisschen](ein-bisschen.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -75,4 +75,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [um](../prepositions/um.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← gar nicht](gar-nicht.md) | [Category Index](README.md) | [Next → ein bisschen](ein-bisschen.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← gar nicht](gar-nicht.md) | [Category Index](./README.md) | [Next → ein bisschen](ein-bisschen.md) | [↑ Master Index](../MASTER_INDEX.md)

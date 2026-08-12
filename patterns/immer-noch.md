@@ -4,7 +4,7 @@
 **Means:** still, even now
 **Level:** A1 · **Tier 1** · **Active**
 
-[← noch ein …](noch-ein.md) | [Category Index](README.md) | [Next → schon mal](schon-mal.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch ein …](noch-ein.md) | [Category Index](./README.md) | [Next → schon mal](schon-mal.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -77,4 +77,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht mehr](nicht-mehr.md)
 - [noch vs. wieder](../comparisons/noch-vs-wieder.md)
 
-[← noch ein …](noch-ein.md) | [Category Index](README.md) | [Next → schon mal](schon-mal.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch ein …](noch-ein.md) | [Category Index](./README.md) | [Next → schon mal](schon-mal.md) | [↑ Master Index](../MASTER_INDEX.md)

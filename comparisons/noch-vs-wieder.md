@@ -3,7 +3,7 @@
 **Compares:** [noch](../words/noch.md) · [wieder](../words/wieder.md)
 **Level:** A1 · **Tier 1**
 
-[← erst vs. schon](erst-vs-schon.md) | [Category Index](README.md) | [Next → nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← erst vs. schon](erst-vs-schon.md) | [Category Index](./README.md) | [Next → nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -76,4 +76,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [immer noch](../patterns/immer-noch.md)
 - [noch vs. schon](noch-vs-schon.md)
 
-[← erst vs. schon](erst-vs-schon.md) | [Category Index](README.md) | [Next → nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← erst vs. schon](erst-vs-schon.md) | [Category Index](./README.md) | [Next → nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)

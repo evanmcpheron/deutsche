@@ -69,7 +69,7 @@ Most questions test **recognition** — do you understand the situation the sent
 Every page has a navigation line at the top:
 
 ```
-[← Previous](previous.md) | [Category Index](README.md) | [Next →](next.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Previous](previous.md) | [Category Index](./README.md) | [Next →](next.md) | [↑ Master Index](../MASTER_INDEX.md)
 ```
 
 and a **Related Pages** section at the bottom. All links are ordinary relative Markdown links, so they work when you browse this repository on GitHub, and they keep working if you clone it and read it in any Markdown editor. Nothing here needs JavaScript, a site generator, or a plugin.

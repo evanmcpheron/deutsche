@@ -3,7 +3,7 @@
 **Compares:** [denn](../particles/denn.md) · *weil*
 **Level:** A1–A2 · **Tier 2**
 
-[← zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -72,4 +72,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [Modal Particles Overview](../reference/modal-particles-overview.md)
 
-[← zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

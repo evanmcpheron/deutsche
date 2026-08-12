@@ -4,7 +4,7 @@
 **Means:** ever, at some point before now
 **Level:** A1–A2 · **Tier 2** · **Recognition First**
 
-[← immer noch](immer-noch.md) | [Category Index](README.md) | [Next → nicht mehr](nicht-mehr.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← immer noch](immer-noch.md) | [Category Index](./README.md) | [Next → nicht mehr](nicht-mehr.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -70,4 +70,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](../comparisons/noch-vs-schon.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← immer noch](immer-noch.md) | [Category Index](README.md) | [Next → nicht mehr](nicht-mehr.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← immer noch](immer-noch.md) | [Category Index](./README.md) | [Next → nicht mehr](nicht-mehr.md) | [↑ Master Index](../MASTER_INDEX.md)

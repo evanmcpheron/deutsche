@@ -3,7 +3,7 @@
 **Compares:** [auch](../words/auch.md) · [noch](../words/noch.md)
 **Level:** A1 · **Tier 1**
 
-[← nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [Category Index](README.md) | [Next → gerade vs. jetzt](gerade-vs-jetzt.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [Next → gerade vs. jetzt](gerade-vs-jetzt.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -14,32 +14,32 @@ Both can feel like "also" in English, but they add different kinds of thing.
 
 Order a coffee, then:
 
-- **Ich möchte auch einen Kaffee.** — I want a coffee too. *(someone else already ordered one)*
-- **Ich möchte noch einen Kaffee.** — I want another coffee. *(I've already had one)*
+- **Ich möchte auch einen Kaffee.** — I want a coffee too. _(someone else already ordered one)_
+- **Ich möchte noch einen Kaffee.** — I want another coffee. _(I've already had one)_
 
 ## Contrasting Examples
 
 **Wir haben auch Tee.**
-We have tea as well. *(in addition to coffee — a different item)*
+We have tea as well. _(in addition to coffee — a different item)_
 
 **Wir brauchen noch Tee.**
-We need more tea. *(the tea is running out)*
+We need more tea. _(the tea is running out)_
 
 ---
 
 **Anna kommt auch.**
-Anna's coming too. *(joining the others)*
+Anna's coming too. _(joining the others)_
 
 **Es kommt noch jemand.**
-Someone else is coming as well. *(one more person still to arrive)*
+Someone else is coming as well. _(one more person still to arrive)_
 
 ---
 
 **Ich habe auch Zeit.**
-I have time too. *(like you)*
+I have time too. _(like you)_
 
 **Ich habe noch Zeit.**
-I still have time. *(my time hasn't run out)*
+I still have time. _(my time hasn't run out)_
 
 ## Rule of Thumb
 
@@ -48,13 +48,13 @@ Ask: **is something joining, or is something being topped up?**
 - Joining → **auch**
 - Topped up, or not yet finished → **noch**
 
-Quick test for the café: if a *different person* wants one, it's *auch*. If the *same person* wants a second, it's *noch*.
+Quick test for the café: if a _different person_ wants one, it's _auch_. If the _same person_ wants a second, it's _noch_.
 
 ## Common Mistakes
 
-- **Using *auch* to order a second drink.** *Ich möchte auch ein Bier* to a server who's just brought you one sounds like you're comparing yourself with someone else. Say **noch ein Bier**.
-- **Using *noch* for "me too."** The reply to *Ich habe Hunger* is **Ich auch**, never *Ich noch*.
-- **Forgetting *auch nicht*.** "Me neither" is **Ich auch nicht**.
+- **Using _auch_ to order a second drink.** _Ich möchte auch ein Bier_ to a server who's just brought you one sounds like you're comparing yourself with someone else. Say **noch ein Bier**.
+- **Using _noch_ for "me too."** The reply to _Ich habe Hunger_ is **Ich auch**, never _Ich noch_.
+- **Forgetting _auch nicht_.** "Me neither" is **Ich auch nicht**.
 
 ## Check Your Understanding
 
@@ -70,4 +70,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](noch-vs-schon.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [Category Index](README.md) | [Next → gerade vs. jetzt](gerade-vs-jetzt.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [Next → gerade vs. jetzt](gerade-vs-jetzt.md) | [↑ Master Index](../MASTER_INDEX.md)

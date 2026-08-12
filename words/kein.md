@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — very high
 **Knowledge goal:** Active
 
-[← nicht](nicht.md) | [Category Index](README.md) | [Next → auch](auch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht](nicht.md) | [Category Index](./README.md) | [Next → auch](auch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -126,4 +126,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [gar nicht](../patterns/gar-nicht.md)
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 
-[← nicht](nicht.md) | [Category Index](README.md) | [Next → auch](auch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht](nicht.md) | [Category Index](./README.md) | [Next → auch](auch.md) | [↑ Master Index](../MASTER_INDEX.md)

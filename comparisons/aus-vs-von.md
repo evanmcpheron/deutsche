@@ -3,7 +3,7 @@
 **Compares:** [aus](../prepositions/aus.md) · [von](../prepositions/von.md)
 **Level:** A1 · **Tier 1**
 
-[← in vs. nach](in-vs-nach.md) | [Category Index](README.md) | [Next → bei vs. mit](bei-vs-mit.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← in vs. nach](in-vs-nach.md) | [Category Index](./README.md) | [Next → bei vs. mit](bei-vs-mit.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -81,4 +81,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [bei vs. mit](bei-vs-mit.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← in vs. nach](in-vs-nach.md) | [Category Index](README.md) | [Next → bei vs. mit](bei-vs-mit.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← in vs. nach](in-vs-nach.md) | [Category Index](./README.md) | [Next → bei vs. mit](bei-vs-mit.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -3,7 +3,7 @@
 **Compares:** [zu](../prepositions/zu.md) · [nach](../prepositions/nach.md)
 **Level:** A1 · **Tier 1** · **Active**
 
-[← bei vs. mit](bei-vs-mit.md) | [Category Index](README.md) | [Next → denn vs. weil](denn-vs-weil.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← bei vs. mit](bei-vs-mit.md) | [Category Index](./README.md) | [Next → denn vs. weil](denn-vs-weil.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -89,4 +89,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← bei vs. mit](bei-vs-mit.md) | [Category Index](README.md) | [Next → denn vs. weil](denn-vs-weil.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← bei vs. mit](bei-vs-mit.md) | [Category Index](./README.md) | [Next → denn vs. weil](denn-vs-weil.md) | [↑ Master Index](../MASTER_INDEX.md)

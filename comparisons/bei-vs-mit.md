@@ -3,7 +3,7 @@
 **Compares:** [bei](../prepositions/bei.md) · [mit](../prepositions/mit.md)
 **Level:** A1 · **Tier 1**
 
-[← aus vs. von](aus-vs-von.md) | [Category Index](README.md) | [Next → zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← aus vs. von](aus-vs-von.md) | [Category Index](./README.md) | [Next → zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -76,4 +76,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [aus vs. von](aus-vs-von.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← aus vs. von](aus-vs-von.md) | [Category Index](README.md) | [Next → zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← aus vs. von](aus-vs-von.md) | [Category Index](./README.md) | [Next → zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [↑ Master Index](../MASTER_INDEX.md)

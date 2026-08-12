@@ -4,7 +4,7 @@
 **Means:** not at all
 **Level:** A1–A2 · **Tier 2** · **Recognition First**
 
-[← nicht mehr](nicht-mehr.md) | [Category Index](README.md) | [Next → von … bis …](von-bis.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht mehr](nicht-mehr.md) | [Category Index](./README.md) | [Next → von … bis …](von-bis.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -75,4 +75,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht vs. kein](../comparisons/nicht-vs-kein.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← nicht mehr](nicht-mehr.md) | [Category Index](README.md) | [Next → von … bis …](von-bis.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht mehr](nicht-mehr.md) | [Category Index](./README.md) | [Next → von … bis …](von-bis.md) | [↑ Master Index](../MASTER_INDEX.md)

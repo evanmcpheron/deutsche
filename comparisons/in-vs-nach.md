@@ -3,7 +3,7 @@
 **Compares:** [in](../prepositions/in.md) · [nach](../prepositions/nach.md)
 **Level:** A1 · **Tier 1**
 
-[← zu vs. nach](zu-vs-nach.md) | [Category Index](README.md) | [Next → aus vs. von](aus-vs-von.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← zu vs. nach](zu-vs-nach.md) | [Category Index](./README.md) | [Next → aus vs. von](aus-vs-von.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -88,4 +88,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← zu vs. nach](zu-vs-nach.md) | [Category Index](README.md) | [Next → aus vs. von](aus-vs-von.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← zu vs. nach](zu-vs-nach.md) | [Category Index](./README.md) | [Next → aus vs. von](aus-vs-von.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -1,6 +1,6 @@
 # Quiz: nur
 
-[← Back to **nur**](nur.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nur**](nur.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -359,4 +359,4 @@ noch / haben / wir / Minuten / nur / zwei
 
 ---
 
-[← Back to **nur**](nur.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nur**](nur.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

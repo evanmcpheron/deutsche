@@ -1,6 +1,6 @@
 # Quiz: halt
 
-[← Back to **halt**](halt.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **halt**](halt.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -75,4 +75,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **halt**](halt.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **halt**](halt.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

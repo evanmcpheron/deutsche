@@ -1,6 +1,6 @@
 # Conversation Patterns
 
-[← Everyday Patterns](everyday-patterns.md) | [Category Index](README.md) | [Next → Travel Patterns](travel-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Everyday Patterns](everyday-patterns.md) | [Category Index](./README.md) | [Next → Travel Patterns](travel-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Reacting, agreeing, hesitating, softening. This is where the [particles](../particles/README.md) actually live — read this page alongside them.
 
@@ -101,4 +101,4 @@ Most of the lines above would still be *grammatically* fine with the particle re
 - [Everyday Patterns](everyday-patterns.md)
 - [Recognition 02](../review/recognition-02.md)
 
-[← Everyday Patterns](everyday-patterns.md) | [Category Index](README.md) | [Next → Travel Patterns](travel-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Everyday Patterns](everyday-patterns.md) | [Category Index](./README.md) | [Next → Travel Patterns](travel-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)

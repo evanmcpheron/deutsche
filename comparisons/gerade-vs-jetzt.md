@@ -3,7 +3,7 @@
 **Compares:** [gerade](../words/gerade.md) · *jetzt*
 **Level:** A1–A2 · **Tier 2**
 
-[← auch vs. noch](auch-vs-noch.md) | [Category Index](README.md) | [Next → nicht vs. kein](nicht-vs-kein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auch vs. noch](auch-vs-noch.md) | [Category Index](./README.md) | [Next → nicht vs. kein](nicht-vs-kein.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -74,4 +74,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [schon](../words/schon.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← auch vs. noch](auch-vs-noch.md) | [Category Index](README.md) | [Next → nicht vs. kein](nicht-vs-kein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auch vs. noch](auch-vs-noch.md) | [Category Index](./README.md) | [Next → nicht vs. kein](nicht-vs-kein.md) | [↑ Master Index](../MASTER_INDEX.md)

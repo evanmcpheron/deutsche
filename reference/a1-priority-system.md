@@ -1,6 +1,6 @@
 # The A1 Priority System
 
-[Category Index](README.md) | [Next → Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Not all small words deserve the same effort. This page sorts them into three tiers, so you know what to drill and what to simply let wash over you.
 
@@ -95,4 +95,4 @@ The single highest-value hour you can spend in this repository: [noch](../words/
 - [Study Guide](../STUDY_GUIDE.md)
 - [Master Index](../MASTER_INDEX.md)
 
-[Category Index](README.md) | [Next → Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [↑ Master Index](../MASTER_INDEX.md)

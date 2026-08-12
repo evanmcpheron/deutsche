@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — high
 **Knowledge goal:** Active
 
-[← schon](schon.md) | [Category Index](README.md) | [Next → sehr](sehr.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← schon](schon.md) | [Category Index](./README.md) | [Next → sehr](sehr.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -129,4 +129,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [erst vs. schon](../comparisons/erst-vs-schon.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← schon](schon.md) | [Category Index](README.md) | [Next → sehr](sehr.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← schon](schon.md) | [Category Index](./README.md) | [Next → sehr](sehr.md) | [↑ Master Index](../MASTER_INDEX.md)

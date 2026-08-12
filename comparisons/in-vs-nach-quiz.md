@@ -1,6 +1,6 @@
 # Quiz: in vs. nach
 
-[← Back to **in vs. nach**](in-vs-nach.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **in vs. nach**](in-vs-nach.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -466,4 +466,4 @@ die Schweiz / fahren / im August / wir / in
 
 ---
 
-[← Back to **in vs. nach**](in-vs-nach.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **in vs. nach**](in-vs-nach.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

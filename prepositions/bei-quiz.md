@@ -1,6 +1,6 @@
 # Quiz: bei
 
-[← Back to **bei**](bei.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **bei**](bei.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -86,4 +86,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **bei**](bei.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **bei**](bei.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

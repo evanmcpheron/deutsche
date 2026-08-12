@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — high
 **Knowledge goal:** Active
 
-[← sehr](sehr.md) | [Category Index](README.md) | [Next → wieder](wieder.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← sehr](sehr.md) | [Category Index](./README.md) | [Next → wieder](wieder.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -108,4 +108,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [wieder](wieder.md)
 - [noch vs. wieder](../comparisons/noch-vs-wieder.md)
 
-[← sehr](sehr.md) | [Category Index](README.md) | [Next → wieder](wieder.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← sehr](sehr.md) | [Category Index](./README.md) | [Next → wieder](wieder.md) | [↑ Master Index](../MASTER_INDEX.md)

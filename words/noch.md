@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — very high
 **Knowledge goal:** Active
 
-[← auch](auch.md) | [Category Index](README.md) | [Next → schon](schon.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auch](auch.md) | [Category Index](./README.md) | [Next → schon](schon.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -142,4 +142,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [schon](schon.md)
 - [erst](erst.md)
 
-[← auch](auch.md) | [Category Index](README.md) | [Next → schon](schon.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auch](auch.md) | [Category Index](./README.md) | [Next → schon](schon.md) | [↑ Master Index](../MASTER_INDEX.md)

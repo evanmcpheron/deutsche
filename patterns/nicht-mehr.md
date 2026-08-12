@@ -4,7 +4,7 @@
 **Means:** not any more
 **Level:** A1 · **Tier 1** · **Active**
 
-[← schon mal](schon-mal.md) | [Category Index](README.md) | [Next → gar nicht](gar-nicht.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← schon mal](schon-mal.md) | [Category Index](./README.md) | [Next → gar nicht](gar-nicht.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -77,4 +77,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch](../words/noch.md)
 - [noch nicht](noch-nicht.md)
 
-[← schon mal](schon-mal.md) | [Category Index](README.md) | [Next → gar nicht](gar-nicht.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← schon mal](schon-mal.md) | [Category Index](./README.md) | [Next → gar nicht](gar-nicht.md) | [↑ Master Index](../MASTER_INDEX.md)

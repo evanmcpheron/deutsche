@@ -3,7 +3,7 @@
 **Compares:** [nicht](../words/nicht.md) · [kein](../words/kein.md)
 **Level:** A1 · **Tier 1**
 
-[← gerade vs. jetzt](gerade-vs-jetzt.md) | [Category Index](README.md) | [Next → sehr vs. viel](sehr-vs-viel.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← gerade vs. jetzt](gerade-vs-jetzt.md) | [Category Index](./README.md) | [Next → sehr vs. viel](sehr-vs-viel.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -84,4 +84,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht mehr](../patterns/nicht-mehr.md)
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 
-[← gerade vs. jetzt](gerade-vs-jetzt.md) | [Category Index](README.md) | [Next → sehr vs. viel](sehr-vs-viel.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← gerade vs. jetzt](gerade-vs-jetzt.md) | [Category Index](./README.md) | [Next → sehr vs. viel](sehr-vs-viel.md) | [↑ Master Index](../MASTER_INDEX.md)

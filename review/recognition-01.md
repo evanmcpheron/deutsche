@@ -3,7 +3,7 @@
 **Covers:** [nicht](../words/nicht.md) · [kein](../words/kein.md) · [auch](../words/auch.md) · [noch](../words/noch.md) · [schon](../words/schon.md) · [nur](../words/nur.md)
 **Do this after:** Stage 1 of [Start Here](../START_HERE.md)
 
-[Category Index](README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Answer each question before opening its solution. Most of these ask what **situation** the German describes — you don't need to translate anything.
 
@@ -297,4 +297,4 @@ Write the German yourself. More than one answer can be right.
 - [noch vs. schon](../comparisons/noch-vs-schon.md)
 - [nicht vs. kein](../comparisons/nicht-vs-kein.md)
 
-[Category Index](README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)

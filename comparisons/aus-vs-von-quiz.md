@@ -1,6 +1,6 @@
 # Quiz: aus vs. von
 
-[← Back to **aus vs. von**](aus-vs-von.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **aus vs. von**](aus-vs-von.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -482,4 +482,4 @@ nach / der Zug / Berlin / fährt / Hamburg / von
 
 ---
 
-[← Back to **aus vs. von**](aus-vs-von.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **aus vs. von**](aus-vs-von.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

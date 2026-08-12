@@ -3,7 +3,7 @@
 **Compares:** [sehr](../words/sehr.md) · *viel*
 **Level:** A1 · **Tier 1**
 
-[← nicht vs. kein](nicht-vs-kein.md) | [Category Index](README.md) | [Next → zu vs. nach](zu-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht vs. kein](nicht-vs-kein.md) | [Category Index](./README.md) | [Next → zu vs. nach](zu-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -79,4 +79,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nur](../words/nur.md)
 - [gar nicht](../patterns/gar-nicht.md)
 
-[← nicht vs. kein](nicht-vs-kein.md) | [Category Index](README.md) | [Next → zu vs. nach](zu-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht vs. kein](nicht-vs-kein.md) | [Category Index](./README.md) | [Next → zu vs. nach](zu-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)

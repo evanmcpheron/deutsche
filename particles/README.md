@@ -8,10 +8,10 @@ Read [Modal Particles Overview](../reference/modal-particles-overview.md) before
 
 | Word | What it mostly does | Tier | Goal |
 |---|---|---|---|
-| [mal](mal.md) · [Quiz](mal-quiz.md) | makes a request casual and small | 2 | Recognition First |
-| [denn](denn.md) · [Quiz](denn-quiz.md) | makes a question sound interested, not interrogating | 2 | Recognition First |
-| [doch](doch.md) · [Quiz](doch-quiz.md) | pushes back, encourages, or contradicts | 2 | Recognition First |
-| [eigentlich](eigentlich.md) · [Quiz](eigentlich-quiz.md) | "actually / come to think of it" | 2 | Recognition First |
+| [mal](./mal.md) · [Quiz](mal-quiz.md) | makes a request casual and small | 2 | Recognition First |
+| [denn](./denn.md) · [Quiz](denn-quiz.md) | makes a question sound interested, not interrogating | 2 | Recognition First |
+| [doch](./doch.md) · [Quiz](doch-quiz.md) | pushes back, encourages, or contradicts | 2 | Recognition First |
+| [eigentlich](./eigentlich.md) · [Quiz](eigentlich-quiz.md) | "actually / come to think of it" | 2 | Recognition First |
 | [ja](ja.md) · [Quiz](ja-quiz.md) | "as we both know" — shared knowledge | 3 | Passive |
 | [eben](eben.md) · [Quiz](eben-quiz.md) | "that's just how it is" | 3 | Passive |
 | [halt](halt.md) · [Quiz](halt-quiz.md) | same as *eben*, more southern and casual | 3 | Passive |

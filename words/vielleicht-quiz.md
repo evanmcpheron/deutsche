@@ -1,6 +1,6 @@
 # Quiz: vielleicht
 
-[← Back to **vielleicht**](vielleicht.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **vielleicht**](vielleicht.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -287,4 +287,4 @@ Haben Sie ___ Kleingeld?
 
 ---
 
-[← Back to **vielleicht**](vielleicht.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **vielleicht**](vielleicht.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

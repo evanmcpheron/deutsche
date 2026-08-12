@@ -3,7 +3,7 @@
 **Type:** Modal particle / adverb ("actually")
 **Canonical page:** [particles/eigentlich.md](../particles/eigentlich.md)
 
-[Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 *eigentlich* could sit in either `words/` or `particles/`. Under this repository's placement rule —
 
@@ -21,4 +21,4 @@ Its fuller "actually / in fact" meaning — *Eigentlich wollte ich nicht kommen*
 - [Modal Particles Overview](../reference/modal-particles-overview.md)
 - [Words index](README.md)
 
-[Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

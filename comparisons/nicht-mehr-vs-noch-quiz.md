@@ -1,6 +1,6 @@
 # Quiz: nicht mehr vs. noch
 
-[← Back to **nicht mehr vs. noch**](nicht-mehr-vs-noch.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht mehr vs. noch**](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -473,4 +473,4 @@ Wir haben ___ Brot.
 
 ---
 
-[← Back to **nicht mehr vs. noch**](nicht-mehr-vs-noch.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht mehr vs. noch**](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — high
 **Knowledge goal:** Active
 
-[← bei](bei.md) | [Category Index](README.md) | [Next → von](von.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← bei](bei.md) | [Category Index](./README.md) | [Next → von](von.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -120,4 +120,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Travel Patterns](../phrases/travel-patterns.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← bei](bei.md) | [Category Index](README.md) | [Next → von](von.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← bei](bei.md) | [Category Index](./README.md) | [Next → von](von.md) | [↑ Master Index](../MASTER_INDEX.md)

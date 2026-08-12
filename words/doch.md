@@ -3,7 +3,7 @@
 **Type:** Modal particle; also the contradicting "yes"
 **Canonical page:** [particles/doch.md](../particles/doch.md)
 
-[Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 *doch* could sit in either `words/` or `particles/`. Under this repository's placement rule —
 
@@ -24,4 +24,4 @@ Aren't you coming? — Yes, I am!
 - [Modal Particles Overview](../reference/modal-particles-overview.md)
 - [Words index](README.md)
 
-[Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

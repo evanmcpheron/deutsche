@@ -5,18 +5,18 @@
 **Priority:** Tier 2
 **Knowledge goal:** Recognition First
 
-[← mal](mal.md) | [Category Index](README.md) | [Next → doch](doch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← mal](./mal.md) | [Category Index](./README.md) | [Next → doch](./doch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
-*denn* in a question signals **genuine interest**. It's the difference between an interrogation and a conversation.
+_denn_ in a question signals **genuine interest**. It's the difference between an interrogation and a conversation.
 
-> **Wo warst du?** — Where were you? *(could sound like an accusation)*
-> **Wo warst du denn?** — So where were you? *(curious, engaged)*
+> **Wo warst du?** — Where were you? _(could sound like an accusation)_
+> **Wo warst du denn?** — So where were you? _(curious, engaged)_
 
-German questions without *denn* can come across as flat or even cold, which is why native speakers add it so often. English gets the same effect with "so," "then," "actually," or just a warmer tone.
+German questions without _denn_ can come across as flat or even cold, which is why native speakers add it so often. English gets the same effect with "so," "then," "actually," or just a warmer tone.
 
-*denn* has a completely separate life as a conjunction meaning "because" — see [denn vs. weil](../comparisons/denn-vs-weil.md).
+_denn_ has a completely separate life as a conjunction meaning "because" — see [denn vs. weil](../comparisons/denn-vs-weil.md).
 
 ## The Situation, the Attitude, the Tone
 
@@ -24,7 +24,7 @@ German questions without *denn* can come across as flat or even cold, which is w
 
 **The speaker's attitude:** I'm interested; this isn't a demand.
 
-**The change in tone:** interrogating → conversational. Sometimes it adds mild surprise: *Was ist denn hier los?* — What on earth is going on here?
+**The change in tone:** interrogating → conversational. Sometimes it adds mild surprise: _Was ist denn hier los?_ — What on earth is going on here?
 
 **What English does instead:** "so," "then," "anyway," "on earth" — or nothing but intonation.
 
@@ -49,7 +49,7 @@ I can't come. — Why not?
 **Ich bin müde. — Was hast du denn gemacht?**
 I'm tired. — What have you been doing?
 
-This is where *denn* is most common: the second question in an exchange.
+This is where _denn_ is most common: the second question in an exchange.
 
 ### 3. Mild surprise or exasperation
 
@@ -57,14 +57,14 @@ This is where *denn* is most common: the second question in an exchange.
 What on earth is that?
 
 **Wo bist du denn?**
-Where *are* you?
+Where _are_ you?
 
-### 4. As a conjunction — "because" *(not a particle)*
+### 4. As a conjunction — "because" _(not a particle)_
 
 **Ich bleibe zu Hause, denn ich bin müde.**
 I'm staying home, because I'm tired.
 
-Unlike *weil*, *denn* does **not** send the verb to the end. → [denn vs. weil](../comparisons/denn-vs-weil.md)
+Unlike _weil_, _denn_ does **not** send the verb to the end. → [denn vs. weil](../comparisons/denn-vs-weil.md)
 
 ## Common Chunks
 
@@ -82,32 +82,32 @@ Unlike *weil*, *denn* does **not** send the verb to the end. → [denn vs. weil]
 **Wer ist das denn?**
 **Warum denn?**
 
-The pattern: *denn* sits after the subject and pronouns, near the front-middle of a question. It never starts the sentence in this use.
+The pattern: _denn_ sits after the subject and pronouns, near the front-middle of a question. It never starts the sentence in this use.
 
 ## What Changes Without It?
 
 **Was machst du?**
-What are you doing? *(neutral — or, with the wrong tone, suspicious)*
+What are you doing? _(neutral — or, with the wrong tone, suspicious)_
 
 **Was machst du denn?**
-What are you up to? *(interested, friendly, or amused)*
+What are you up to? _(interested, friendly, or amused)_
 
 **Wo warst du?**
-Where were you? *(can sound like a demand for an account)*
+Where were you? _(can sound like a demand for an account)_
 
 **Wo warst du denn?**
-Where'd you get to? *(curious)*
+Where'd you get to? _(curious)_
 
 ## Common English-Speaker Mistakes
 
-- **Translating it as "because" inside a question.** *Was ist denn das?* has nothing to do with reasons.
-- **Putting it at the front.** *Denn was machst du?* is wrong. As a particle, *denn* goes inside the question, after the verb and subject.
-- **Using it in statements.** As a particle it belongs in questions. In statements, *denn* is the conjunction and needs a comma before it.
+- **Translating it as "because" inside a question.** _Was ist denn das?_ has nothing to do with reasons.
+- **Putting it at the front.** _Denn was machst du?_ is wrong. As a particle, _denn_ goes inside the question, after the verb and subject.
+- **Using it in statements.** As a particle it belongs in questions. In statements, _denn_ is the conjunction and needs a comma before it.
 - **Assuming questions need it.** They don't — but leaving it out consistently makes your German sound a little brisk.
 
 ## Active or Passive?
 
-**Recognition First.** Understanding *denn* changes how German questions feel to you — that alone is worth the page. Producing it can wait; when you start, use the fixed chunks (*Warum denn nicht?*, *Was ist denn los?*).
+**Recognition First.** Understanding _denn_ changes how German questions feel to you — that alone is worth the page. Producing it can wait; when you start, use the fixed chunks (_Warum denn nicht?_, _Was ist denn los?_).
 
 ## You May Hear
 
@@ -130,4 +130,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [doch](doch.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← mal](mal.md) | [Category Index](README.md) | [Next → doch](doch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← mal](mal.md) | [Category Index](./README.md) | [Next → doch](doch.md) | [↑ Master Index](../MASTER_INDEX.md)

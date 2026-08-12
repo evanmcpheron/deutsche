@@ -3,7 +3,7 @@
 **Compares:** [zu](../prepositions/zu.md) · [nach](../prepositions/nach.md)
 **Level:** A1 · **Tier 1**
 
-[← sehr vs. viel](sehr-vs-viel.md) | [Category Index](README.md) | [Next → in vs. nach](in-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← sehr vs. viel](sehr-vs-viel.md) | [Category Index](./README.md) | [Next → in vs. nach](in-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -83,4 +83,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← sehr vs. viel](sehr-vs-viel.md) | [Category Index](README.md) | [Next → in vs. nach](in-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← sehr vs. viel](sehr-vs-viel.md) | [Category Index](./README.md) | [Next → in vs. nach](in-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)

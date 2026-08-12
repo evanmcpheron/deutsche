@@ -1,6 +1,6 @@
 # Quiz: zu vs. nach
 
-[← Back to **zu vs. nach**](zu-vs-nach.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu vs. nach**](zu-vs-nach.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -474,4 +474,4 @@ am Sonntag / zu / fahre / meinen Großeltern / ich
 
 ---
 
-[← Back to **zu vs. nach**](zu-vs-nach.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu vs. nach**](zu-vs-nach.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -4,7 +4,7 @@
 **Means:** not yet
 **Level:** A1 · **Tier 1** · **Active**
 
-[Category Index](README.md) | [Next → noch ein …](noch-ein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → noch ein …](noch-ein.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -83,4 +83,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](../comparisons/noch-vs-schon.md)
 - [nicht mehr vs. noch](../comparisons/nicht-mehr-vs-noch.md)
 
-[Category Index](README.md) | [Next → noch ein …](noch-ein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → noch ein …](noch-ein.md) | [↑ Master Index](../MASTER_INDEX.md)

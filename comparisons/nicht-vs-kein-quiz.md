@@ -1,6 +1,6 @@
 # Quiz: nicht vs. kein
 
-[← Back to **nicht vs. kein**](nicht-vs-kein.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht vs. kein**](nicht-vs-kein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -484,4 +484,4 @@ Der Film war ___ gut.
 
 ---
 
-[← Back to **nicht vs. kein**](nicht-vs-kein.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht vs. kein**](nicht-vs-kein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

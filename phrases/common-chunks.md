@@ -1,6 +1,6 @@
 # Common Chunks
 
-[← Travel Patterns](travel-patterns.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Travel Patterns](travel-patterns.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Short fixed expressions, gathered in one place. Each is worth learning **as a single unit** — the meaning isn't always predictable from the parts, and assembling them word by word is slower than remembering them whole.
 
@@ -114,4 +114,4 @@ Pick five, say them out loud, and use them in your next three sentences of Germa
 - [Travel Patterns](travel-patterns.md)
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 
-[← Travel Patterns](travel-patterns.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Travel Patterns](travel-patterns.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

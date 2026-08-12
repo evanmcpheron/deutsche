@@ -3,7 +3,7 @@
 **Compares:** [nicht mehr](../patterns/nicht-mehr.md) · [noch](../words/noch.md)
 **Level:** A1 · **Tier 1**
 
-[← noch vs. wieder](noch-vs-wieder.md) | [Category Index](README.md) | [Next → auch vs. noch](auch-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch vs. wieder](noch-vs-wieder.md) | [Category Index](./README.md) | [Next → auch vs. noch](auch-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -88,4 +88,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [kein](../words/kein.md)
 - [noch vs. schon](noch-vs-schon.md)
 
-[← noch vs. wieder](noch-vs-wieder.md) | [Category Index](README.md) | [Next → auch vs. noch](auch-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch vs. wieder](noch-vs-wieder.md) | [Category Index](./README.md) | [Next → auch vs. noch](auch-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)

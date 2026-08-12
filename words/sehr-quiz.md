@@ -1,6 +1,6 @@
 # Quiz: sehr
 
-[← Back to **sehr**](sehr.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **sehr**](sehr.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -287,4 +287,4 @@ Ich bin ___ müde.
 
 ---
 
-[← Back to **sehr**](sehr.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **sehr**](sehr.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

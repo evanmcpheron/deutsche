@@ -1,6 +1,6 @@
 # Quiz: wieder
 
-[← Back to **wieder**](wieder.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **wieder**](wieder.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -342,4 +342,4 @@ da / gleich / bin / wieder / ich
 
 ---
 
-[← Back to **wieder**](wieder.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **wieder**](wieder.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

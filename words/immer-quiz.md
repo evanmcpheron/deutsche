@@ -1,6 +1,6 @@
 # Quiz: immer
 
-[← Back to **immer**](immer.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **immer**](immer.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -300,4 +300,4 @@ Kaffee / trinke / immer / morgens / ich
 
 ---
 
-[← Back to **immer**](immer.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **immer**](immer.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

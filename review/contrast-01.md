@@ -3,7 +3,7 @@
 **Covers:** [noch](../words/noch.md) · [schon](../words/schon.md) · [wieder](../words/wieder.md) · [erst](../words/erst.md) · [nicht mehr](../patterns/nicht-mehr.md) · [zu Hause / nach Hause](../comparisons/zu-hause-vs-nach-hause.md)
 **Do this after:** Stage 1, and again after Stage 3
 
-[← Recognition 01](recognition-01.md) | [Category Index](README.md) | [Next → Sentence Completion 01](sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Recognition 01](recognition-01.md) | [Category Index](./README.md) | [Next → Sentence Completion 01](sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Each pair differs by one small word. Say what changes. Then open the solution below that question.
 
@@ -244,4 +244,4 @@ That's expected the first time. These pairs are the heart of the whole subject, 
 - [zu Hause vs. nach Hause](../comparisons/zu-hause-vs-nach-hause.md)
 - [Comparisons](../comparisons/README.md)
 
-[← Recognition 01](recognition-01.md) | [Category Index](README.md) | [Next → Sentence Completion 01](sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Recognition 01](recognition-01.md) | [Category Index](./README.md) | [Next → Sentence Completion 01](sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)

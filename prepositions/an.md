@@ -5,7 +5,7 @@
 **Priority:** Tier 2
 **Knowledge goal:** Recognition First
 
-[← auf](auf.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auf](auf.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -154,4 +154,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← auf](auf.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auf](auf.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

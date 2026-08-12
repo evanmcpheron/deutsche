@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — high
 **Knowledge goal:** Active
 
-[← für](fuer.md) | [Category Index](README.md) | [Next → in](in.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← für](fuer.md) | [Category Index](./README.md) | [Next → in](in.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -119,4 +119,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← für](fuer.md) | [Category Index](README.md) | [Next → in](in.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← für](fuer.md) | [Category Index](./README.md) | [Next → in](in.md) | [↑ Master Index](../MASTER_INDEX.md)

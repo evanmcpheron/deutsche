@@ -1,6 +1,6 @@
 # Quiz: erst vs. schon
 
-[← Back to **erst vs. schon**](erst-vs-schon.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **erst vs. schon**](erst-vs-schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -425,4 +425,4 @@ um / kommt / erst / zehn / der Zug
 
 ---
 
-[← Back to **erst vs. schon**](erst-vs-schon.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **erst vs. schon**](erst-vs-schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

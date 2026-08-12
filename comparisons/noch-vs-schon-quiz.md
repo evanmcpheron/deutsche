@@ -1,6 +1,6 @@
 # Quiz: noch vs. schon
 
-[← Back to **noch vs. schon**](noch-vs-schon.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch vs. schon**](noch-vs-schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -513,4 +513,4 @@ nicht / bin / noch / ich / fertig
 
 ---
 
-[← Back to **noch vs. schon**](noch-vs-schon.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch vs. schon**](noch-vs-schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -4,7 +4,7 @@
 **Means:** a little, a bit
 **Level:** A1 · **Tier 1** · **Active**
 
-[← von … bis …](von-bis.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← von … bis …](von-bis.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## What It Means
 
@@ -79,4 +79,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← von … bis …](von-bis.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← von … bis …](von-bis.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

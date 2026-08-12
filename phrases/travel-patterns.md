@@ -1,6 +1,6 @@
 # Travel Patterns
 
-[← Conversation Patterns](conversation-patterns.md) | [Category Index](README.md) | [Next → Common Chunks](common-chunks.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Conversation Patterns](conversation-patterns.md) | [Category Index](./README.md) | [Next → Common Chunks](common-chunks.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 German for trains, hotels, restaurants, and finding your way. Read this before a trip — most of these are small-word sentences, which is exactly why they're worth having ready.
 
@@ -95,4 +95,4 @@ German for trains, hotels, restaurants, and finding your way. Read this before a
 - [Common Chunks](common-chunks.md)
 - [Prepositions](../prepositions/README.md)
 
-[← Conversation Patterns](conversation-patterns.md) | [Category Index](README.md) | [Next → Common Chunks](common-chunks.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Conversation Patterns](conversation-patterns.md) | [Category Index](./README.md) | [Next → Common Chunks](common-chunks.md) | [↑ Master Index](../MASTER_INDEX.md)

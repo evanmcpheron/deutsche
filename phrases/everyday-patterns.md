@@ -1,6 +1,6 @@
 # Everyday Patterns
 
-[Category Index](README.md) | [Next → Conversation Patterns](conversation-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Conversation Patterns](conversation-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 German you'd hear in an ordinary day at home, in shops, and around family. Read for exposure — notice the small words doing their work, and don't try to memorize the page.
 
@@ -103,4 +103,4 @@ German you'd hear in an ordinary day at home, in shops, and around family. Read 
 - [Common Chunks](common-chunks.md)
 - [Patterns](../patterns/README.md)
 
-[Category Index](README.md) | [Next → Conversation Patterns](conversation-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Conversation Patterns](conversation-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)

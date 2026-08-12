@@ -1,6 +1,6 @@
 # Active vs. Passive Vocabulary
 
-[← The A1 Priority System](a1-priority-system.md) | [Category Index](README.md) | [Next → Preposition Overview](preposition-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← The A1 Priority System](a1-priority-system.md) | [Category Index](./README.md) | [Next → Preposition Overview](preposition-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Every word page in this repository says whether you should be **producing** the word or just **understanding** it. This page explains the three labels and why the distinction matters more for small words than for anything else.
 
@@ -71,4 +71,4 @@ If yes, copy them. If no, use the simpler version. *Kannst du mir helfen?* is al
 - [Study Guide](../STUDY_GUIDE.md)
 - [How to Read Without Translating](how-to-read-without-translating.md)
 
-[← The A1 Priority System](a1-priority-system.md) | [Category Index](README.md) | [Next → Preposition Overview](preposition-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← The A1 Priority System](a1-priority-system.md) | [Category Index](./README.md) | [Next → Preposition Overview](preposition-overview.md) | [↑ Master Index](../MASTER_INDEX.md)

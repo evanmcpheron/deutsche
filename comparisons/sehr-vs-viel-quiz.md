@@ -1,6 +1,6 @@
 # Quiz: sehr vs. viel
 
-[← Back to **sehr vs. viel**](sehr-vs-viel.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **sehr vs. viel**](sehr-vs-viel.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -412,4 +412,4 @@ Ich habe im Moment ___ Arbeit.
 
 ---
 
-[← Back to **sehr vs. viel**](sehr-vs-viel.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **sehr vs. viel**](sehr-vs-viel.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

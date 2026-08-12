@@ -1,6 +1,6 @@
 # Quiz: bei vs. mit
 
-[← Back to **bei vs. mit**](bei-vs-mit.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **bei vs. mit**](bei-vs-mit.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -466,4 +466,4 @@ meinem Freund / ich / mit / ins Konzert / gehe
 
 ---
 
-[← Back to **bei vs. mit**](bei-vs-mit.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **bei vs. mit**](bei-vs-mit.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — high
 **Knowledge goal:** Active
 
-[← in](in.md) | [Category Index](README.md) | [Next → an](an.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← in](in.md) | [Category Index](./README.md) | [Next → an](an.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -158,4 +158,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Preposition Overview](../reference/preposition-overview.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← in](in.md) | [Category Index](README.md) | [Next → an](an.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← in](in.md) | [Category Index](./README.md) | [Next → an](an.md) | [↑ Master Index](../MASTER_INDEX.md)

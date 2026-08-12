@@ -3,7 +3,7 @@
 **Compares:** [noch](../words/noch.md) · [schon](../words/schon.md)
 **Level:** A1 · **Tier 1**
 
-[Category Index](README.md) | [Next → erst vs. schon](erst-vs-schon.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → erst vs. schon](erst-vs-schon.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## The Simple Explanation
 
@@ -84,4 +84,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [erst vs. schon](erst-vs-schon.md)
 - [nicht mehr vs. noch](nicht-mehr-vs-noch.md)
 
-[Category Index](README.md) | [Next → erst vs. schon](erst-vs-schon.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → erst vs. schon](erst-vs-schon.md) | [↑ Master Index](../MASTER_INDEX.md)

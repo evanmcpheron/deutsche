@@ -3,7 +3,7 @@
 **Covers:** [mal](../particles/mal.md) · [denn](../particles/denn.md) · [doch](../particles/doch.md) · [eigentlich](../particles/eigentlich.md) · [ja](../particles/ja.md) · [eben](../particles/eben.md) · [halt](../particles/halt.md)
 **Do this during:** Stage 4 of [Start Here](../START_HERE.md)
 
-[← Sentence Completion 01](sentence-completion-01.md) | [Category Index](README.md) | [Next → Cumulative Review](cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Sentence Completion 01](sentence-completion-01.md) | [Category Index](./README.md) | [Next → Cumulative Review](cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 These questions are about **tone**, not meaning. In most of them, removing the particle would leave the sentence true — but different in feel. That's what you're being asked to identify.
 
@@ -252,4 +252,4 @@ The trap to avoid is the opposite one: reading this page and immediately startin
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [Cumulative Review](cumulative-review.md)
 
-[← Sentence Completion 01](sentence-completion-01.md) | [Category Index](README.md) | [Next → Cumulative Review](cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Sentence Completion 01](sentence-completion-01.md) | [Category Index](./README.md) | [Next → Cumulative Review](cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)

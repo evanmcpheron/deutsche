@@ -1,6 +1,6 @@
 # Quiz: auch
 
-[← Back to **auch**](auch.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **auch**](auch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 Try each question before opening its solution. Each solution is directly below the question so you can check your understanding as you go.
 
@@ -368,4 +368,4 @@ nicht / weiß / auch / das / ich
 
 ---
 
-[← Back to **auch**](auch.md) | [Category Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **auch**](auch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

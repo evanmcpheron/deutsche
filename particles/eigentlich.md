@@ -6,7 +6,7 @@
 **Knowledge goal:** Recognition First
 **Canonical page:** this one *(stub in [words/eigentlich.md](../words/eigentlich.md))*
 
-[← doch](doch.md) | [Category Index](README.md) | [Next → ja](ja.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← doch](doch.md) | [Category Index](./README.md) | [Next → ja](ja.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -127,4 +127,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [words/eigentlich.md](../words/eigentlich.md) — stub explaining the placement
 
-[← doch](doch.md) | [Category Index](README.md) | [Next → ja](ja.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← doch](doch.md) | [Category Index](./README.md) | [Next → ja](ja.md) | [↑ Master Index](../MASTER_INDEX.md)

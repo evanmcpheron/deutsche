@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — high
 **Knowledge goal:** Active
 
-[← nach](nach.md) | [Category Index](README.md) | [Next → aus](aus.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nach](nach.md) | [Category Index](./README.md) | [Next → aus](aus.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -123,4 +123,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← nach](nach.md) | [Category Index](README.md) | [Next → aus](aus.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nach](nach.md) | [Category Index](./README.md) | [Next → aus](aus.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -5,7 +5,7 @@
 **Priority:** Tier 1 — very high
 **Knowledge goal:** Active
 
-[← kein](kein.md) | [Category Index](README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← kein](kein.md) | [Category Index](./README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 ## Core Idea
 
@@ -127,4 +127,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht](nicht.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← kein](kein.md) | [Category Index](README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← kein](kein.md) | [Category Index](./README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)

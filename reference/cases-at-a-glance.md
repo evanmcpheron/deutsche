@@ -1,6 +1,6 @@
 # Cases at a Glance
 
-[← Preposition Overview](preposition-overview.md) | [Category Index](README.md) | [Next → Modal Particles Overview](modal-particles-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Preposition Overview](preposition-overview.md) | [Category Index](./README.md) | [Next → Modal Particles Overview](modal-particles-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
 
 The minimum you need about cases to use the prepositions in this repository. This is not a grammar course — it's a lookup page.
 
@@ -114,4 +114,4 @@ That covers time expressions built on a two-way preposition. Time expressions wi
 - [Glossary](../GLOSSARY.md)
 - [Sentence Completion 01](../review/sentence-completion-01.md)
 
-[← Preposition Overview](preposition-overview.md) | [Category Index](README.md) | [Next → Modal Particles Overview](modal-particles-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Preposition Overview](preposition-overview.md) | [Category Index](./README.md) | [Next → Modal Particles Overview](modal-particles-overview.md) | [↑ Master Index](../MASTER_INDEX.md)
