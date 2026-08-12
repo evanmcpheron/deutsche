@@ -137,7 +137,8 @@ I don't drink coffee. *(a specific noun is negated → [kein](kein.md))*
 
 ## Mini Review
 
-1. Which sentence is correct?\\
+1. Which sentence is correct?\
+<br>
    a. Ich nicht verstehe das.\
    b. Ich verstehe das nicht.\
    c. Ich verstehe nicht das.
