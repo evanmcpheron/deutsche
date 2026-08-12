@@ -76,7 +76,7 @@ Try each question before opening its solution. Each solution is directly below t
 18:30 — Der Laden ist geschlossen.
 ```
 
-   Es ist 18:30. Welcher Satz passt?\
+   It is 18:30. Which sentence fits?\
    a. Der Laden ist schon offen.\
    b. Der Laden ist noch offen.\
    c. Der Laden ist noch nicht offen.\

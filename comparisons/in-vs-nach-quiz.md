@@ -143,10 +143,10 @@ Nothing here tells you which of the two words is being tested. Check whether the
 ## Part B — Tell It Apart
 
 9. A learner writes **Ich fahre nach der Schweiz.**\
-   a. Richtig.\
-   b. Korrektes Deutsch, aber es heißt etwas anderes.\
-   c. Richtig, aber ungewöhnlich.\
-   d. Falsches Deutsch — hier braucht man *in die Schweiz*.
+   a. Correct.\
+   b. Correct German, but it means something different.\
+   c. Correct, but unusual.\
+   d. Incorrect German — here you need *in die Schweiz*.
 
 <details>
 <summary>Show solution</summary>
@@ -161,7 +161,7 @@ Nothing here tells you which of the two words is being tested. Check whether the
    a. Ich fahre nach Berlin.\
    b. Ich komme aus Berlin.\
    c. Ich bin schon in Berlin.\
-   d. Der Satz ist falsch.
+   d. The sentence is incorrect.
 
 <details>
 <summary>Show solution</summary>
@@ -173,10 +173,10 @@ Nothing here tells you which of the two words is being tested. Check whether the
 </details>
 
 11. **Ich fahre in die Schweiz** and **Ich wohne in der Schweiz.** What is the difference?\
-   a. Das erste ist Bewegung, das zweite ist ein Ort.\
-   b. Das erste ist Gegenwart, das zweite ist Zukunft.\
-   c. Nur der Stil ist verschieden.\
-   d. Das erste ist falsch.
+   a. The first describes movement; the second describes a location.\
+   b. The first is present tense; the second is future tense.\
+   c. Only the style is different.\
+   d. The first is incorrect.
 
 <details>
 <summary>Show solution</summary>
@@ -370,10 +370,10 @@ B: Wir gehen ___ Schwimmbad. (das Schwimmbad = swimming pool)
 ## Part D — Retrieve and Produce
 
 22. A learner writes **Wir fliegen nach die Türkei.** What has gone wrong?\
-   a. *nach* steht nie mit einem Artikel — hier braucht man *in die Türkei*.\
-   b. *fliegen* passt nicht zu *nach*.\
-   c. Der Artikel muss *der* sein.\
-   d. *Türkei* braucht keinen Artikel.
+   a. *nach* is not used with an article — here you need *in die Türkei*.\
+   b. *fliegen* cannot be used with *nach*.\
+   c. The article must be *der*.\
+   d. *Türkei* does not need an article.
 
 <details>
 <summary>Show solution</summary>

@@ -143,10 +143,10 @@ Nothing here tells you which of the two words is being tested. Ask yourself whet
 ## Part B — Tell It Apart
 
 9. **Ich wohne mit meiner Schwester zusammen** and **Ich wohne bei meiner Schwester.** What is the difference?\
-   a. Kein Unterschied.\
-   b. Das zweite ist falsch.\
-   c. Beim ersten wohnt sie woanders.\
-   d. Beim ersten teilen wir die Wohnung, beim zweiten gehört sie ihr.
+   a. There is no difference.\
+   b. The second sentence is incorrect.\
+   c. In the first sentence, she lives somewhere else.\
+   d. In the first, we share the home; in the second, it is her home and I am staying with her.
 
 <details>
 <summary>Show solution</summary>
@@ -158,10 +158,10 @@ Nothing here tells you which of the two words is being tested. Ask yourself whet
 </details>
 
 10. A learner means *I'm going to the cinema with my friend* and writes **Ich gehe bei meinem Freund ins Kino.**\
-   a. Richtig.\
-   b. Falsch — *bei* kann nicht "zusammen mit" heißen.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch mit anderer Bedeutung.
+   a. Correct.\
+   b. Incorrect — *bei* cannot mean “together with.”\
+   c. Correct, but impolite.\
+   d. Correct German with a different meaning.
 
 <details>
 <summary>Show solution</summary>
@@ -173,10 +173,10 @@ Nothing here tells you which of the two words is being tested. Ask yourself whet
 </details>
 
 11. **Wir arbeiten mit Siemens.** What does that sentence say? (der Arbeitgeber = employer)\
-   a. Siemens ist unser Arbeitgeber.\
-   b. Wir suchen Arbeit bei Siemens.\
-   c. Unsere Firma und Siemens machen ein Projekt zusammen.\
-   d. Wir arbeiten in der Nähe von Siemens.
+   a. Siemens is our employer.\
+   b. We are looking for work at Siemens.\
+   c. Our company and Siemens are working on a project together.\
+   d. We work near Siemens.
 
 <details>
 <summary>Show solution</summary>
@@ -351,10 +351,10 @@ B: Nein, ich gehe ___ Kollegin. (die Kollegin = colleague)
 </details>
 
 21. **Ich arbeite bei meinem Bruder** and **Ich arbeite mit meinem Bruder.** Which one belongs to somebody whose brother pays their wages?\
-   a. Beide.\
-   b. Keiner der beiden.\
-   c. Der zweite.\
-   d. Der erste.
+   a. Both.\
+   b. Neither.\
+   c. The second.\
+   d. The first.
 
 <details>
 <summary>Show solution</summary>

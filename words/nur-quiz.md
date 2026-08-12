@@ -38,7 +38,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-3. **Ich trinke nur Wasser.** Was stimmt?\
+3. **Ich trinke nur Wasser.** Which statement is correct?\
    a. Ich bin die einzige Person, die Wasser trinkt.\
    b. Wasser ist das Einzige, was ich trinke.\
    c. Ich trinke wenig Wasser.\
@@ -53,7 +53,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-4. **Nur ich trinke Wasser.** Was stimmt?\
+4. **Nur ich trinke Wasser.** Which statement is correct?\
    a. Wasser ist das Einzige, was ich trinke.\
    b. Ich trinke sehr viel Wasser.\
    c. Niemand trinkt Wasser.\
@@ -103,10 +103,10 @@ Try each question before opening its solution. Each solution is directly below t
 ## Part B — Tell It Apart
 
 7. What is the difference between **Wir haben noch zwei Minuten** and **Wir haben nur noch zwei Minuten**?\
-   a. Der zweite Satz ist höflicher.\
-   b. Der zweite klingt besorgt: mehr Zeit kommt nicht.\
-   c. Der zweite Satz spricht über eine andere Uhrzeit.\
-   d. Beide sagen genau dasselbe.
+   a. The second sentence is more polite.\
+   b. The second sounds concerned: there is no more time after those two minutes.\
+   c. The second sentence refers to a different time.\
+   d. Both sentences say exactly the same thing.
 
 <details>
 <summary>Show solution</summary>
@@ -133,10 +133,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 9. You want to say: **I only have ten euros.** A learner writes **Ich habe zehn Euro nur.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   c. Falsch — *nur* muss vor das Wort, das es begrenzt.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Correct German, but it means something different.\
+   c. Incorrect — *nur* must come before the word it limits.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -169,10 +169,10 @@ B: ___
 </details>
 
 11. Why does German use *erst* in **Es ist erst acht Uhr** but *nur* in **Ich habe nur zehn Euro**?\
-   a. *erst* ist höflicher als *nur*.\
-   b. *erst* misst einen Punkt, der weiterläuft; *nur* begrenzt eine feste Menge.\
-   c. *nur* funktioniert nicht mit Zahlen.\
-   d. *erst* steht nur in Fragen.
+   a. *erst* is more polite than *nur*.\
+   b. *erst* measures progress along something that continues; *nur* limits a fixed amount.\
+   c. *nur* does not work with numbers.\
+   d. *erst* is used only in questions.
 
 <details>
 <summary>Show solution</summary>
@@ -205,8 +205,8 @@ B: ___
 13. Which sentence describes a family with two children and no more?\
    a. Ich habe nur zwei Kinder.\
    b. Nur ich habe zwei Kinder.\
-   c. Beide Sätze.\
-   d. Keiner der beiden Sätze.
+   c. Both sentences.\
+   d. Neither sentence.
 
 <details>
 <summary>Show solution</summary>
@@ -247,11 +247,11 @@ B: ___
 
 </details>
 
-16. **Nur so.** Wann benutzt man das?\
-   a. Wenn man etwas genau erklären will.\
-   b. Wenn man etwas ablehnt.\
-   c. Wenn man sich entschuldigt.\
-   d. Wenn man keinen besonderen Grund hat.
+16. **Nur so.** When do you use this?\
+   a. When you want to explain something precisely.\
+   b. When you are refusing something.\
+   c. When you are apologizing.\
+   d. When you do not have a particular reason.
 
 <details>
 <summary>Show solution</summary>

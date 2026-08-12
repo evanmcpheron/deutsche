@@ -41,10 +41,10 @@ Nothing here tells you which word is being tested. Ask yourself whether somethin
 </details>
 
 3. What's the quick test for the café situation?\
-   a. Andere Person → _auch_; dieselbe Person, zweites Glas → _noch_.\
-   b. Andere Person → _noch_; dieselbe Person → _auch_.\
-   c. Beide Wörter gehen immer.\
-   d. Es hängt vom Getränk ab.
+   a. Different person → _auch_; same person, second glass → _noch_.\
+   b. Different person → _noch_; same person → _auch_.\
+   c. Both words always work.\
+   d. It depends on the drink.
 
 <details>
 <summary>Show solution</summary>
@@ -141,10 +141,10 @@ a. Ich noch.\
 </details>
 
 9. What is the difference between **Ich habe auch Zeit** and **Ich habe noch Zeit**?\
-   a. Beide Sätze sagen genau dasselbe.\
-   b. Der erste sagt: meine Zeit ist nicht zu Ende.\
-   c. Der erste vergleicht mich mit dir, der zweite nicht.\
-   d. Der zweite vergleicht mich mit dir.
+   a. Both sentences say exactly the same thing.\
+   b. The first says my available time has not run out.\
+   c. The first compares my situation with yours; the second does not.\
+   d. The second compares my situation with yours.
 
 <details>
 <summary>Show solution</summary>
@@ -171,10 +171,10 @@ a. Ich noch.\
 </details>
 
 11. You want to say: **Me too.** A learner writes **Ich noch.**\
-    a. Richtig — genau diese Bedeutung.\
-    b. Falsch — richtig ist _Ich auch._\
-    c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-    d. Richtig, aber unhöflich.
+    a. Correct — exactly that meaning.\
+    b. Incorrect — the correct phrase is _Ich auch._\
+    c. Correct German, but it means something different.\
+    d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -271,10 +271,10 @@ a. Ich noch nicht.\
 </details>
 
 17. A learner says _Ich möchte auch ein Bier_ to a server who has just brought them one. How does it come across?\
-    a. Ganz normal.\
-    b. Unhöflich.\
-    c. Als würde man sich mit jemand anderem vergleichen.\
-    d. Als hätte man nichts bestellt.
+    a. Completely natural.\
+    b. Impolite.\
+    c. As though you are comparing yourself with someone else.\
+    d. As though you had not ordered anything.
 
 <details>
 <summary>Show solution</summary>
@@ -352,10 +352,10 @@ a. noch\
 </details>
 
 22. In a shop, **Möchten Sie noch etwas?** — what is being offered?\
-    a. Etwas ganz anderes als bisher.\
-    b. Ein Ersatz für die Bestellung.\
-    c. Ein weiterer Artikel zusätzlich zur Bestellung.\
-    d. Eine zweite Person in der Schlange.
+    a. Something completely different from what came before.\
+    b. A replacement for the order.\
+    c. An additional item on top of the order.\
+    d. A second person in the line.
 
 <details>
 <summary>Show solution</summary>

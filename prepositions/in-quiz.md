@@ -144,7 +144,7 @@ Try each question before opening its solution. Each solution is directly below t
    a. Ich bin schon in der Stadt.\
    b. Ich fahre in die Stadt.\
    c. Ich komme aus der Stadt.\
-   d. Der Satz ist falsch.
+   d. The sentence is incorrect.
 
 <details>
 <summary>Show solution</summary>
@@ -320,11 +320,11 @@ Anna: Ich bin im Supermarkt.
 Ben: Ich gehe in den Supermarkt.
 ```
 
-   Wer ist schon da?\
+   Who is already there?\
    a. Ben\
-   b. Anna und Ben\
+   b. Anna and Ben\
    c. Anna\
-   d. Niemand
+   d. Neither of them
 
 <details>
 <summary>Show solution</summary>
@@ -335,7 +335,7 @@ Ben: Ich gehe in den Supermarkt.
 
 </details>
 
-20. A friend texts **Wir sind in der Nähe.** Welche Beschreibung passt?\
+20. A friend texts **Wir sind in der Nähe.** Which description fits?\
    a. Wir sind nicht weit weg.\
    b. Wir sind schon zu Hause.\
    c. Wir fahren gerade los.\
@@ -370,10 +370,10 @@ Ben: Ich gehe in den Supermarkt.
 ## Part D — Retrieve and Produce
 
 22. A learner wants to say "I'm going into the kitchen" and writes **Ich gehe in der Küche.** What has gone wrong?\
-   a. *gehen* passt nicht zu *in*.\
-   b. *die Küche* braucht keinen Artikel.\
-   c. Der Satz ist richtig.\
-   d. Der Satz beschreibt einen Ort — für die Bewegung braucht man *in die Küche*.
+   a. *gehen* does not work with *in*.\
+   b. *die Küche* does not need an article.\
+   c. The sentence is correct.\
+   d. The sentence describes a location — for movement into the kitchen, you need *in die Küche*.
 
 <details>
 <summary>Show solution</summary>

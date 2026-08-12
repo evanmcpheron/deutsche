@@ -23,11 +23,11 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-2. Im Café. Der Kellner fragt: **Noch etwas?** Was möchte er wissen?\
-   a. Ob du noch wartest.\
-   b. Ob du etwas bestellen möchtest.\
-   c. Ob du schon bezahlt hast.\
-   d. Ob du noch Zeit hast.
+2. In a café. The waiter asks: **Noch etwas?** What does he want to know?\
+   a. Whether you are still waiting.\
+   b. Whether you would like to order something else.\
+   c. Whether you have already paid.\
+   d. Whether you still have time.
 
 <details>
 <summary>Show solution</summary>
@@ -46,7 +46,7 @@ Try each question before opening its solution. Each solution is directly below t
 20:00 — Der Supermarkt schließt.
 ```
 
-   Es ist 19:30. Welcher Satz passt?\
+   It is 19:30. Which sentence fits?\
    a. Der Supermarkt ist schon zu.\
    b. Der Supermarkt ist wieder offen.\
    c. Der Supermarkt ist noch offen.\
@@ -111,10 +111,10 @@ Try each question before opening its solution. Each solution is directly below t
 ## Part B — Tell It Apart
 
 7. What is the difference between **Ich möchte einen Kaffee** and **Ich möchte noch einen Kaffee**?\
-   a. Der zweite Satz ist höflicher.\
-   b. Der zweite Satz ist eine Frage.\
-   c. Beim zweiten Satz hatte der Sprecher schon einen Kaffee.\
-   d. Beim zweiten Satz bestellt der Sprecher für jemand anderen.
+   a. The second sentence is more polite.\
+   b. The second sentence is a question.\
+   c. In the second sentence, the speaker already had one coffee.\
+   d. In the second sentence, the speaker is ordering for someone else.
 
 <details>
 <summary>Show solution</summary>
@@ -171,10 +171,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 11. Compare **Er schläft noch** with **Er schläft immer noch.** What does *immer* add?\
-   a. Es ist die höflichere Form.\
-   b. Der Sprecher findet es überraschend oder zu lang.\
-   c. Er schläft jeden Tag sehr lange.\
-   d. Er ist gerade eingeschlafen.
+   a. It is the more polite form.\
+   b. The speaker finds it surprising or feels it has gone on too long.\
+   c. He sleeps for a long time every day.\
+   d. He has just fallen asleep.
 
 <details>
 <summary>Show solution</summary>
@@ -186,10 +186,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 12. You want to say: **I don't have tickets yet.** A learner writes **Ich habe keine Tickets mehr.** How would you judge that sentence?\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsches Deutsch.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es bedeutet etwas anderes.
+   a. Correct — exactly that meaning.\
+   b. Incorrect German.\
+   c. Correct, but impolite.\
+   d. Correct German, but it means something different.
 
 <details>
 <summary>Show solution</summary>
@@ -261,10 +261,10 @@ B: Nein, ich brauche ___ fünf Minuten.
 </details>
 
 16. A learner wants to say "I haven't eaten yet" and writes **Ich habe nicht noch gegessen.** What went wrong?\
-   a. Die Wörter stehen in der falschen Reihenfolge — es muss *noch nicht* heißen.\
-   b. Man braucht hier *kein* statt *nicht*.\
-   c. *noch* passt nicht; richtig wäre *schon nicht*.\
-   d. Das Verb steht an der falschen Stelle.
+   a. The words are in the wrong order — it must be *noch nicht*.\
+   b. You need *kein* instead of *nicht* here.\
+   c. *noch* does not fit; *schon nicht* would be correct.\
+   d. The verb is in the wrong position.
 
 <details>
 <summary>Show solution</summary>
@@ -276,10 +276,10 @@ B: Nein, ich brauche ___ fünf Minuten.
 </details>
 
 17. On the phone, after a long silence, someone says: **Sind Sie noch da?** What is the speaker worried about?\
-   a. Dass die Person gerade erst angekommen ist.\
-   b. Dass die Verbindung weg ist.\
-   c. Dass die Person zu früh gekommen ist.\
-   d. Dass die Person noch einmal anrufen soll.
+   a. The person has only just arrived.\
+   b. The connection may have dropped.\
+   c. The person arrived too early.\
+   d. The person should call again.
 
 <details>
 <summary>Show solution</summary>
@@ -313,7 +313,7 @@ Dienstag: Lena ist in Berlin.
 Mittwoch: Lena ist in Berlin.
 ```
 
-   Am Mittwochabend schreibt sie ihrem Mann. Welcher Satz passt?\
+   On Wednesday evening she writes to her husband. Which sentence fits?\
    a. Ich bin schon in Berlin.\
    b. Ich bin wieder in Berlin.\
    c. Ich bin erst in Berlin.\
@@ -328,10 +328,10 @@ Mittwoch: Lena ist in Berlin.
 
 </details>
 
-20. **Ich war noch nie in Wien.** Was stimmt?\
+20. **Ich war noch nie in Wien.** Which statement is correct?\
    a. Er war letztes Jahr in Wien.\
    b. Er ist gerade in Wien.\
-   c. Er hat Wien bis heute nicht besucht.\
+   c. Er war bis heute nicht in Wien.\
    d. Er fährt bald nach Wien.
 
 <details>

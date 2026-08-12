@@ -125,10 +125,10 @@ Try each question before opening its solution. Each solution is directly below t
 ## Part B — Tell It Apart
 
 8. A learner writes **Ich lege das Buch auf dem Tisch.**\
-   a. Richtig.\
-   b. Richtig, aber ungewöhnlich.\
-   c. Korrektes Deutsch, aber es heißt etwas anderes.\
-   d. Falsches Deutsch — hier braucht man *auf den Tisch*.
+   a. Correct.\
+   b. Correct, but unusual.\
+   c. Correct German, but it means something different.\
+   d. Incorrect German — here you need *auf den Tisch*.
 
 <details>
 <summary>Show solution</summary>
@@ -139,11 +139,11 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-9. **Das Buch ist im Regal.** und **Das Buch ist auf dem Regal.** Was ist der Unterschied?\
-   a. Kein Unterschied.\
-   b. Einmal ist das Buch innen, einmal liegt es oben.\
-   c. Einmal ist es da, einmal geht es dorthin.\
-   d. Der erste Satz ist falsch.
+9. Compare **Das Buch ist im Regal** and **Das Buch ist auf dem Regal.** What is the difference?\
+   a. There is no difference.\
+   b. In one sentence the book is inside; in the other it is on top.\
+   c. One describes location; the other describes movement there.\
+   d. The first sentence is incorrect.
 
 <details>
 <summary>Show solution</summary>
@@ -199,11 +199,11 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-13. **Ich stehe um sechs auf.** Warum steht *auf* am Ende?\
-   a. Es gehört zu *sechs*.\
-   b. Es ist ein Fehler.\
-   c. Es gehört zum Verb *aufstehen*.\
-   d. Es ist eine Präposition ohne Nomen.
+13. **Ich stehe um sechs auf.** Why is *auf* at the end?\
+   a. It belongs with *sechs*.\
+   b. It is an error.\
+   c. It is the separated prefix of *aufstehen*.\
+   d. It is a preposition without a noun.
 
 <details>
 <summary>Show solution</summary>
@@ -317,7 +317,7 @@ B: ___!
 
 </details>
 
-19. A neighbour says **Der Laden ist auf.** Welche Beschreibung passt?\
+19. A neighbour says **Der Laden ist auf.** Which description fits?\
    a. Man kann jetzt einkaufen.\
    b. Der Laden ist geschlossen.\
    c. Der Laden liegt oben.\
@@ -337,10 +337,10 @@ B: ___!
 ## Part D — Retrieve and Produce
 
 20. A learner writes **Ich stelle die Tasse auf dem Regal.** What has gone wrong?\
-   a. *stellen* passt nicht zu *auf*.\
-   b. *das Regal* braucht keinen Artikel.\
-   c. *stellen* bewegt die Tasse — hier braucht man *auf das Regal*.\
-   d. Der Satz ist richtig.
+   a. *stellen* does not work with *auf*.\
+   b. *das Regal* does not need an article.\
+   c. *stellen* moves the cup to a new location — here you need *auf das Regal*.\
+   d. The sentence is correct.
 
 <details>
 <summary>Show solution</summary>

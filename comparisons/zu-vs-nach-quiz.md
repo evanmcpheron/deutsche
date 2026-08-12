@@ -142,10 +142,10 @@ Nothing here tells you which of the two words is being tested. Look at the desti
 ## Part B — Tell It Apart
 
 9. **Ich gehe nach dem Kurs.** What does this sentence tell you? (der Kurs = the class)\
-   a. Der Kurs ist mein Ziel.\
-   b. Ich gehe in den Kurs hinein.\
-   c. Ich gehe zum Kurs und bleibe dort.\
-   d. Ich gehe, wenn der Kurs zu Ende ist.
+   a. The class is my destination.\
+   b. I am going into the class.\
+   c. I am going to the class and staying there.\
+   d. I am leaving after the class ends.
 
 <details>
 <summary>Show solution</summary>
@@ -157,10 +157,10 @@ Nothing here tells you which of the two words is being tested. Look at the desti
 </details>
 
 10. A learner wants to say *I'm going to my grandmother's* and writes **Ich gehe nach meiner Oma.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Korrektes Deutsch, aber es heißt etwas anderes.\
-   c. Falsches Deutsch.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Correct German, but it means something different.\
+   c. Incorrect German.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -187,10 +187,10 @@ Nothing here tells you which of the two words is being tested. Look at the desti
 </details>
 
 12. **Wir fahren nach Italien** and **Wir fahren zu meinen Eltern.** Why does the preposition change?\
-   a. Weil das Ziel einmal ein Land und einmal Personen sind.\
-   b. Weil *fahren* zwei Bedeutungen hat.\
-   c. Weil *Italien* keinen Artikel hat und *Eltern* einen.\
-   d. Weil einmal Bewegung und einmal ein Ort gemeint ist.
+   a. Because one destination is a country and the other is people.\
+   b. Because *fahren* has two meanings.\
+   c. Because *Italien* has no article and *Eltern* has one.\
+   d. Because one sentence expresses movement and the other a location.
 
 <details>
 <summary>Show solution</summary>
@@ -335,10 +335,10 @@ Sie: Ja, ich bin den ganzen Tag ___.
 </details>
 
 20. **Ich gehe nach dem Supermarkt ins Kino.** What is the order of events?\
-   a. Kino, dann Supermarkt.\
-   b. Supermarkt, dann Kino.\
-   c. Beides gleichzeitig.\
-   d. Nur ins Kino — der Supermarkt ist zu.
+   a. Cinema, then supermarket.\
+   b. Supermarket, then cinema.\
+   c. Both at the same time.\
+   d. Only the cinema — the supermarket is closed.
 
 <details>
 <summary>Show solution</summary>
@@ -350,10 +350,10 @@ Sie: Ja, ich bin den ganzen Tag ___.
 </details>
 
 21. A friend writes **Ich fahre morgen zu meiner Tante nach Hamburg.** What do you know?\
-   a. Die Tante wohnt nicht in Hamburg.\
-   b. Zwei Fahrten an einem Tag.\
-   c. Der Satz ist falsch — *zu* und *nach* gehen nicht zusammen.\
-   d. Die Tante wohnt in Hamburg.
+   a. The aunt does not live in Hamburg.\
+   b. There are two trips in one day.\
+   c. The sentence is wrong — *zu* and *nach* cannot be used together.\
+   d. The aunt lives in Hamburg.
 
 <details>
 <summary>Show solution</summary>

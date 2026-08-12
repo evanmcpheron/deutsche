@@ -74,11 +74,11 @@ B: ___!
 
 </details>
 
-5. **Er arbeitet sehr viel.** Was machen die beiden Wörter?\
-   a. *sehr* zählt die Menge, *viel* verstärkt.\
-   b. Beide Wörter machen dasselbe.\
-   c. *viel* zählt die Menge, *sehr* verstärkt sie.\
-   d. Der Satz ist falsch — man kann sie nicht kombinieren.
+5. **Er arbeitet sehr viel.** What are the two words doing?\
+   a. *sehr* counts the amount; *viel* intensifies.\
+   b. Both words do the same job.\
+   c. *viel* expresses the amount; *sehr* intensifies it.\
+   d. The sentence is incorrect — the two words cannot be combined.
 
 <details>
 <summary>Show solution</summary>
@@ -94,10 +94,10 @@ B: ___!
 ## Part B — Tell It Apart
 
 6. You want to say: **I have a lot of work.** A learner writes **Ich habe sehr Arbeit.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — vor einem Nomen braucht man *viel*: *viel Arbeit*.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect — before a noun you need *viel*: *viel Arbeit*.\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -138,11 +138,11 @@ B: ___!
 
 </details>
 
-9. **Das ist nicht sehr teuer.** Was stimmt?\
-   a. Der Preis ist in Ordnung.\
-   b. Der Preis ist sehr hoch.\
-   c. Es kostet gar nichts.\
-   d. Der Preis ist unbekannt.
+9. **Das ist nicht sehr teuer.** Which statement is correct?\
+   a. The price is reasonable.\
+   b. The price is very high.\
+   c. It costs nothing.\
+   d. The price is unknown.
 
 <details>
 <summary>Show solution</summary>
@@ -223,11 +223,11 @@ B: ___ schön.
 
 </details>
 
-14. **Sie singt sehr schön.** Was verstärkt *sehr* hier?\
-   a. Ein Nomen.\
-   b. Ein Adverb.\
-   c. Ein Verb allein.\
-   d. Eine Zahl.
+14. **Sie singt sehr schön.** What does *sehr* intensify here?\
+   a. A noun.\
+   b. An adverb.\
+   c. A verb by itself.\
+   d. A number.
 
 <details>
 <summary>Show solution</summary>

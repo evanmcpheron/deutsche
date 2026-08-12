@@ -65,7 +65,7 @@ B: ___
 
 </details>
 
-4. **Ich trinke auch Kaffee.** Was stimmt?\
+4. **Ich trinke auch Kaffee.** Which statement is correct?\
    a. Kaffee ist das Einzige, was ich trinke.\
    b. Ich trinke keinen Kaffee.\
    c. Ich trinke jeden Tag Kaffee.\
@@ -80,11 +80,11 @@ B: ___
 
 </details>
 
-5. **Auch ich trinke Kaffee.** Was betont dieser Satz?\
-   a. Das Getränk.\
-   b. Die Menge.\
-   c. Die Person.\
-   d. Die Uhrzeit.
+5. **Auch ich trinke Kaffee.** What does this sentence emphasize?\
+   a. The drink.\
+   b. The amount.\
+   c. The person.\
+   d. The time.
 
 <details>
 <summary>Show solution</summary>
@@ -115,10 +115,10 @@ B: ___
 ## Part B — Tell It Apart
 
 7. You want to say: **Me neither.** A learner writes **Ich nicht auch.**\
-   a. Falsch — die Reihenfolge ist *auch nicht*.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Incorrect — the normal order is *auch nicht*.\
+   b. Correct — this expresses exactly that meaning.\
+   c. Grammatically possible, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -144,11 +144,11 @@ B: ___
 
 </details>
 
-9. **Auch gut.** Was bedeutet das?\
-   a. Das ist sehr gut.\
-   b. Das ist nicht gut.\
-   c. Das passt mir auch.\
-   d. Das ist gut geworden.
+9. **Auch gut.** What does this mean?\
+   a. That is very good.\
+   b. That is not good.\
+   c. That works for me too.\
+   d. That turned out well.
 
 <details>
 <summary>Show solution</summary>
@@ -160,10 +160,10 @@ B: ___
 </details>
 
 10. A learner writes **Ich fahre nach Berlin auch.** What is wrong?\
-   a. *nach* ist hier falsch.\
-   b. *auch* steht am Satzende — es muss vor *nach Berlin*.\
-   c. Man braucht *noch* statt *auch*.\
-   d. Das Verb steht an der falschen Stelle.
+   a. *nach* is incorrect here.\
+   b. *auch* is at the end of the sentence — it should come before *nach Berlin*.\
+   c. *noch* is needed instead of *auch*.\
+   d. The verb is in the wrong position.
 
 <details>
 <summary>Show solution</summary>
@@ -174,11 +174,11 @@ B: ___
 
 </details>
 
-11. Compare **Ich komme** and **Ich komme auch.** What extra fact does *auch* smuggle in?\
-   a. Dass ich später komme.\
-   b. Dass ich vielleicht komme.\
-   c. Dass jemand anderes schon kommt.\
-   d. Dass ich zum zweiten Mal komme.
+11. Compare **Ich komme** and **Ich komme auch.** What extra fact does *auch* add?\
+   a. That I am coming later.\
+   b. That I might come.\
+   c. That someone else is already coming.\
+   d. That I am coming for a second time.
 
 <details>
 <summary>Show solution</summary>
@@ -190,10 +190,10 @@ B: ___
 </details>
 
 12. What is the difference between *auch* and *noch* when you add something?\
-   a. *auch* fügt eine Menge hinzu, *noch* eine Person.\
-   b. *noch* ist die höfliche Form von *auch*.\
-   c. Beide Wörter machen genau dasselbe.\
-   d. *auch* fügt etwas Neues dazu, *noch* eines mehr.
+   a. *auch* adds an amount; *noch* adds a person.\
+   b. *noch* is the polite form of *auch*.\
+   c. Both words do exactly the same thing.\
+   d. *auch* adds something to a set; *noch* adds one more of something.
 
 <details>
 <summary>Show solution</summary>
@@ -208,10 +208,10 @@ B: ___
 
 ## Part C — Apply It
 
-13. Complete the dialogue. B has never been to Vienna either.
+13. Complete the dialogue. B is not going to Vienna either.
 
 ```text
-A: Ich war noch nie in Wien.
+A: Ich fahre nicht nach Wien.
 B: ___
 ```
 
@@ -225,7 +225,7 @@ B: ___
 
 **Answer:** **b**
 
-**Explanation:** A's sentence is negative (*noch nie*), so the agreement takes *auch nicht*. You could also say the fuller *Ich war auch noch nie in Wien.*
+**Explanation:** A's sentence is negative (*nicht*), so the agreement takes *auch nicht*. You could also say the fuller *Ich fahre auch nicht nach Wien.*
 
 </details>
 
@@ -244,11 +244,11 @@ B: ___
 
 </details>
 
-15. **Das weiß ich auch nicht.** Was stimmt?\
-   a. Ich weiß es genau.\
-   b. Ich will es nicht sagen.\
-   c. Ich weiß es jetzt nicht mehr.\
-   d. Ich weiß es so wenig wie du.
+15. **Das weiß ich auch nicht.** Which statement is correct?\
+   a. I know it exactly.\
+   b. I do not want to say it.\
+   c. I knew it before, but I do not know it now.\
+   d. I do not know it either.
 
 <details>
 <summary>Show solution</summary>
@@ -275,10 +275,10 @@ B: ___
 </details>
 
 17. Someone looks out at the grey sky and says **Es ist auch kalt heute.** What is *auch* doing?\
-   a. Es fügt eine zweite Person hinzu.\
-   b. Es fragt nach dem Wetter.\
-   c. Es bestätigt, dass das Sinn ergibt.\
-   d. Es sagt, dass es gestern warm war.
+   a. It adds a second person.\
+   b. It asks about the weather.\
+   c. It confirms that the situation makes sense.\
+   d. It says that yesterday was warm.
 
 <details>
 <summary>Show solution</summary>

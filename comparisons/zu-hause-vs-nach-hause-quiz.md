@@ -127,10 +127,10 @@ Nothing here tells you which of the two expressions is being tested. Look at the
 ## Part B — Tell It Apart
 
 8. A learner means *I'm going home* and writes **Ich gehe zu Hause.**\
-   a. Richtig.\
-   b. Korrektes Deutsch, aber es heißt etwas anderes.\
-   c. Falsch — bei Bewegung heißt es *nach Hause*.\
-   d. Richtig, aber ungewöhnlich.
+   a. Correct.\
+   b. Correct German, but it means something different.\
+   c. Incorrect — with movement, use *nach Hause*.\
+   d. Correct, but unusual.
 
 <details>
 <summary>Show solution</summary>
@@ -202,10 +202,10 @@ Nothing here tells you which of the two expressions is being tested. Look at the
 </details>
 
 13. **Ich gehe nach Hause** and **Ich gehe nach Hamburg.** What do these two uses of *nach* have in common?\
-   a. Beide zeigen ein Ziel.\
-   b. Beide zeigen eine Zeit.\
-   c. Beide brauchen einen Artikel.\
-   d. Nichts — es sind zwei verschiedene Wörter.
+   a. Both show a destination.\
+   b. Both show a time.\
+   c. Both need an article.\
+   d. Nothing — they are two different words.
 
 <details>
 <summary>Show solution</summary>

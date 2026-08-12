@@ -65,10 +65,10 @@ B: Ja, um sieben.
 </details>
 
 4. **Wir warten schon eine Stunde.** What is *schon* doing to the hour?\
-   a. Es sagt, dass eine Stunde wenig ist.\
-   b. Es sagt, dass es genau eine Stunde ist.\
-   c. Es sagt, dass eine Stunde viel ist.\
-   d. Es sagt, dass die Stunde gerade beginnt.
+   a. It presents one hour as a small amount.\
+   b. It says that it is exactly one hour.\
+   c. It presents one hour as a large amount.\
+   d. It says that the hour is just beginning.
 
 <details>
 <summary>Show solution</summary>
@@ -80,10 +80,10 @@ B: Ja, um sieben.
 </details>
 
 5. Your friend is nervous before an exam. You say: **Das schaffst du schon.**\
-   a. Du fragst nach dem Ergebnis.\
-   b. Du sagst, die Prüfung ist schon vorbei.\
-   c. Du machst ihm Mut.\
-   d. Du sagst, die Prüfung ist zu schwer.
+   a. You are asking about the result.\
+   b. You are saying the exam is already over.\
+   c. You are encouraging him.\
+   d. You are saying the exam is too difficult.
 
 <details>
 <summary>Show solution</summary>
@@ -128,10 +128,10 @@ B: Ja, um sieben.
 </details>
 
 8. What is the difference between **Ich lerne schon zwei Jahre Deutsch** and **Ich lerne erst zwei Jahre Deutsch**?\
-   a. Der erste Satz findet zwei Jahre viel, der zweite findet es wenig.\
-   b. Der erste Satz ist Vergangenheit, der zweite Gegenwart.\
-   c. Der erste Satz ist eine Frage.\
-   d. Im ersten Satz lernt eine andere Person.
+   a. The first sentence presents two years as a lot; the second presents it as little.\
+   b. The first sentence is past tense; the second is present tense.\
+   c. The first sentence is a question.\
+   d. A different person is learning in the first sentence.
 
 <details>
 <summary>Show solution</summary>
@@ -143,10 +143,10 @@ B: Ja, um sieben.
 </details>
 
 9. You want to say: **I'm not finished yet.** A learner writes **Ich bin schon nicht fertig.** How would you judge it?\
-   a. Für diese Bedeutung falsch — man braucht *noch nicht*.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Richtig, aber sehr höflich.\
-   d. Richtig, aber nur in Fragen.
+   a. Wrong for this meaning — you need *noch nicht*.\
+   b. Correct — exactly that meaning.\
+   c. Correct, but very polite.\
+   d. Correct, but only in questions.
 
 <details>
 <summary>Show solution</summary>
@@ -179,10 +179,10 @@ B: Ja, letztes Jahr.
 </details>
 
 11. **Schon wieder Regen!** What is the speaker feeling?\
-   a. Freude\
-   b. Ärger\
-   c. Überraschung ohne Wertung\
-   d. Angst
+   a. Happiness\
+   b. Annoyance\
+   c. Surprise without a positive or negative judgment\
+   d. Fear
 
 <details>
 <summary>Show solution</summary>
@@ -249,10 +249,10 @@ B: Nein danke, ich bin ___ satt.
 </details>
 
 15. You are meeting a friend at a restaurant at 19:15. At 19:00 you text: **Bist du schon da?** What are you asking?\
-   a. Ob er gleich losfährt.\
-   b. Ob er den Weg kennt.\
-   c. Ob er zu diesem Zeitpunkt schon angekommen ist.\
-   d. Ob er noch im Restaurant ist.
+   a. Whether he is about to leave.\
+   b. Whether he knows the way.\
+   c. Whether he has already arrived by that time.\
+   d. Whether he is still at the restaurant.
 
 <details>
 <summary>Show solution</summary>
@@ -279,10 +279,10 @@ B: Nein danke, ich bin ___ satt.
 </details>
 
 17. Compare **Er ist hier** and **Er ist schon hier.** What does *schon* add?\
-   a. Der zweite Satz ist eine Frage.\
-   b. Der zweite Satz ist höflicher.\
-   c. Der zweite Satz sagt, dass es früher ist als erwartet.\
-   d. Der zweite Satz sagt, dass er lange bleibt.
+   a. The second sentence is a question.\
+   b. The second sentence is more polite.\
+   c. The second sentence says he is here earlier than expected.\
+   d. The second sentence says he is staying for a long time.
 
 <details>
 <summary>Show solution</summary>

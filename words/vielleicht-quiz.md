@@ -39,10 +39,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 3. **Vielleicht können wir morgen telefonieren?** What is the speaker doing?\
-   a. Er ist wirklich unsicher, ob er kann.\
-   b. Er sagt Nein.\
-   c. Er macht höflich einen Vorschlag.\
-   d. Er fragt nach der Uhrzeit.
+   a. He is genuinely unsure whether he can.\
+   b. He is saying no.\
+   c. He is making a polite suggestion.\
+   d. He is asking about the time.
 
 <details>
 <summary>Show solution</summary>
@@ -54,10 +54,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 4. A learner writes **Vielleicht er kommt später.** What is wrong?\
-   a. *später* steht an der falschen Stelle.\
-   b. Das Verb muss direkt nach *vielleicht*: *Vielleicht kommt er später.*\
-   c. Man braucht hier *wahrscheinlich*.\
-   d. *vielleicht* darf nicht am Satzanfang stehen.
+   a. *später* is in the wrong position.\
+   b. The verb must come directly after *vielleicht*: *Vielleicht kommt er später.*\
+   c. You need *wahrscheinlich* here.\
+   d. *vielleicht* cannot appear at the beginning of a sentence.
 
 <details>
 <summary>Show solution</summary>
@@ -94,10 +94,10 @@ B: ___
 ## Part B — Tell It Apart
 
 6. What is the difference between **Können Sie mir helfen?** and **Können Sie mir vielleicht helfen?**\
-   a. Der zweite Satz klingt sanfter und vorsichtiger.\
-   b. Der zweite Satz ist unhöflich.\
-   c. Der zweite Satz fragt nach etwas anderem.\
-   d. Beide Sätze sind gleich.
+   a. The second sentence sounds softer and more tentative.\
+   b. The second sentence is impolite.\
+   c. The second sentence asks for something different.\
+   d. Both sentences are the same.
 
 <details>
 <summary>Show solution</summary>
@@ -109,10 +109,10 @@ B: ___
 </details>
 
 7. What is the difference between *vielleicht* and *wahrscheinlich*?\
-   a. *vielleicht* ist förmlicher.\
-   b. Beide bedeuten dasselbe.\
-   c. *wahrscheinlich* heißt "ganz sicher".\
-   d. *vielleicht* ist eher unsicher, *wahrscheinlich* eher sicher.
+   a. *vielleicht* is more formal.\
+   b. Both mean the same thing.\
+   c. *wahrscheinlich* means "completely certain."\
+   d. *vielleicht* expresses more uncertainty; *wahrscheinlich* expresses more confidence.
 
 <details>
 <summary>Show solution</summary>
@@ -124,10 +124,10 @@ B: ___
 </details>
 
 8. You want to say: **I have a lot of time.** A learner writes **Ich habe vielleicht Zeit.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsches Deutsch.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect German.\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -173,10 +173,10 @@ B: ___
 ## Part C — Apply It
 
 11. At a hotel desk: **Haben Sie vielleicht ein Zimmer frei?** What does *vielleicht* contribute?\
-   a. Der Sprecher weiß nicht, was ein Zimmer ist.\
-   b. Der Sprecher will nicht bezahlen.\
-   c. Der Sprecher fragt nach dem Preis.\
-   d. Die Frage klingt höflicher und weniger fordernd.
+   a. The speaker does not know what a room is.\
+   b. The speaker does not want to pay.\
+   c. The speaker is asking about the price.\
+   d. The question sounds more polite and less demanding.
 
 <details>
 <summary>Show solution</summary>
@@ -224,10 +224,10 @@ B: ___ — heute passt mir nicht.
 </details>
 
 14. Compare **Wir nehmen ein Taxi** and **Vielleicht nehmen wir ein Taxi.** What changes?\
-   a. Der zweite Satz ist ein Vorschlag, kein Beschluss.\
-   b. Der zweite Satz ist eine Frage.\
-   c. Der zweite Satz ist unhöflich.\
-   d. Im zweiten Satz fährt jemand anderes.
+   a. The second sentence is a suggestion, not a decision.\
+   b. The second sentence is a question.\
+   c. The second sentence is impolite.\
+   d. In the second sentence, someone else is traveling.
 
 <details>
 <summary>Show solution</summary>

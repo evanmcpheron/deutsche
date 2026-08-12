@@ -23,9 +23,9 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-2. **Sie ist gerade gegangen.** Wann ist sie gegangen?\
+2. **Sie ist gerade gegangen.** When did she leave?\
    a. Sie geht in einer Minute.\
-   b. Vor einem kurzen Moment.\
+   b. Vor einer Minute.\
    c. Vor zwei Wochen.\
    d. Sie ist noch hier.
 
@@ -75,10 +75,10 @@ B: Ich lese.
 </details>
 
 5. A learner writes **Ich bin arbeiten**, meaning "I'm working right now." What is wrong?\
-   a. *arbeiten* muss am Satzanfang stehen.\
-   b. Man braucht *kein* statt *bin*.\
-   c. Man braucht *werden* statt *sein*.\
-   d. Deutsch hat keine *-ing*-Form — richtig ist *Ich arbeite gerade.*
+   a. *arbeiten* must be at the beginning of the sentence.\
+   b. You need *kein* instead of *bin*.\
+   c. You need *werden* instead of *sein*.\
+   d. German has no *-ing* form — the correct sentence is *Ich arbeite gerade.*
 
 <details>
 <summary>Show solution</summary>
@@ -94,10 +94,10 @@ B: Ich lese.
 ## Part B — Tell It Apart
 
 6. What is the difference between **Ich arbeite** and **Ich arbeite gerade**?\
-   a. Der zweite Satz ist höflicher.\
-   b. Der zweite Satz ist eine Frage.\
-   c. Beide sagen genau dasselbe.\
-   d. Der erste kann den Beruf nennen, der zweite den Moment.
+   a. The second sentence is more polite.\
+   b. The second sentence is a question.\
+   c. Both say exactly the same thing.\
+   d. The first can describe your occupation; the second focuses on the current moment.
 
 <details>
 <summary>Show solution</summary>
@@ -123,7 +123,7 @@ B: Ich lese.
 
 </details>
 
-8. **Er ist gerade nicht da.** Was stimmt?\
+8. **Er ist gerade nicht da.** Which statement is correct?\
    a. Er kommt nie.\
    b. Er war noch nie da.\
    c. Im Moment ist er weg.\
@@ -138,7 +138,7 @@ B: Ich lese.
 
 </details>
 
-9. **Das ist nicht gerade billig.** Was meint der Sprecher?\
+9. **Das ist nicht gerade billig.** What does the speaker mean?\
    a. Es ist eher teuer.\
    b. Es ist sehr billig.\
    c. Der Preis ist genau richtig.\
@@ -173,10 +173,10 @@ B: Ich lese.
 ## Part C — Apply It
 
 11. What is the difference between *jetzt* and *gerade*?\
-   a. *jetzt* ist höflicher.\
-   b. Beide Wörter sind gleich.\
-   c. *gerade* meint genau diesen Moment, oft mitten in einer Handlung.\
-   d. *gerade* meint immer die Zukunft.
+   a. *jetzt* is more polite.\
+   b. Both words are the same.\
+   c. *gerade* focuses on this exact moment, often in the middle of an action.\
+   d. *gerade* always refers to the future.
 
 <details>
 <summary>Show solution</summary>
@@ -203,10 +203,10 @@ B: Ich lese.
 </details>
 
 13. You want to say: **She's on the phone right now.** A learner writes **Sie hat gerade telefoniert.**\
-   a. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Falsches Deutsch.\
-   d. Richtig, aber unhöflich.
+   a. Correct German, but it means something different.\
+   b. Correct — exactly that meaning.\
+   c. Incorrect German.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>

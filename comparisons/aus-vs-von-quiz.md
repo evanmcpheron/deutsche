@@ -143,10 +143,10 @@ Nothing here tells you which of the two words is being tested. Decide whether th
 ## Part B — Tell It Apart
 
 9. **Ich komme aus Köln** and **Ich komme von Köln.** What is the difference?\
-   a. Kein Unterschied.\
-   b. Das zweite ist falsches Deutsch.\
-   c. Das erste ist unhöflich.\
-   d. Beim ersten bin ich dort zu Hause, beim zweiten fängt nur die Fahrt dort an.
+   a. There is no difference.\
+   b. The second is incorrect German.\
+   c. The first is impolite.\
+   d. In the first, that place is my home/origin; in the second, the trip simply starts there.
 
 <details>
 <summary>Show solution</summary>
@@ -158,10 +158,10 @@ Nothing here tells you which of the two words is being tested. Decide whether th
 </details>
 
 10. A learner means *I'm from Canada* and writes **Ich komme von Kanada.**\
-   a. Richtig.\
-   b. Falsches Deutsch.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es beschreibt nur den Start der Reise.
+   a. Correct.\
+   b. Incorrect German.\
+   c. Correct, but impolite.\
+   d. Correct German, but it describes only the starting point of the trip.
 
 <details>
 <summary>Show solution</summary>
@@ -337,10 +337,10 @@ Ich komme gerade von der Uni.
 ```
 
    What do they tell you together? (die Uni = university, die Heimatstadt = home town)\
-   a. Sie wohnt in Wien und studiert dort.\
-   b. Sie fährt jetzt nach Wien.\
-   c. Wien ist ihre Heimatstadt, die Uni ist der Start von heute.\
-   d. Beide Sätze sagen dasselbe.
+   a. She lives in Vienna and studies there.\
+   b. She is traveling to Vienna now.\
+   c. Vienna is her home city; the university is where today’s trip started.\
+   d. Both sentences say the same thing.
 
 <details>
 <summary>Show solution</summary>
@@ -352,10 +352,10 @@ Ich komme gerade von der Uni.
 </details>
 
 21. At a station you hear **Der Zug von München kommt in zehn Minuten.** What does *von* tell you?\
-   a. München ist der Startbahnhof dieses Zuges.\
-   b. Der Zug fährt nach München.\
-   c. Der Zug gehört der Stadt München.\
-   d. Die Leute im Zug kommen alle aus München.
+   a. Munich is this train’s starting station.\
+   b. The train is going to Munich.\
+   c. The train belongs to the city of Munich.\
+   d. Everyone on the train is originally from Munich.
 
 <details>
 <summary>Show solution</summary>

@@ -135,10 +135,10 @@ Nothing here tells you which word is being tested. Decide whether the sentence d
 </details>
 
 9. A learner writes **Ich bin arbeiten.** What is wrong?\
-   a. *arbeiten* muss zu *arbeite* werden, sonst nichts.\
-   b. Deutsch hat keine *-ing*-Form — richtig ist *Ich arbeite gerade.*\
-   c. Man braucht *werden* statt *sein*.\
-   d. *arbeiten* muss am Satzanfang stehen.
+   a. *arbeiten* only needs to become *arbeite*.\
+   b. German has no *-ing* form — the correct sentence is *Ich arbeite gerade.*\
+   c. You need *werden* instead of *sein*.\
+   d. *arbeiten* must come at the beginning of the sentence.
 
 <details>
 <summary>Show solution</summary>
@@ -180,10 +180,10 @@ Nothing here tells you which word is being tested. Decide whether the sentence d
 </details>
 
 12. **gerade jetzt** — when do people use it?\
-   a. Wenn etwas jeden Tag passiert.\
-   b. Wenn etwas schon vorbei ist.\
-   c. Wenn etwas erst später kommt.\
-   d. Wenn der Zeitpunkt besonders ungünstig ist.
+   a. When something happens every day.\
+   b. When something is already over.\
+   c. When something will happen only later.\
+   d. When the timing is especially inconvenient.
 
 <details>
 <summary>Show solution</summary>
@@ -194,7 +194,7 @@ Nothing here tells you which word is being tested. Decide whether the sentence d
 
 </details>
 
-13. **Sie ist gerade gegangen.** Was stimmt?\
+13. **Sie ist gerade gegangen.** Which statement is correct?\
    a. Sie geht in einer Minute.\
    b. Sie ist vor kurzem gegangen.\
    c. Sie ist noch hier.\
@@ -271,10 +271,10 @@ B: ___ studiere ich in Leipzig.
 </details>
 
 17. You want to say: **I'm in the middle of cooking.** A learner writes **Ich koche jetzt.**\
-   a. Falsches Deutsch.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Korrektes Deutsch, aber es klingt eher nach einer Entscheidung.\
-   d. Richtig, aber unhöflich.
+   a. Incorrect German.\
+   b. Correct — exactly that meaning.\
+   c. Correct German, but it sounds more like a decision.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -316,10 +316,10 @@ B: ___ studiere ich in Leipzig.
 </details>
 
 20. **Er ist gerade nicht da.** What does the sentence quietly imply?\
-   a. Er kommt nie wieder.\
-   b. Er war noch nie hier.\
-   c. Er ist kurz weg und kommt zurück.\
-   d. Er arbeitet nicht mehr hier.
+   a. He will never come back.\
+   b. He has never been here.\
+   c. He is away briefly and will come back.\
+   d. He no longer works here.
 
 <details>
 <summary>Show solution</summary>

@@ -38,11 +38,11 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-3. **Das ist kein Problem.** Warum *kein* und nicht *nicht*?\
-   a. Weil der Satz eine Frage ist.\
-   b. Weil *Problem* ein Nomen ist.\
-   c. Weil *Problem* neutrum ist.\
-   d. Weil *nicht* nur mit Verben funktioniert.
+3. **Das ist kein Problem.** Why is *kein* used instead of *nicht*?\
+   a. Because the sentence is a question.\
+   b. Because *Problem* is a noun.\
+   c. Because *Problem* is neuter.\
+   d. Because *nicht* only works with verbs.
 
 <details>
 <summary>Show solution</summary>
@@ -103,10 +103,10 @@ Try each question before opening its solution. Each solution is directly below t
 ## Part B — Tell It Apart
 
 7. You want to say: **That isn't a good idea.** A learner writes **Das ist nicht eine gute Idee.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Richtig, aber unhöflich.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Ungewöhnlich — normal ist *Das ist keine gute Idee.*
+   a. Correct — this expresses exactly that meaning.\
+   b. Correct, but impolite.\
+   c. Grammatically possible, but it means something different.\
+   d. Unusual — the normal form is *Das ist keine gute Idee.*
 
 <details>
 <summary>Show solution</summary>
@@ -139,10 +139,10 @@ B: Nein, ich trinke ___ Kaffee.
 </details>
 
 9. What is the difference between **Ich trinke nicht** and **Ich trinke keinen Alkohol**?\
-   a. Der erste Satz ist falsch.\
-   b. Beide sagen genau dasselbe.\
-   c. Der erste verneint das Verb, der zweite nennt das Nomen.\
-   d. Der zweite Satz ist eine Frage.
+   a. The first sentence is incorrect.\
+   b. Both sentences say exactly the same thing.\
+   c. The first negates the action; the second names what is not being drunk.\
+   d. The second sentence is a question.
 
 <details>
 <summary>Show solution</summary>
@@ -168,7 +168,7 @@ B: Nein, ich trinke ___ Kaffee.
 
 </details>
 
-11. **Auf keinen Fall!** Was bedeutet das?\
+11. **Auf keinen Fall!** What does this mean?\
    a. Absolut nicht.\
    b. Vielleicht später.\
    c. Auf jeden Fall gern.\
@@ -184,10 +184,10 @@ B: Nein, ich trinke ___ Kaffee.
 </details>
 
 12. A learner writes **Ich habe nicht keine Zeit**, meaning "I don't have time." What went wrong?\
-   a. *Zeit* braucht den Artikel *die*.\
-   b. Zwei Verneinungen — richtig ist *Ich habe keine Zeit.*\
-   c. *keine* müsste *keinen* sein.\
-   d. *nicht* müsste am Satzende stehen.
+   a. *Zeit* needs the article *die*.\
+   b. There are two negations — the correct sentence is *Ich habe keine Zeit.*\
+   c. *keine* should be *keinen*.\
+   d. *nicht* should be at the end of the sentence.
 
 <details>
 <summary>Show solution</summary>
@@ -284,10 +284,10 @@ B: Nein, ich habe ___ Auto.
 </details>
 
 18. In **Ich habe keine Kinder**, what is the form *keine*?\
-   a. Der Plural — *ein* hat keinen, *kein* schon.\
-   b. Dativ Singular.\
-   c. Maskulin Akkusativ.\
-   d. Falsch; richtig wäre *keinen*.
+   a. Plural — *ein* has no plural form, but *kein* does.\
+   b. Dative singular.\
+   c. Masculine accusative.\
+   d. Incorrect; the correct form would be *keinen*.
 
 <details>
 <summary>Show solution</summary>

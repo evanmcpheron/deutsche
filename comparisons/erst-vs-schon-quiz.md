@@ -120,10 +120,10 @@ Nothing here tells you which of the two words is being tested. Work out which wa
 ## Part B — Tell It Apart
 
 8. **Es ist erst acht Uhr** and **Es ist schon acht Uhr.** What is the same and what differs?\
-   a. Die Uhrzeit ist verschieden, die Haltung gleich.\
-   b. Beides ist verschieden.\
-   c. Die Uhrzeit ist gleich, die Haltung verschieden.\
-   d. Beides ist gleich.
+   a. The time is different, but the attitude is the same.\
+   b. Both are different.\
+   c. The time is the same, but the attitude is different.\
+   d. Both are the same.
 
 <details>
 <summary>Show solution</summary>
@@ -135,10 +135,10 @@ Nothing here tells you which of the two words is being tested. Work out which wa
 </details>
 
 9. You want to say: **The train doesn't come until ten.** A learner writes **Der Zug kommt schon um zehn.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsches Deutsch.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es sagt das Gegenteil.
+   a. Correct — exactly that meaning.\
+   b. Incorrect German.\
+   c. Correct, but impolite.\
+   d. Correct German, but it says the opposite.
 
 <details>
 <summary>Show solution</summary>
@@ -150,10 +150,10 @@ Nothing here tells you which of the two words is being tested. Work out which wa
 </details>
 
 10. Why is **Ich habe erst zehn Euro** odd if you simply mean ten euros is all you have?\
-   a. Weil *erst* nicht mit Geld funktioniert.\
-   b. Weil *erst* nur in Fragen steht.\
-   c. Weil *erst* Fortschritt misst — es klingt, als käme noch Geld dazu.\
-   d. Weil zehn eine zu kleine Zahl ist.
+   a. Because *erst* cannot be used with money.\
+   b. Because *erst* is only used in questions.\
+   c. Because *erst* measures progress — it sounds as if more money is still coming.\
+   d. Because ten is too small a number.
 
 <details>
 <summary>Show solution</summary>
@@ -210,10 +210,10 @@ Nothing here tells you which of the two words is being tested. Work out which wa
 </details>
 
 14. A learner reads **Das Geschäft öffnet erst um neun** as "the shop opens at nine, first." What have they missed?\
-   a. Dass *erst* hier heißt: vor neun ist geschlossen.\
-   b. Dass *öffnen* ein trennbares Verb ist.\
-   c. Dass *um* hier falsch ist.\
-   d. Dass *neun* eine Uhrzeit ist.
+   a. That *erst* here means it is closed before nine.\
+   b. That *öffnen* is a separable verb.\
+   c. That *um* is wrong here.\
+   d. That nine is a time.
 
 <details>
 <summary>Show solution</summary>
@@ -285,7 +285,7 @@ B: ___ seit fünfzehn Jahren.
 
 </details>
 
-18. **Erst mal einen Kaffee.** Was bedeutet das?\
+18. **Erst mal einen Kaffee.** What does this mean?\
    a. Kaffee vor allem anderen.\
    b. Nur einen einzigen Kaffee, nie mehr.\
    c. Noch einen Kaffee dazu.\

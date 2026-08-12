@@ -86,10 +86,10 @@ Nothing here tells you which of the two negations is being tested. Look at what 
 </details>
 
 6. Which shortcut do most learners find useful?\
-   a. Wenn ein Verb folgt, nimm *kein*.\
-   b. Wenn *ein* davor passen würde, nimm *kein*.\
-   c. Wenn das Wort großgeschrieben ist, nimm *nicht*.\
-   d. Wenn der Satz kurz ist, nimm *kein*.\
+   a. If a verb follows, use *kein*.\
+   b. If *ein* could fit before it, use *kein*.\
+   c. If the word is capitalized, use *nicht*.\
+   d. If the sentence is short, use *kein*.\
 
 <details>
 <summary>Show solution</summary>
@@ -135,10 +135,10 @@ Nothing here tells you which of the two negations is being tested. Look at what 
 ## Part B — Tell It Apart
 
 9. What is the difference between **Ich habe keine Zeit** and **Ich habe die Zeit nicht**?\
-   a. Der zweite Satz spricht über eine bestimmte Zeit.\
-   b. Der zweite Satz ist falsch.\
-   c. Beide sagen genau dasselbe.\
-   d. Der erste Satz ist eine Frage.
+   a. The second sentence refers to a specific time.\
+   b. The second sentence is incorrect.\
+   c. Both sentences mean exactly the same thing.\
+   d. The first sentence is a question.
 
 <details>
 <summary>Show solution</summary>
@@ -150,10 +150,10 @@ Nothing here tells you which of the two negations is being tested. Look at what 
 </details>
 
 10. You want to say: **I don't have time.** A learner writes **Ich habe nicht Zeit.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   c. Richtig, aber unhöflich.\
-   d. Falsch — vor einem Nomen ohne Artikel braucht man *kein*.
+   a. Correct — exactly that meaning.\
+   b. Correct German, but it means something different.\
+   c. Correct, but impolite.\
+   d. Incorrect — before a noun without an article, you need *kein*.
 
 <details>
 <summary>Show solution</summary>
@@ -165,10 +165,10 @@ Nothing here tells you which of the two negations is being tested. Look at what 
 </details>
 
 11. You want to say: **That isn't good.** A learner writes **Das ist kein gut.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — Adjektive nehmen nie *kein*.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect — adjectives do not take *kein*.\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -240,10 +240,10 @@ Nothing here tells you which of the two negations is being tested. Look at what 
 </details>
 
 16. What is the difference between **Ich trinke nicht** and **Ich trinke keinen Wein**?\
-   a. Der erste Satz ist falsch.\
-   b. Der erste verneint die Gewohnheit, der zweite ein bestimmtes Getränk.\
-   c. Beide sagen genau dasselbe.\
-   d. Der zweite Satz ist eine Frage.
+   a. The first sentence is incorrect.\
+   b. The first negates the general habit; the second negates a particular drink.\
+   c. Both sentences mean exactly the same thing.\
+   d. The second sentence is a question.
 
 <details>
 <summary>Show solution</summary>
@@ -322,10 +322,10 @@ B: Nein, sie ist ___ heiß.
 </details>
 
 20. A learner writes **Ich habe nicht keine Ahnung.** What is wrong?\
-   a. *Ahnung* braucht den Artikel *der*.\
-   b. *keine* müsste *keinen* sein.\
-   c. *nicht* müsste am Satzende stehen.\
-   d. Zwei Verneinungen — richtig ist *Ich habe keine Ahnung.*
+   a. *Ahnung* needs the article *der*.\
+   b. *keine* should be *keinen*.\
+   c. *nicht* should be at the end of the sentence.\
+   d. There are two negations — the correct sentence is *Ich habe keine Ahnung.*
 
 <details>
 <summary>Show solution</summary>
@@ -382,10 +382,10 @@ B: Nein, sie ist ___ heiß.
 </details>
 
 24. Why does **Ich habe heute nicht viel Zeit** use *nicht*, even though *Zeit* is a noun?\
-   a. Weil *Zeit* feminin ist.\
-   b. Weil der Satz eine Zeitangabe enthält.\
-   c. Weil *nicht* hier *viel* verneint, nicht das Nomen allein.\
-   d. Weil *kein* nur im Plural steht.
+   a. Because *Zeit* is feminine.\
+   b. Because the sentence contains a time expression.\
+   c. Because *nicht* negates *viel* here, not the noun by itself.\
+   d. Because *kein* is only used in the plural.
 
 <details>
 <summary>Show solution</summary>

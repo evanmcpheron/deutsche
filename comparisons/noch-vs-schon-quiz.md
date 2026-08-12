@@ -137,8 +137,8 @@ Nothing here tells you which of the two words is being tested. Read the situatio
 9. One of these asks whether someone has arrived. Which?\
    a. Bist du noch da?\
    b. Bist du schon da?\
-   c. Beide Fragen.\
-   d. Keine von beiden.
+   c. Both questions.\
+   d. Neither question.
 
 <details>
 <summary>Show solution</summary>
@@ -150,10 +150,10 @@ Nothing here tells you which of the two words is being tested. Read the situatio
 </details>
 
 10. What is the difference between **Wir warten schon eine Stunde** and **Wir warten noch eine Stunde**?\
-   a. Beide sagen genau dasselbe.\
-   b. Der erste Satz ist eine Frage.\
-   c. Der erste Satz spricht über die Zukunft.\
-   d. Der erste zählt vergangene Zeit, der zweite kommende Zeit.
+   a. Both sentences mean exactly the same thing.\
+   b. The first sentence is a question.\
+   c. The first sentence refers to the future.\
+   d. The first counts elapsed time; the second counts time still to come.
 
 <details>
 <summary>Show solution</summary>
@@ -172,7 +172,7 @@ Nothing here tells you which of the two words is being tested. Read the situatio
 16:00 — Der Bus fährt.
 ```
 
-   Es ist 16:00. Welcher Satz passt?\
+   It is 16:00. Which sentence fits?\
    a. Der Bus fährt noch.\
    b. Der Bus fährt schon.\
    c. Der Bus fährt noch nicht.\
@@ -195,7 +195,7 @@ Dienstag: Anna sucht eine Wohnung.
 Mittwoch: Anna findet eine Wohnung.
 ```
 
-   Am Mittwochabend. Welcher Satz passt?\
+   On Wednesday evening, which sentence fits?\
    a. Anna sucht noch eine Wohnung.\
    b. Anna sucht noch nicht.\
    c. Anna sucht wieder eine Wohnung.\
@@ -241,10 +241,10 @@ Mittwoch: Anna findet eine Wohnung.
 </details>
 
 15. You want to say: **I haven't eaten yet.** A learner writes **Ich habe schon nicht gegessen.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Für diese Bedeutung falsch — richtig ist *noch nicht*.\
-   c. Richtig, aber unhöflich.\
-   d. Richtig, aber nur in Fragen.
+   a. Correct — exactly that meaning.\
+   b. Incorrect for this meaning — the correct form is *noch nicht*.\
+   c. Correct, but impolite.\
+   d. Correct, but only in questions.
 
 <details>
 <summary>Show solution</summary>
@@ -256,10 +256,10 @@ Mittwoch: Anna findet eine Wohnung.
 </details>
 
 16. You want to say: **He doesn't live here any more.** A learner writes **Er wohnt nicht noch hier.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — richtig ist *Er wohnt nicht mehr hier.*\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect — the correct sentence is *Er wohnt nicht mehr hier.*\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -338,10 +338,10 @@ B: Nein, er ist ___ nicht da.
 </details>
 
 20. You are nervous before an exam and a friend says **Das wird schon.** What is *schon* doing?\
-   a. Es heißt hier "bereits".\
-   b. Es beruhigt — "keine Sorge".\
-   c. Es fragt nach der Zeit.\
-   d. Es verneint den Satz.
+   a. It means "already" here.\
+   b. It reassures the listener — "don't worry."\
+   c. It asks about the time.\
+   d. It negates the sentence.
 
 <details>
 <summary>Show solution</summary>

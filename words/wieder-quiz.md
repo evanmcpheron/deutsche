@@ -23,7 +23,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-2. **Ich bin wieder da.** Was ist passiert?\
+2. **Ich bin wieder da.** What happened?\
    a. Ich bin nie weggegangen.\
    b. Ich komme später.\
    c. Ich war weg und bin zurück.\
@@ -46,7 +46,7 @@ Juni: Der Laden ist geschlossen.
 Juli: Der Laden ist offen.
 ```
 
-   Welcher Satz beschreibt den Juli?\
+   Which sentence describes July?\
    a. Der Laden ist noch offen.\
    b. Der Laden ist wieder offen.\
    c. Der Laden ist schon offen.\
@@ -96,10 +96,10 @@ Juli: Der Laden ist offen.
 ## Part B — Tell It Apart
 
 6. What is the difference between *immer noch* and *immer wieder*?\
-   a. *immer noch* = mehrmals, *immer wieder* = ohne Pause.\
-   b. *immer noch* = ohne Pause, *immer wieder* = mehrmals.\
-   c. Beide bedeuten dasselbe.\
-   d. *immer wieder* ist nur die höfliche Form.
+   a. *immer noch* = repeatedly; *immer wieder* = without a break.\
+   b. *immer noch* = without a break; *immer wieder* = repeatedly.\
+   c. Both mean the same thing.\
+   d. *immer wieder* is only the more polite form.
 
 <details>
 <summary>Show solution</summary>
@@ -126,10 +126,10 @@ Juli: Der Laden ist offen.
 </details>
 
 8. You want to say: **He's still ill.** A learner writes **Er ist wieder krank.** How would you judge it?\
-   a. Falsches Deutsch.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es bedeutet etwas anderes.
+   a. Incorrect German.\
+   b. Correct — exactly that meaning.\
+   c. Correct, but impolite.\
+   d. Correct German, but it means something different.
 
 <details>
 <summary>Show solution</summary>
@@ -155,11 +155,11 @@ Juli: Der Laden ist offen.
 
 </details>
 
-10. **Nie wieder!** Wann sagt man das?\
-   a. Wenn etwas gerade beginnt.\
-   b. Wenn man etwas noch nicht gemacht hat.\
-   c. Wenn man etwas gleich wiederholt.\
-   d. Wenn man etwas nicht noch einmal machen will.
+10. **Nie wieder!** When do you say this?\
+   a. When something is just beginning.\
+   b. When you have not done something yet.\
+   c. When you are about to repeat something.\
+   d. When you do not want to do something again.
 
 <details>
 <summary>Show solution</summary>
@@ -211,10 +211,10 @@ B: Danke, es geht ihm ___ gut.
 </details>
 
 13. A learner wants to say "I'll come again tomorrow" and writes **Ich komme morgen noch.** What went wrong?\
-   a. *noch* sagt, dass etwas nicht aufgehört hat — hier braucht man *wieder*.\
-   b. Das Verb steht an der falschen Stelle.\
-   c. *morgen* darf nicht in der Satzmitte stehen.\
-   d. Man braucht *kein* statt *noch*.
+   a. *noch* says something has not stopped — here you need *wieder*.\
+   b. The verb is in the wrong position.\
+   c. *morgen* cannot appear in the middle of the sentence.\
+   d. You need *kein* instead of *noch*.
 
 <details>
 <summary>Show solution</summary>
@@ -233,7 +233,7 @@ Dienstag: Das Café ist geschlossen.
 Mittwoch: Das Café öffnet.
 ```
 
-   Welcher Satz passt zum Mittwoch?\
+   Which sentence fits Wednesday?\
    a. Das Café ist noch geschlossen.\
    b. Das Café ist schon offen.\
    c. Das Café ist wieder offen.\
@@ -264,10 +264,10 @@ Mittwoch: Das Café öffnet.
 </details>
 
 16. You tell a friend you are moving flat, and she replies: **Schon wieder?** What is her tone?\
-   a. Begeistert.\
-   b. Leicht genervt oder überrascht.\
-   c. Traurig.\
-   d. Ganz neutral, ohne Gefühl.\
+   a. Enthusiastic.\
+   b. Slightly annoyed or surprised.\
+   c. Sad.\
+   d. Completely neutral, with no emotion.\
 
 <details>
 <summary>Show solution</summary>

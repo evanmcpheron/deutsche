@@ -41,10 +41,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 3. What is the actual difference between the two words?\
-   a. Die Bedeutung ist ganz anders.\
-   b. Die Wortstellung im zweiten Satzteil.\
-   c. *denn* ist höflicher.\
-   d. *weil* steht nur in Fragen.
+   a. Their meanings are completely different.\
+   b. The word order in the second clause.\
+   c. *denn* is more polite.\
+   d. *weil* is used only in questions.
 
 <details>
 <summary>Show solution</summary>
@@ -71,10 +71,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 5. Why can neither *denn* option in question 4 work?\
-   a. Weil *keine* falsch ist.\
-   b. Weil *Zeit* ein Nomen ist.\
-   c. Weil *denn* zwei Nebensätze verbindet.\
-   d. Weil *denn* keinen Satz beginnen kann.
+   a. Because *keine* is incorrect.\
+   b. Because *Zeit* is a noun.\
+   c. Because *denn* connects two subordinate clauses.\
+   d. Because *denn* cannot begin a standalone answer sentence.
 
 <details>
 <summary>Show solution</summary>
@@ -86,10 +86,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 6. Where does the verb go after *weil*?\
-   a. An die zweite Stelle.\
-   b. Direkt nach *weil*.\
-   c. Ans Ende des Satzteils.\
-   d. Vor das Subjekt.
+   a. In second position.\
+   b. Directly after *weil*.\
+   c. At the end of the clause.\
+   d. Before the subject.
 
 <details>
 <summary>Show solution</summary>
@@ -105,10 +105,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 ## Part B — Diagnose the Error
 
 7. A learner writes **Ich gehe nicht, denn ich krank bin.** What is wrong?\
-   a. Nach *denn* bleibt die normale Wortstellung: *denn ich bin krank.*\
-   b. *denn* muss *weil* sein.\
-   c. *krank* muss vor *ich* stehen.\
-   d. Das Komma fehlt.
+   a. After *denn*, normal word order remains: *denn ich bin krank.*\
+   b. *denn* must be replaced with *weil*.\
+   c. *krank* must come before *ich*.\
+   d. The comma is missing.
 
 <details>
 <summary>Show solution</summary>
@@ -120,10 +120,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 8. Another learner writes **Ich gehe nicht, weil ich bin krank.** What is wrong?\
-   a. Nach *weil* bleibt die normale Wortstellung.\
-   b. Nach *weil* geht das Verb ans Ende: *weil ich krank bin.*\
-   c. *weil* muss *denn* sein.\
-   d. *krank* ist hier falsch.
+   a. After *weil*, normal word order remains.\
+   b. After *weil*, the verb goes to the end: *weil ich krank bin.*\
+   c. *weil* must be replaced with *denn*.\
+   d. *krank* is incorrect here.
 
 <details>
 <summary>Show solution</summary>
@@ -135,10 +135,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 9. **Was ist denn das?** What is *denn* doing in that question?\
-   a. Es gibt einen Grund an.\
-   b. Es verbindet zwei Hauptsätze.\
-   c. Es heißt hier "weil".\
-   d. Es ist die Frage-Partikel und hat nichts mit Gründen zu tun.
+   a. It gives a reason.\
+   b. It connects two main clauses.\
+   c. It means “because” here.\
+   d. It is the question particle here and has nothing to do with giving a reason.
 
 <details>
 <summary>Show solution</summary>
@@ -165,10 +165,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 11. What does the lesson suggest as a practical A1 strategy?\
-   a. Immer *weil* benutzen, nie *denn*.\
-   b. *denn* benutzen, solange die Wortstellung wackelt, dann zu *weil* wechseln.\
-   c. Beide Wörter vermeiden.\
-   d. Immer *denn* benutzen.
+   a. Always use *weil* and never *denn*.\
+   b. Use *denn* while subordinate-clause word order is still difficult, then add *weil*.\
+   c. Avoid both words.\
+   d. Always use *denn*.
 
 <details>
 <summary>Show solution</summary>
@@ -180,10 +180,10 @@ Both words mean "because." Almost everything here is about what happens to the *
 </details>
 
 12. **Wir gehen nicht, denn es regnet** and **Wir gehen nicht, weil es regnet.** Why do they look almost identical?\
-   a. Weil *denn* und *weil* dasselbe Wort sind.\
-   b. Weil der Satz eine Frage ist.\
-   c. Weil *es regnet* nur ein Verb hat — die Wortstellung fällt kaum auf.\
-   d. Weil beide Sätze falsch sind.
+   a. Because *denn* and *weil* are the same word.\
+   b. Because the sentence is a question.\
+   c. Because *es regnet* has only one verb, so the word-order difference is barely visible.\
+   d. Because both sentences are incorrect.
 
 <details>
 <summary>Show solution</summary>
@@ -297,8 +297,8 @@ B: ___
 19. Which word do German speakers use more in everyday conversation?\
    a. weil\
    b. denn\
-   c. Beide etwa gleich oft.\
-   d. Keins von beiden.
+   c. Both about equally often.\
+   d. Neither.
 
 <details>
 <summary>Show solution</summary>
@@ -310,10 +310,10 @@ B: ___
 </details>
 
 20. How would you judge **Ich bleibe hier, denn ich keine Zeit habe**?\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — nach *denn* steht das Verb an zweiter Stelle: *denn ich habe keine Zeit.*\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect — after *denn*, the verb stays in second position: *denn ich habe keine Zeit.*\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>

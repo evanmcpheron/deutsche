@@ -195,10 +195,10 @@ Nothing here tells you which form is being tested. Decide from the situation whe
 </details>
 
 13. What is the difference between **Er ist noch nicht hier** and **Er ist nicht mehr hier**?\
-   a. Beide sagen genau dasselbe.\
-   b. Der erste: er kommt noch. Der zweite: er war da und ist weg.\
-   c. Der erste: er war da. Der zweite: er kommt noch.\
-   d. Der zweite Satz ist falsch.
+   a. Both sentences mean exactly the same thing.\
+   b. First: he is still expected to come. Second: he was there and has left.\
+   c. First: he was there. Second: he is still expected to come.\
+   d. The second sentence is incorrect.
 
 <details>
 <summary>Show solution</summary>
@@ -210,10 +210,10 @@ Nothing here tells you which form is being tested. Decide from the situation whe
 </details>
 
 14. You want to say: **I don't have time any more.** A learner writes **Ich habe nicht mehr Zeit.**\
-   a. Falsch — bei einem Nomen heißt es *keine Zeit mehr*.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Incorrect — with a noun, the form is *keine Zeit mehr*.\
+   b. Correct — exactly that meaning.\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -229,10 +229,10 @@ Nothing here tells you which form is being tested. Decide from the situation whe
 ## Part C — Apply It
 
 15. You want to say: **He doesn't work here any more.** A learner writes **Er arbeitet noch nicht hier.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsches Deutsch.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es sagt fast das Gegenteil.
+   a. Correct — exactly that meaning.\
+   b. Incorrect German.\
+   c. Correct, but impolite.\
+   d. Correct German, but it says almost the opposite.
 
 <details>
 <summary>Show solution</summary>

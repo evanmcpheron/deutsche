@@ -121,8 +121,8 @@ Nothing here tells you which of the two words is being tested. Read the situatio
 
 8. Which of **Ich bin wieder hier** and **Ich bin noch hier** means you never left?\
    a. Ich bin wieder hier.\
-   b. Beide Sätze.\
-   c. Keiner der beiden.\
+   b. Both sentences.\
+   c. Neither sentence.\
    d. Ich bin noch hier.
 
 <details>
@@ -135,10 +135,10 @@ Nothing here tells you which of the two words is being tested. Read the situatio
 </details>
 
 9. What is the difference between *immer noch* and *immer wieder*?\
-   a. *immer noch* = mehrmals; *immer wieder* = ohne Pause.\
-   b. Beide bedeuten dasselbe.\
-   c. *immer noch* = eine lange Situation ohne Pause; *immer wieder* = getrennte Ereignisse.\
-   d. *immer wieder* ist nur die höfliche Form.
+   a. *immer noch* = repeatedly; *immer wieder* = without a break.\
+   b. Both mean the same thing.\
+   c. *immer noch* = one long situation without a break; *immer wieder* = separate events.\
+   d. *immer wieder* is only the polite form.
 
 <details>
 <summary>Show solution</summary>
@@ -150,10 +150,10 @@ Nothing here tells you which of the two words is being tested. Read the situatio
 </details>
 
 10. You want to say: **The shop is still open.** A learner writes **Das Geschäft ist wieder offen.**\
-   a. Falsches Deutsch.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es bedeutet etwas anderes.
+   a. Incorrect German.\
+   b. Correct — exactly that meaning.\
+   c. Correct, but impolite.\
+   d. Correct German, but it means something different.
 
 <details>
 <summary>Show solution</summary>
@@ -187,7 +187,7 @@ Juli: Das Museum ist geschlossen.
 August: Das Museum ist offen.
 ```
 
-   Welcher Satz beschreibt den August?\
+   Which sentence describes August?\
    a. Das Museum ist noch offen.\
    b. Das Museum ist wieder offen.\
    c. Das Museum ist schon offen.\
@@ -210,7 +210,7 @@ August: Das Museum ist offen.
 13:00 — Lena liest.
 ```
 
-   Um 13:00. Welcher Satz passt?\
+   At 13:00, which sentence fits?\
    a. Lena liest wieder.\
    b. Lena liest schon wieder.\
    c. Lena liest noch.\
@@ -241,10 +241,10 @@ August: Das Museum ist offen.
 </details>
 
 15. What does *schon* add in **schon wieder**?\
-   a. Höflichkeit.\
-   b. Eine Frage.\
-   c. Nichts — der Satz wird nur länger.\
-   d. Ärger — es passiert zu früh und zu oft.
+   a. Politeness.\
+   b. A question.\
+   c. Nothing — it only makes the sentence longer.\
+   d. Annoyance — it is happening too soon and too often.
 
 <details>
 <summary>Show solution</summary>
@@ -260,10 +260,10 @@ August: Das Museum ist offen.
 ## Part C — Diagnose and Judge
 
 16. A learner writes **Ich komme morgen noch**, meaning "I'll come again tomorrow." What is wrong?\
-   a. *morgen* steht an der falschen Stelle.\
-   b. Man braucht *schon* statt *noch*.\
-   c. Ein Besuch ist ein neues Ereignis — richtig ist *wieder*.\
-   d. Das Verb steht an der falschen Stelle.
+   a. *morgen* is in the wrong position.\
+   b. You need *schon* instead of *noch*.\
+   c. A visit is a new event — the correct word is *wieder*.\
+   d. The verb is in the wrong position.
 
 <details>
 <summary>Show solution</summary>
@@ -275,10 +275,10 @@ August: Das Museum ist offen.
 </details>
 
 17. A learner writes **Er ist wieder krank seit drei Wochen.** What is wrong with the meaning?\
-   a. *wieder* verlangt eine Pause — bei drei Wochen ohne Pause braucht man *noch*.\
-   b. *seit* ist hier falsch.\
-   c. *drei Wochen* muss am Satzanfang stehen.\
-   d. Man braucht *kein* statt *wieder*.
+   a. *wieder* requires a break — with three uninterrupted weeks, you need *noch*.\
+   b. *seit* is wrong here.\
+   c. *drei Wochen* must be at the beginning of the sentence.\
+   d. You need *kein* instead of *wieder*.
 
 <details>
 <summary>Show solution</summary>
@@ -304,7 +304,7 @@ August: Das Museum ist offen.
 
 </details>
 
-19. **Nie wieder!** Was bedeutet das?\
+19. **Nie wieder!** What does this mean?\
    a. Noch nie.\
    b. Immer wieder.\
    c. Gerade wieder.\

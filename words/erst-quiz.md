@@ -30,7 +30,7 @@ Es ist ___ sieben Uhr.
 
 </details>
 
-2. **Der Zug kommt erst um zehn.** Was bedeutet das?\
+2. **Der Zug kommt erst um zehn.** What does this mean?\
    a. Der Zug kommt vor zehn.\
    b. Der erste Zug fährt um zehn.\
    c. Der Zug kommt nicht vor zehn.\
@@ -101,10 +101,10 @@ B: ___ zwei Monate.
 ## Part B — Tell It Apart
 
 6. **Es ist erst acht Uhr** and **Es ist schon acht Uhr** report the same time. What actually differs?\
-   a. Die Haltung des Sprechers zur Zeit.\
-   b. Die Uhrzeit selbst.\
-   c. Der Ort.\
-   d. Die Person, die spricht.
+   a. The speaker's attitude toward the time.\
+   b. The time itself.\
+   c. The place.\
+   d. The person who is speaking.
 
 <details>
 <summary>Show solution</summary>
@@ -115,7 +115,7 @@ B: ___ zwei Monate.
 
 </details>
 
-7. **Ich komme erst morgen.** Was stimmt?\
+7. **Ich komme erst morgen.** Which statement is correct?\
    a. Ich komme heute und morgen.\
    b. Ich komme heute nicht, sondern morgen.\
    c. Ich komme morgen als Erster.\
@@ -131,10 +131,10 @@ B: ___ zwei Monate.
 </details>
 
 8. Why does German say **Ich habe nur zehn Euro** rather than *erst zehn Euro*?\
-   a. Weil *erst* nie mit Zahlen steht.\
-   b. Weil *nur* höflicher ist.\
-   c. Weil Geld eine feste Menge ist und keine Skala, die weiterläuft.\
-   d. Weil *erst* nur in Fragen steht.
+   a. Because *erst* is never used with numbers.\
+   b. Because *nur* is more polite.\
+   c. Because money here is a fixed amount, not progress along something that keeps moving.\
+   d. Because *erst* is used only in questions.
 
 <details>
 <summary>Show solution</summary>
@@ -146,10 +146,10 @@ B: ___ zwei Monate.
 </details>
 
 9. You want to say: **We've been waiting a whole hour!** A learner writes **Wir warten erst eine Stunde.** How would you judge it?\
-   a. Korrektes Deutsch, aber es sagt das Gegenteil.\
-   b. Richtig — genau diese Bedeutung.\
-   c. Falsches Deutsch.\
-   d. Richtig, aber unhöflich.
+   a. Correct German, but it says the opposite.\
+   b. Correct — exactly that meaning.\
+   c. Incorrect German.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -216,10 +216,10 @@ B: ___ mal einen Kaffee!
 </details>
 
 13. A learner writes **Ich bin erste seit gestern hier.** What is wrong?\
-   a. *seit* ist hier falsch.\
-   b. *hier* steht an der falschen Stelle.\
-   c. Man braucht *schon* statt *erst*.\
-   d. *erste* ist ein Adjektiv — hier braucht man das Adverb *erst*.
+   a. *seit* is wrong here.\
+   b. *hier* is in the wrong position.\
+   c. You need *schon* instead of *erst*.\
+   d. *erste* is an adjective — here you need the adverb *erst*.
 
 <details>
 <summary>Show solution</summary>
@@ -231,10 +231,10 @@ B: ___ mal einen Kaffee!
 </details>
 
 14. A shop assistant tells you: **Wir haben erst ab neun geöffnet.** What is she assuming about you?\
-   a. Dass du zu spät kommst.\
-   b. Dass du früher da bist, als das Geschäft öffnet.\
-   c. Dass du nichts kaufen willst.\
-   d. Dass du gestern schon hier warst.
+   a. That you are arriving too late.\
+   b. That you are there before the shop opens.\
+   c. That you do not want to buy anything.\
+   d. That you were already there yesterday.
 
 <details>
 <summary>Show solution</summary>
@@ -260,7 +260,7 @@ B: ___ mal einen Kaffee!
 
 </details>
 
-16. **Erst mal langsam!** Was bedeutet das ungefähr?\
+16. **Erst mal langsam!** What does this mean approximately?\
    a. Fahr schneller.\
    b. Mach es noch einmal.\
    c. Nicht so schnell — eins nach dem anderen.\

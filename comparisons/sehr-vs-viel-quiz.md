@@ -86,10 +86,10 @@ Nothing here tells you which word is being tested. Look at what is being modifie
 </details>
 
 6. What decides which of the two words you use?\
-   a. Die Länge des Satzes.\
-   b. Ob der Satz eine Frage ist.\
-   c. Die Wortart des Wortes, das verstärkt wird.\
-   d. Ob das Wort großgeschrieben ist.
+   a. The length of the sentence.\
+   b. Whether the sentence is a question.\
+   c. The word class of the word being intensified or measured.\
+   d. Whether the word is capitalized.
 
 <details>
 <summary>Show solution</summary>
@@ -105,10 +105,10 @@ Nothing here tells you which word is being tested. Look at what is being modifie
 ## Part B — Tell It Apart
 
 7. You want to say: **I have a lot of time.** A learner writes **Ich habe sehr Zeit.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — vor einem Nomen steht *viel*.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect — before a noun, use *viel*.\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -120,10 +120,10 @@ Nothing here tells you which word is being tested. Look at what is being modifie
 </details>
 
 8. You want to say: **That's very good.** A learner writes **Das ist viel gut.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — vor einem Adjektiv steht *sehr*.\
-   c. Korrektes Deutsch, aber es bedeutet etwas anderes.\
-   d. Richtig, aber unhöflich.
+   a. Correct — exactly that meaning.\
+   b. Incorrect — before an adjective, use *sehr*.\
+   c. Correct German, but it means something different.\
+   d. Correct, but impolite.
 
 <details>
 <summary>Show solution</summary>
@@ -135,10 +135,10 @@ Nothing here tells you which word is being tested. Look at what is being modifie
 </details>
 
 9. In **Ich habe sehr viel Arbeit**, why do both words appear?\
-   a. *viel* zählt die Arbeit, *sehr* verstärkt das *viel*.\
-   b. Der Satz ist falsch.\
-   c. *sehr* zählt, *viel* verstärkt.\
-   d. Beide sind hier austauschbar.
+   a. *viel* measures the amount of work, and *sehr* intensifies *viel*.\
+   b. The sentence is incorrect.\
+   c. *sehr* measures the amount, and *viel* intensifies it.\
+   d. The two words are interchangeable here.
 
 <details>
 <summary>Show solution</summary>
@@ -195,10 +195,10 @@ Nothing here tells you which word is being tested. Look at what is being modifie
 </details>
 
 13. Why does **Er isst viel** use one word and **Er isst sehr schnell** the other?\
-   a. Weil der zweite Satz eine Frage ist.\
-   b. Das erste verstärkt ein Verb, das zweite ein Adverb.\
-   c. Weil *essen* unregelmäßig ist.\
-   d. Weil *schnell* ein Nomen ist.
+   a. Because the second sentence is a question.\
+   b. The first measures a verb; the second intensifies an adverb.\
+   c. Because *essen* is irregular.\
+   d. Because *schnell* is a noun.
 
 <details>
 <summary>Show solution</summary>
@@ -286,10 +286,10 @@ B: Nein, ich habe ___ Arbeit.
 </details>
 
 18. In **Das freut mich sehr**, why is *sehr* at the end?\
-   a. Weil der Satz eine Frage ist.\
-   b. Weil *mich* ein Nomen ist.\
-   c. Weil *sehr* hier ein Verb verstärkt und dahinter steht.\
-   d. Weil *sehr* immer am Satzende steht.
+   a. Because the sentence is a question.\
+   b. Because *mich* is a noun.\
+   c. Because *sehr* modifies a verb here and follows it.\
+   d. Because *sehr* is always at the end of a sentence.
 
 <details>
 <summary>Show solution</summary>

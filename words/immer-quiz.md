@@ -88,10 +88,10 @@ Try each question before opening its solution. Each solution is directly below t
 ## Part B — Tell It Apart
 
 6. What is the difference between **Der Bus kommt zu spät** and **Der Bus kommt immer zu spät**?\
-   a. Der zweite Satz spricht nur über heute.\
-   b. Der zweite Satz beschwert sich über den Bus allgemein.\
-   c. Der zweite Satz ist eine Frage.\
-   d. Beide sagen genau dasselbe.
+   a. The second sentence refers only to today.\
+   b. The second sentence complains about the bus in general.\
+   c. The second sentence is a question.\
+   d. Both say exactly the same thing.
 
 <details>
 <summary>Show solution</summary>
@@ -102,11 +102,11 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-7. **Sie ruft immer wieder an.** Was stimmt?\
-   a. Sie ruft einmal an.\
-   b. Sie ruft nie an.\
-   c. Sie ruft mehrmals an — wieder und wieder.\
-   d. Sie ruft gerade an.
+7. **Sie ruft immer wieder an.** Which statement is correct?\
+   a. She calls once.\
+   b. She never calls.\
+   c. She calls repeatedly — again and again.\
+   d. She is calling right now.
 
 <details>
 <summary>Show solution</summary>
@@ -118,10 +118,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 8. You want to say: **He's still ill — this is dragging on.** A learner writes **Er ist immer krank.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsches Deutsch.\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es bedeutet etwas anderes.
+   a. Correct — exactly that meaning.\
+   b. Incorrect German.\
+   c. Correct, but impolite.\
+   d. Correct German, but it means something different.
 
 <details>
 <summary>Show solution</summary>
@@ -133,10 +133,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 9. A learner writes **Immer ich trinke Kaffee**, meaning "I always drink coffee." What is wrong?\
-   a. *Kaffee* braucht einen Artikel.\
-   b. Man braucht hier *immer noch*.\
-   c. *trinke* ist falsch konjugiert.\
-   d. Das Verb muss an die zweite Stelle: *Ich trinke immer Kaffee.*
+   a. *Kaffee* needs an article.\
+   b. You need *immer noch* here.\
+   c. *trinke* is conjugated incorrectly.\
+   d. The verb must be in second position: *Ich trinke immer Kaffee.*
 
 <details>
 <summary>Show solution</summary>
@@ -167,10 +167,10 @@ Try each question before opening its solution. Each solution is directly below t
 ## Part C — Apply It
 
 11. Compare **Er ist noch krank** and **Er ist immer noch krank.** What does *immer* add?\
-   a. Ungeduld oder Überraschung.\
-   b. Höflichkeit.\
-   c. Eine zweite Krankheit.\
-   d. Eine Frage.
+   a. Impatience or surprise.\
+   b. Politeness.\
+   c. A second illness.\
+   d. A question.
 
 <details>
 <summary>Show solution</summary>
@@ -196,11 +196,11 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-13. **Es wird immer kälter.** Was stimmt?\
-   a. Es ist immer kalt.\
-   b. Es wird wärmer.\
-   c. Die Kälte nimmt zu.\
-   d. Früher war es kälter.
+13. **Es wird immer kälter.** Which statement is correct?\
+   a. It is always cold.\
+   b. It is getting warmer.\
+   c. It is getting colder and colder.\
+   d. It used to be colder.
 
 <details>
 <summary>Show solution</summary>
@@ -232,11 +232,11 @@ B: Nicht gut. Ich bin ___ krank.
 
 </details>
 
-15. **fast immer** — was bedeutet das?\
-   a. Nie.\
-   b. Beinahe jedes Mal.\
-   c. Genau jedes Mal.\
-   d. Nur einmal.
+15. **fast immer** — what does this mean?\
+   a. Never.\
+   b. Almost every time.\
+   c. Exactly every time.\
+   d. Only once.
 
 <details>
 <summary>Show solution</summary>

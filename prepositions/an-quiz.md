@@ -140,10 +140,10 @@ Try each question before opening its solution. Each solution is directly below t
 </details>
 
 9. A learner writes **Ich hänge das Bild an der Wand.**\
-   a. Richtig.\
-   b. Richtig, aber ungewöhnlich.\
-   c. Falsches Deutsch — hier braucht man *an die Wand*.\
-   d. Korrektes Deutsch, aber es heißt etwas anderes.
+   a. Correct.\
+   b. Correct, but unusual.\
+   c. Incorrect German — here you need *an die Wand*.\
+   d. Correct German, but it means something different.
 
 <details>
 <summary>Show solution</summary>
@@ -296,11 +296,11 @@ B: ___ Fenster ist es schön hell.
 
 </details>
 
-18. **Wir sitzen am Tisch.** und **Wir setzen uns an den Tisch.** Was ist der Unterschied?\
-   a. Kein Unterschied.\
-   b. Der erste Satz ist falsch.\
-   c. Der erste ist Zukunft, der zweite ist Gegenwart.\
-   d. Der erste sagt, wo wir sind; beim zweiten setzen wir uns gerade hin.
+18. Compare **Wir sitzen am Tisch** and **Wir setzen uns an den Tisch.** What is the difference?\
+   a. There is no difference.\
+   b. The first sentence is incorrect.\
+   c. The first is future tense; the second is present tense.\
+   d. The first says where we are; the second describes moving into a seated position at the table.
 
 <details>
 <summary>Show solution</summary>
@@ -316,10 +316,10 @@ B: ___ Fenster ist es schön hell.
 ## Part D — Retrieve and Produce
 
 19. A learner writes **Ich habe um Montag frei.** What has gone wrong?\
-   a. *frei* steht am Ende.\
-   b. Tage brauchen *am* — hier heißt es *am Montag*.\
-   c. *Montag* braucht keinen Artikel.\
-   d. Der Satz ist richtig.
+   a. *frei* is at the end.\
+   b. Days use *am* here — the correct phrase is *am Montag*.\
+   c. *Montag* does not need an article.\
+   d. The sentence is correct.
 
 <details>
 <summary>Show solution</summary>
