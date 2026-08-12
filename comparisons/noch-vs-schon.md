@@ -71,16 +71,16 @@ That table is worth memorizing outright. The negatives don't line up the way Eng
 
 ## Self-Check
 
-1. Choose the natural word: *Der Zug ist ___ nicht da.* (not here yet)
-   a. schon
+1. Choose the natural word: *Der Zug ist ___ nicht da.* (not here yet)\
+   a. schon\
    b. noch
 
-2. Choose the natural word: *Es ist ___ acht Uhr — wir müssen los!* (already eight)
-   a. noch
+2. Choose the natural word: *Es ist ___ acht Uhr — wir müssen los!* (already eight)\
+   a. noch\
    b. schon
 
-3. **Wohnst du noch in Berlin?** What's being asked?
-   a. Have you moved there yet?
+3. **Wohnst du noch in Berlin?** What's being asked?\
+   a. Have you moved there yet?\
    b. Do you still live there?
 
 4. What's the negative of **Ich bin schon fertig**?

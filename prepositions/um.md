@@ -108,19 +108,19 @@ German doesn't drop the preposition before clock times the way English sometimes
 
 ## Mini Review
 
-1. Choose the natural word: *Der Zug fährt ___ neun Uhr.*
-   a. in
-   b. um
+1. Choose the natural word: *Der Zug fährt ___ neun Uhr.*\
+   a. in\
+   b. um\
    c. am
 
-2. Choose the natural word: *Wir treffen uns ___ Montag.*
-   a. um
-   b. am
+2. Choose the natural word: *Wir treffen uns ___ Montag.*\
+   a. um\
+   b. am\
    c. in
 
-3. **In Köln bitte umsteigen.** What should you do?
-   a. Get off for good.
-   b. Change trains.
+3. **In Köln bitte umsteigen.** What should you do?\
+   a. Get off for good.\
+   b. Change trains.\
    c. Stay on board.
 
 4. Which preposition goes with clock times, and which with days?

@@ -63,16 +63,16 @@ They also combine: **gerade jetzt** = right at this very moment, emphatic — of
 
 ## Self-Check
 
-1. Someone calls at a bad moment. Which is better?
-   a. Ich esse jetzt.
+1. Someone calls at a bad moment. Which is better?\
+   a. Ich esse jetzt.\
    b. Ich esse gerade.
 
-2. **Er ist gerade in Berlin.** What's implied?
-   a. He's moved there.
+2. **Er ist gerade in Berlin.** What's implied?\
+   a. He's moved there.\
    b. He's there temporarily.
 
-3. Which word marks a change ("from now on")?
-   a. jetzt
+3. Which word marks a change ("from now on")?\
+   a. jetzt\
    b. gerade
 
 4. Why is *Ich bin arbeiten* wrong?

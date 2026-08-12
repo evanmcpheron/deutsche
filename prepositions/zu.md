@@ -131,14 +131,14 @@ Two different prepositions, two different situations, one fixed pair worth memor
 
 ## Mini Review
 
-1. Choose the natural word: *Ich gehe ___ Arzt.*
-   a. nach
-   b. zum
+1. Choose the natural word: *Ich gehe ___ Arzt.*\
+   a. nach\
+   b. zum\
    c. in
 
-2. What does **Das ist zu teuer** mean?
-   a. That's expensive to buy.
-   b. That's too expensive.
+2. What does **Das ist zu teuer** mean?\
+   a. That's expensive to buy.\
+   b. That's too expensive.\
    c. That's the expensive one.
 
 3. Fill in the pattern: *Wie komme ich ___ Bahnhof?*

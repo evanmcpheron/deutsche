@@ -11,52 +11,113 @@ Take it twice, a month apart, and keep both scores. The comparison tells you mor
 
 ## Part A — Interpret the Situation
 
-**1.** Der Zug kommt erst um zehn.
-a. Before ten. · b. Not until ten. · c. The first train is at ten.
+**1.** Der Zug kommt erst um zehn.\
+   a. Before ten.\
+   b. Not until ten.\
+   c. The first train is at ten.
 
-**2.** Er ist nicht mehr hier.
-a. He hasn't arrived. · b. He has left. · c. He's still here.
+**2.** Er ist nicht mehr hier.\
+   a. He hasn't arrived.\
+   b. He has left.\
+   c. He's still here.
 
-**3.** Wir haben nur noch zwei Zimmer.
-a. Two rooms left, that's all. · b. Two rooms booked. · c. Rooms cost two euros.
+**3.** Wir haben nur noch zwei Zimmer.\
+   a. Two rooms left, that's all.\
+   b. Two rooms booked.\
+   c. Rooms cost two euros.
 
-**4.** Ich war schon mal in Wien.
-a. I've been to Vienna before. · b. I'm in Vienna now. · c. I'm going to Vienna.
+**4.** Ich war schon mal in Wien.\
+   a. I've been to Vienna before.\
+   b. I'm in Vienna now.\
+   c. I'm going to Vienna.
 
-**5.** Sie ist gerade gegangen.
-a. She's about to leave. · b. She just left. · c. She never left.
+**5.** Sie ist gerade gegangen.\
+   a. She's about to leave.\
+   b. She just left.\
+   c. She never left.
 
-**6.** Das schaffst du schon.
-a. Reassurance. · b. A criticism. · c. A question.
+**6.** Das schaffst du schon.\
+   a. Reassurance.\
+   b. A criticism.\
+   c. A question.
 
-**7.** Es regnet immer noch.
-a. It rains often. · b. It hasn't stopped raining. · c. It started raining again.
+**7.** Es regnet immer noch.\
+   a. It rains often.\
+   b. It hasn't stopped raining.\
+   c. It started raining again.
 
-**8.** Ich habe gar keine Zeit.
-a. A little time. · b. No time whatsoever. · c. Time later.
+**8.** Ich habe gar keine Zeit.\
+   a. A little time.\
+   b. No time whatsoever.\
+   c. Time later.
 
 ---
 
 ## Part B — Choose the Natural Word
 
-**9.** Ich fahre ___ Hamburg. — a. zu · b. nach · c. in
-**10.** Ich gehe ___ Zahnarzt. — a. nach · b. zum · c. aus
-**11.** Ich komme ___ Deutschland. *(origin)* — a. von · b. aus · c. bei
-**12.** Ich habe ___ Zeit. *(no time)* — a. nicht · b. keine · c. kein
-**13.** Das Essen ist ___ gut. *(very)* — a. viel · b. sehr · c. nur
-**14.** Wir haben ___ Arbeit. *(a lot of)* — a. sehr · b. viel · c. schon
-**15.** Der Film beginnt ___ acht. — a. in · b. am · c. um
-**16.** Ich habe ___ Wochenende frei. — a. um · b. am · c. für
+**9.** Ich fahre ___ Hamburg.\
+   a. zu\
+   b. nach\
+   c. in
+
+**10.** Ich gehe ___ Zahnarzt.\
+   a. nach\
+   b. zum\
+   c. aus
+
+**11.** Ich komme ___ Deutschland. *(origin)*\
+   a. von\
+   b. aus\
+   c. bei
+
+**12.** Ich habe ___ Zeit. *(no time)*\
+   a. nicht\
+   b. keine\
+   c. kein
+
+**13.** Das Essen ist ___ gut. *(very)*\
+   a. viel\
+   b. sehr\
+   c. nur
+
+**14.** Wir haben ___ Arbeit. *(a lot of)*\
+   a. sehr\
+   b. viel\
+   c. schon
+
+**15.** Der Film beginnt ___ acht.\
+   a. in\
+   b. am\
+   c. um
+
+**16.** Ich habe ___ Wochenende frei.\
+   a. um\
+   b. am\
+   c. für
 
 ---
 
 ## Part C — Location or Movement?
 
-**17.** Ich lege das Buch auf ___ Tisch. — a. dem · b. den
-**18.** Das Buch liegt auf ___ Tisch. — a. dem · b. den
-**19.** Ich gehe ___ Kino. — a. im · b. ins
-**20.** Ich bin ___ Hause. *(at home)* — a. zu · b. nach
-**21.** Ich gehe ___ Hause. *(going home)* — a. zu · b. nach
+**17.** Ich lege das Buch auf ___ Tisch.\
+   a. dem\
+   b. den
+
+**18.** Das Buch liegt auf ___ Tisch.\
+   a. dem\
+   b. den
+
+**19.** Ich gehe ___ Kino.\
+   a. im\
+   b. ins
+
+**20.** Ich bin ___ Hause. *(at home)*\
+   a. zu\
+   b. nach
+
+**21.** Ich gehe ___ Hause. *(going home)*\
+   a. zu\
+   b. nach
 
 ---
 

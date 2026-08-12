@@ -116,19 +116,19 @@ Same speaker, same place, opposite direction of travel.
 
 ## Mini Review
 
-1. Choose the natural word: *Er ist ___ hier — wir können anfangen.* (he's already here)
-   a. noch
-   b. schon
+1. Choose the natural word: *Er ist ___ hier — wir können anfangen.* (he's already here)\
+   a. noch\
+   b. schon\
    c. erst
 
-2. **Hast du schon gegessen?** What is the speaker asking?
-   a. Whether you eat at all.
-   b. Whether you have eaten by now.
+2. **Hast du schon gegessen?** What is the speaker asking?\
+   a. Whether you eat at all.\
+   b. Whether you have eaten by now.\
    c. Whether you're still eating.
 
-3. A friend is nervous about an exam and says nothing. You say **Das schaffst du schon.** What are you doing?
-   a. Reassuring them.
-   b. Correcting them.
+3. A friend is nervous about an exam and says nothing. You say **Das schaffst du schon.** What are you doing?\
+   a. Reassuring them.\
+   b. Correcting them.\
    c. Asking a question.
 
 4. Contrast: **Ich bin noch hier.** / **Ich bin schon hier.** What's the difference?

@@ -65,14 +65,14 @@ Both are polite and both work. *noch* just tells the server this is a repeat ord
 
 ## Mini Review
 
-1. You've finished your beer and want a second. What do you say?
-   a. Ein anderes Bier, bitte.
-   b. Noch ein Bier, bitte.
+1. You've finished your beer and want a second. What do you say?\
+   a. Ein anderes Bier, bitte.\
+   b. Noch ein Bier, bitte.\
    c. Wieder ein Bier, bitte.
 
-2. A server asks **Noch etwas?** What are they asking?
-   a. Do you want anything else?
-   b. Is everything all right?
+2. A server asks **Noch etwas?** What are they asking?\
+   a. Do you want anything else?\
+   b. Is everything all right?\
    c. Would you like to pay?
 
 3. Which is the careful form for a masculine noun: *noch ein Kaffee* or *noch einen Kaffee*?

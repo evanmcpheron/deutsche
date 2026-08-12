@@ -97,19 +97,19 @@ And the chunk contrast:
 
 ## Mini Review
 
-1. Choose the natural word: *Ich stehe ___ um sechs Uhr auf.* (always)
-   a. immer
-   b. noch
+1. Choose the natural word: *Ich stehe ___ um sechs Uhr auf.* (always)\
+   a. immer\
+   b. noch\
    c. schon
 
-2. **Er wartet immer noch.** What's the situation?
-   a. He waits regularly.
-   b. He's been waiting a long time and hasn't stopped.
+2. **Er wartet immer noch.** What's the situation?\
+   a. He waits regularly.\
+   b. He's been waiting a long time and hasn't stopped.\
    c. He waited once before.
 
-3. What does **immer wieder** mean?
-   a. always again
-   b. over and over
+3. What does **immer wieder** mean?\
+   a. always again\
+   b. over and over\
    c. still
 
 4. Contrast: **Er ist noch krank.** / **Er ist immer noch krank.**

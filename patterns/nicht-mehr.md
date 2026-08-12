@@ -65,14 +65,14 @@ See [nicht mehr vs. noch](../comparisons/nicht-mehr-vs-noch.md).
 
 ## Mini Review
 
-1. **Er arbeitet nicht mehr hier.** What happened?
-   a. He never worked here.
-   b. He used to work here and has left.
+1. **Er arbeitet nicht mehr hier.** What happened?\
+   a. He never worked here.\
+   b. He used to work here and has left.\
    c. He starts next week.
 
-2. Choose the natural form: *Wir haben ___ Brot ___.* (we're out of bread)
-   a. nicht / mehr
-   b. kein / mehr
+2. Choose the natural form: *Wir haben ___ Brot ___.* (we're out of bread)\
+   a. nicht / mehr\
+   b. kein / mehr\
    c. noch / nicht
 
 3. Contrast: **Er ist noch nicht hier.** / **Er ist nicht mehr hier.**

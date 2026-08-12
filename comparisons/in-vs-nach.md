@@ -76,12 +76,12 @@ See [in](../prepositions/in.md) and [Cases at a Glance](../reference/cases-at-a-
 
 ## Self-Check
 
-1. Choose the natural form: *Wir fahren ___ Österreich.*
-   a. nach
+1. Choose the natural form: *Wir fahren ___ Österreich.*\
+   a. nach\
    b. in die
 
-2. Choose the natural form: *Wir fahren ___ Schweiz.*
-   a. nach
+2. Choose the natural form: *Wir fahren ___ Schweiz.*\
+   a. nach\
    b. in die
 
 3. What's the difference between **Ich fahre in die Schweiz** and **Ich wohne in der Schweiz**?

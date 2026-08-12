@@ -68,12 +68,12 @@ And they stack: **sehr viel** = a very great deal. *Ich habe sehr viel Arbeit.*
 
 ## Self-Check
 
-1. Choose the natural word: *Das Hotel ist ___ teuer.*
-   a. sehr
+1. Choose the natural word: *Das Hotel ist ___ teuer.*\
+   a. sehr\
    b. viel
 
-2. Choose the natural word: *Wir haben ___ Arbeit.*
-   a. sehr
+2. Choose the natural word: *Wir haben ___ Arbeit.*\
+   a. sehr\
    b. viel
 
 3. Is **sehr viel Geld** correct?

@@ -76,12 +76,12 @@ If you can produce those four sentences accurately, you've got the core of this 
 
 ## Self-Check
 
-1. Your friend moved away from Munich last year. Which is right?
-   a. Er wohnt noch in München.
+1. Your friend moved away from Munich last year. Which is right?\
+   a. Er wohnt noch in München.\
    b. Er wohnt nicht mehr in München.
 
-2. Choose the natural form: *Wir haben ___ Brot ___.* (no bread left)
-   a. nicht / mehr
+2. Choose the natural form: *Wir haben ___ Brot ___.* (no bread left)\
+   a. nicht / mehr\
    b. kein / mehr
 
 3. Contrast: **Er ist noch nicht hier.** / **Er ist nicht mehr hier.**

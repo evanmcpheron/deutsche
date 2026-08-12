@@ -108,19 +108,19 @@ That last contrast is the one to get right: *aus* for where you're **from** in l
 
 ## Mini Review
 
-1. Choose the natural word: *Ich komme ___ Kanada.*
-   a. von
-   b. aus
+1. Choose the natural word: *Ich komme ___ Kanada.*\
+   a. von\
+   b. aus\
    c. bei
 
-2. Choose the natural word: *Ich komme gerade ___ der Arbeit.* (just coming from work)
-   a. aus
-   b. von
+2. Choose the natural word: *Ich komme gerade ___ der Arbeit.* (just coming from work)\
+   a. aus\
+   b. von\
    c. nach
 
-3. **Der Film ist aus.** What does this mean?
-   a. The film is out (released).
-   b. The film is over.
+3. **Der Film ist aus.** What does this mean?\
+   a. The film is out (released).\
+   b. The film is over.\
    c. The film is from abroad.
 
 4. Contrast: **Ich komme aus Berlin.** / **Ich fahre von Berlin nach Hamburg.**

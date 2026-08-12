@@ -70,14 +70,14 @@ See [nicht mehr](nicht-mehr.md) and [noch vs. schon](../comparisons/noch-vs-scho
 
 ## Mini Review
 
-1. **Der Bus ist noch nicht da.** What's the situation?
-   a. The bus has left.
-   b. The bus hasn't arrived yet.
+1. **Der Bus ist noch nicht da.** What's the situation?\
+   a. The bus has left.\
+   b. The bus hasn't arrived yet.\
    c. The bus isn't running today.
 
-2. Choose the natural form: *Ich habe ___ Zeit gehabt.* (haven't had time yet)
-   a. noch nicht
-   b. noch keine
+2. Choose the natural form: *Ich habe ___ Zeit gehabt.* (haven't had time yet)\
+   a. noch nicht\
+   b. noch keine\
    c. nicht noch
 
 3. What's the negative of **Ich bin schon fertig**?

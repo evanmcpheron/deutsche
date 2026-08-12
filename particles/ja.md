@@ -106,19 +106,19 @@ This is one of the words where trying to produce it early makes your German soun
 
 ## Mini Review
 
-1. **Das ist ja teuer!** What is *ja* doing?
-   a. Answering "yes."
-   b. Marking surprise or shared observation.
+1. **Das ist ja teuer!** What is *ja* doing?\
+   a. Answering "yes."\
+   b. Marking surprise or shared observation.\
    c. Negating the sentence.
 
-2. **Du kennst ihn ja.** What is the speaker assuming?
-   a. You've never met him.
-   b. You already know him.
+2. **Du kennst ihn ja.** What is the speaker assuming?\
+   a. You've never met him.\
+   b. You already know him.\
    c. You want to meet him.
 
-3. Someone asks **Hast du keine Zeit?** and you *do* have time. Which word do you answer with?
-   a. Ja
-   b. Doch
+3. Someone asks **Hast du keine Zeit?** and you *do* have time. Which word do you answer with?\
+   a. Ja\
+   b. Doch\
    c. Nein
 
 4. Is particle *ja* stressed or unstressed?

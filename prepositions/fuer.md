@@ -105,19 +105,19 @@ I'm buying flowers for my wife.
 
 ## Mini Review
 
-1. Which is correct?
-   a. für dir
-   b. für dich
+1. Which is correct?\
+   a. für dir\
+   b. für dich\
    c. für du
 
-2. Choose the natural word: *Ein Tisch ___ zwei Personen, bitte.*
-   a. für
-   b. zu
+2. Choose the natural word: *Ein Tisch ___ zwei Personen, bitte.*\
+   a. für\
+   b. zu\
    c. mit
 
-3. **Für hier oder zum Mitnehmen?** Where would you hear this?
-   a. At a hotel reception.
-   b. At a café counter.
+3. **Für hier oder zum Mitnehmen?** Where would you hear this?\
+   a. At a hotel reception.\
+   b. At a café counter.\
    c. On a train.
 
 4. Why do learners so often say *für mir*?

@@ -65,13 +65,13 @@ You'll also hear **noch immer**, which means the same thing and is slightly more
 
 ## Mini Review
 
-1. **Er ist immer noch krank.** What's implied?
-   a. He gets ill often.
-   b. He's been ill for longer than expected.
+1. **Er ist immer noch krank.** What's implied?\
+   a. He gets ill often.\
+   b. He's been ill for longer than expected.\
    c. He recovered.
 
-2. Which is more neutral?
-   a. Der Bus ist noch nicht da.
+2. Which is more neutral?\
+   a. Der Bus ist noch nicht da.\
    b. Der Bus ist immer noch nicht da.
 
 3. What's the difference between *immer noch* and *immer wieder*?

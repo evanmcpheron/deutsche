@@ -115,14 +115,14 @@ And against the other negation:
 
 ## Mini Review
 
-1. Choose the natural word: *Ich habe ___ Geld.*
-   a. nicht
-   b. kein
+1. Choose the natural word: *Ich habe ___ Geld.*\
+   a. nicht\
+   b. kein\
    c. keine
 
-2. What situation does **Ich habe keine Ahnung** describe?
-   a. The speaker doesn't know.
-   b. The speaker disagrees.
+2. What situation does **Ich habe keine Ahnung** describe?\
+   a. The speaker doesn't know.\
+   b. The speaker disagrees.\
    c. The speaker is busy.
 
 3. Negate this sentence: *Er hat einen Bruder.*

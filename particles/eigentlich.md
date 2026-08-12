@@ -115,19 +115,19 @@ That second pair is worth noticing: *eigentlich* leaves a door open.
 
 ## Mini Review
 
-1. **Wo wohnst du eigentlich?** What does *eigentlich* signal?
-   a. Suspicion.
-   b. A friendly, slightly off-topic question.
+1. **Wo wohnst du eigentlich?** What does *eigentlich* signal?\
+   a. Suspicion.\
+   b. A friendly, slightly off-topic question.\
    c. That the previous answer was wrong.
 
-2. **Ich habe eigentlich keine Zeit.** What's likely to come next?
-   a. A firm refusal.
-   b. "… but go on, tell me."
+2. **Ich habe eigentlich keine Zeit.** What's likely to come next?\
+   a. A firm refusal.\
+   b. "… but go on, tell me."\
    c. A change of subject.
 
-3. Someone answers your question with **Eigentlich nicht.** What do they mean?
-   a. Definitely not.
-   b. Not really.
+3. Someone answers your question with **Eigentlich nicht.** What do they mean?\
+   a. Definitely not.\
+   b. Not really.\
    c. Yes.
 
 4. Why is "eventually" a false friend here?

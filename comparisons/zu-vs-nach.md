@@ -70,16 +70,16 @@ I'm going home. *(fixed expression, movement)*
 
 ## Self-Check
 
-1. Choose the natural word: *Ich fahre ___ Hamburg.*
-   a. zu
+1. Choose the natural word: *Ich fahre ___ Hamburg.*\
+   a. zu\
    b. nach
 
-2. Choose the natural word: *Ich gehe ___ Zahnarzt.*
-   a. zum
+2. Choose the natural word: *Ich gehe ___ Zahnarzt.*\
+   a. zum\
    b. nach
 
-3. Choose the natural word: *Wir fliegen ___ Spanien.*
-   a. zu
+3. Choose the natural word: *Wir fliegen ___ Spanien.*\
+   a. zu\
    b. nach
 
 4. Which destination type always takes *zu*, without exception?

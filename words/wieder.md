@@ -98,19 +98,19 @@ Three sentences, one word of difference each, three quite different situations. 
 
 ## Mini Review
 
-1. Choose the natural word: *Der Laden ist ___ offen.* (open again, after being closed)
-   a. noch
-   b. wieder
+1. Choose the natural word: *Der Laden ist ___ offen.* (open again, after being closed)\
+   a. noch\
+   b. wieder\
    c. schon
 
-2. **Er ist wieder krank.** What happened in between?
-   a. Nothing — he never got better.
-   b. He recovered, and is now ill again.
+2. **Er ist wieder krank.** What happened in between?\
+   a. Nothing — he never got better.\
+   b. He recovered, and is now ill again.\
    c. He's about to get ill.
 
-3. Someone says **Schon wieder!** What's their mood?
-   a. Pleased
-   b. Neutral
+3. Someone says **Schon wieder!** What's their mood?\
+   a. Pleased\
+   b. Neutral\
    c. Annoyed
 
 4. Contrast: **Er ist noch krank.** / **Er ist wieder krank.**

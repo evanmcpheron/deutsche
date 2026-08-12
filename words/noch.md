@@ -126,19 +126,19 @@ I'd like another coffee. *(there was already one)*
 
 ## Mini Review
 
-1. Choose the natural word: *Ich bin ___ nicht fertig.*
-   a. schon
-   b. noch
+1. Choose the natural word: *Ich bin ___ nicht fertig.*\
+   a. schon\
+   b. noch\
    c. aus
 
-2. **Ich bin noch hier.** What is the overall situation?
-   a. I arrived a moment ago.
-   b. I haven't left yet.
+2. **Ich bin noch hier.** What is the overall situation?\
+   a. I arrived a moment ago.\
+   b. I haven't left yet.\
    c. I'm coming later.
 
-3. In a café, the waiter asks **Noch etwas?** What is he doing?
-   a. Asking if you want anything else.
-   b. Asking if you're still waiting.
+3. In a café, the waiter asks **Noch etwas?** What is he doing?\
+   a. Asking if you want anything else.\
+   b. Asking if you're still waiting.\
    c. Asking whether you've paid.
 
 4. What's the difference between **Ich möchte einen Kaffee** and **Ich möchte noch einen Kaffee**?

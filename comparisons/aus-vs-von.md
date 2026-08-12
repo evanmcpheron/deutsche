@@ -69,20 +69,20 @@ The bus comes from the station. *(starting point)*
 
 ## Self-Check
 
-1. Choose the natural word: *Ich komme ___ Irland.* (that's where I'm from)
-   a. aus
+1. Choose the natural word: *Ich komme ___ Irland.* (that's where I'm from)\
+   a. aus\
    b. von
 
-2. Choose the natural word: *Ich komme gerade ___ Bahnhof.*
-   a. aus dem
+2. Choose the natural word: *Ich komme gerade ___ Bahnhof.*\
+   a. aus dem\
    b. vom
 
-3. Choose the natural word: *Das ist ein Brief ___ meinem Vater.*
-   a. aus
+3. Choose the natural word: *Das ist ein Brief ___ meinem Vater.*\
+   a. aus\
    b. von
 
-4. Choose the natural word: *Die Tasche ist ___ Leder.* (made of leather)
-   a. aus
+4. Choose the natural word: *Die Tasche ist ___ Leder.* (made of leather)\
+   a. aus\
    b. von
 
 5. **Produce it:** Answer the question *Woher kommen Sie?* — say you're from Germany.

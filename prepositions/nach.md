@@ -116,16 +116,16 @@ And the choice that actually causes errors:
 
 ## Mini Review
 
-1. Choose the natural word: *Ich fliege ___ Deutschland.*
-   a. zu
-   b. nach
+1. Choose the natural word: *Ich fliege ___ Deutschland.*\
+   a. zu\
+   b. nach\
    c. in
 
 2. Fill in the pattern: *Ich gehe ___ Hause.* (I'm going home)
 
-3. **Nach dem Essen gehen wir spazieren.** What does *nach* mean here?
-   a. To
-   b. After
+3. **Nach dem Essen gehen wir spazieren.** What does *nach* mean here?\
+   a. To\
+   b. After\
    c. Toward
 
 4. Why is **Ich gehe nach dem Arzt** wrong for "I'm going to the doctor"? What should it be?

@@ -67,13 +67,13 @@ German can sound blunt to English ears, and *ein bisschen* is one of the cheapes
 
 ## Mini Review
 
-1. Choose the natural form: *Ich spreche ___ Deutsch.*
-   a. ein bisschen
-   b. ein paar
+1. Choose the natural form: *Ich spreche ___ Deutsch.*\
+   a. ein bisschen\
+   b. ein paar\
    c. sehr
 
-2. Which is right for "a few friends"?
-   a. ein bisschen Freunde
+2. Which is right for "a few friends"?\
+   a. ein bisschen Freunde\
    b. ein paar Freunde
 
 3. Why might you add *ein bisschen* to **Das ist teuer**?

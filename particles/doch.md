@@ -132,19 +132,19 @@ And:
 
 ## Mini Review
 
-1. Someone asks **Hast du keinen Hunger?** and you *are* hungry. What do you say?
-   a. Ja.
-   b. Doch.
+1. Someone asks **Hast du keinen Hunger?** and you *are* hungry. What do you say?\
+   a. Ja.\
+   b. Doch.\
    c. Nein.
 
-2. **Komm doch mit!** compared with **Komm mit!** — what does *doch* add?
-   a. Urgency bordering on an order.
-   b. Warmth and persuasion.
+2. **Komm doch mit!** compared with **Komm mit!** — what does *doch* add?\
+   a. Urgency bordering on an order.\
+   b. Warmth and persuasion.\
    c. A question.
 
-3. **Das weißt du doch.** What is the speaker assuming?
-   a. That you don't know.
-   b. That you already know.
+3. **Das weißt du doch.** What is the speaker assuming?\
+   a. That you don't know.\
+   b. That you already know.\
    c. That nobody knows.
 
 4. Why is answering *ja* to a negative question a problem in German?

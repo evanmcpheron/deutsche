@@ -111,19 +111,19 @@ And the movement/location pair:
 
 ## Mini Review
 
-1. Choose the natural word: *Ich bin ___ meiner Mutter.* (I'm at my mother's)
-   a. zu
-   b. bei
+1. Choose the natural word: *Ich bin ___ meiner Mutter.* (I'm at my mother's)\
+   a. zu\
+   b. bei\
    c. nach
 
-2. Choose the natural word: *Ich gehe ___ meiner Mutter.* (I'm going to my mother's)
-   a. zu
-   b. bei
+2. Choose the natural word: *Ich gehe ___ meiner Mutter.* (I'm going to my mother's)\
+   a. zu\
+   b. bei\
    c. nach
 
-3. **Er ist beim Arzt.** What's the situation?
-   a. He's on his way to the doctor.
-   b. He's at the doctor's now.
+3. **Er ist beim Arzt.** What's the situation?\
+   a. He's on his way to the doctor.\
+   b. He's at the doctor's now.\
    c. He's a doctor.
 
 4. What's wrong with **Ich gehe bei meinem Freund** if you mean "I'm going with my friend"?

@@ -52,17 +52,25 @@ Only one question here asks you to produce anything, because these words are **R
 
 ## Part B — Choose the Right Response
 
-**8.** Someone asks **Hast du keinen Hunger?** and you *are* hungry.
-a. Ja. · b. Doch. · c. Nein.
+**8.** Someone asks **Hast du keinen Hunger?** and you *are* hungry.\
+   a. Ja.\
+   b. Doch.\
+   c. Nein.
 
-**9.** Someone says **Ich habe keine Zeit.** How do you say "me neither"?
-a. Ich auch. · b. Ich auch nicht. · c. Ich nicht auch.
+**9.** Someone says **Ich habe keine Zeit.** How do you say "me neither"?\
+   a. Ich auch.\
+   b. Ich auch nicht.\
+   c. Ich nicht auch.
 
-**10.** You want to say "not really" in answer to a question.
-a. Eigentlich nicht. · b. Gar nicht. · c. Noch nicht.
+**10.** You want to say "not really" in answer to a question.\
+   a. Eigentlich nicht.\
+   b. Gar nicht.\
+   c. Noch nicht.
 
-**11.** You strongly agree with what someone just said.
-a. Eben! · b. Doch! · c. Schon!
+**11.** You strongly agree with what someone just said.\
+   a. Eben!\
+   b. Doch!\
+   c. Schon!
 
 ---
 

@@ -117,16 +117,16 @@ The second version is softer. That's why *nur* is so common in polite speech —
 
 ## Mini Review
 
-1. Choose the natural word: *Das kostet ___ fünf Euro.* (only five euros)
-   a. nur
-   b. noch
+1. Choose the natural word: *Das kostet ___ fünf Euro.* (only five euros)\
+   a. nur\
+   b. noch\
    c. auch
 
 2. What's the difference between **Ich trinke nur Wasser** and **Nur ich trinke Wasser**?
 
-3. **Wir haben nur noch zwei Karten.** What is the situation?
-   a. There are two tickets left, and that's all.
-   b. Two tickets have been sold.
+3. **Wir haben nur noch zwei Karten.** What is the situation?\
+   a. There are two tickets left, and that's all.\
+   b. Two tickets have been sold.\
    c. Tickets cost two euros.
 
 4. Why does **Ich habe nur eine Frage** sound politer than **Ich habe eine Frage**?

@@ -93,19 +93,19 @@ The difference matters on the phone: *Ich arbeite* tells someone what you do for
 
 ## Mini Review
 
-1. **Ich arbeite gerade.** What is the speaker saying?
-   a. I have a job.
-   b. I'm working at this moment.
+1. **Ich arbeite gerade.** What is the speaker saying?\
+   a. I have a job.\
+   b. I'm working at this moment.\
    c. I worked earlier.
 
-2. Choose the natural word: *Sie ist ___ gegangen.* (she just left)
-   a. gerade
-   b. schon
+2. Choose the natural word: *Sie ist ___ gegangen.* (she just left)\
+   a. gerade\
+   b. schon\
    c. immer
 
-3. Someone giving directions says **immer geradeaus**. What should you do?
-   a. Turn around.
-   b. Keep going straight.
+3. Someone giving directions says **immer geradeaus**. What should you do?\
+   a. Turn around.\
+   b. Keep going straight.\
    c. Wait.
 
 4. Contrast: **Ich arbeite.** / **Ich arbeite gerade.** When would each be the right thing to say on the phone?

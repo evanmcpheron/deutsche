@@ -112,14 +112,14 @@ I'm going to Berlin by train. *(destination + means)*
 
 ## Mini Review
 
-1. Choose the natural word: *Ich fahre ___ dem Bus.*
-   a. mit
-   b. bei
+1. Choose the natural word: *Ich fahre ___ dem Bus.*\
+   a. mit\
+   b. bei\
    c. nach
 
-2. Which is correct?
-   a. mit mein Bruder
-   b. mit meinem Bruder
+2. Which is correct?\
+   a. mit mein Bruder\
+   b. mit meinem Bruder\
    c. mit meinen Bruder
 
 3. **Kommst du mit?** Why is there no noun after *mit*?

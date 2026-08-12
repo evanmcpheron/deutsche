@@ -95,19 +95,19 @@ The first is fine. The second is gentler and slightly more tentative — useful 
 
 ## Mini Review
 
-1. Which is correct?
-   a. Vielleicht er kommt morgen.
-   b. Vielleicht kommt er morgen.
+1. Which is correct?\
+   a. Vielleicht er kommt morgen.\
+   b. Vielleicht kommt er morgen.\
    c. Er vielleicht kommt morgen.
 
-2. A stranger says **Haben Sie vielleicht Feuer?** What are they mainly doing?
-   a. Expressing doubt about whether fire exists.
-   b. Asking politely for a light.
+2. A stranger says **Haben Sie vielleicht Feuer?** What are they mainly doing?\
+   a. Expressing doubt about whether fire exists.\
+   b. Asking politely for a light.\
    c. Offering you something.
 
-3. Choose the natural word: *___ gehen wir heute Abend ins Kino.* (maybe)
-   a. Vielleicht
-   b. Viel
+3. Choose the natural word: *___ gehen wir heute Abend ins Kino.* (maybe)\
+   a. Vielleicht\
+   b. Viel\
    c. Wieder
 
 4. Why might a German speaker add *vielleicht* to a request even when they're not uncertain?

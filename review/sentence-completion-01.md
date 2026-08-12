@@ -9,41 +9,65 @@
 
 ## Part A — Which Preposition?
 
-**1.** Ich fahre ___ Berlin. *(destination: a city)*
-a. zu · b. nach · c. in
+**1.** Ich fahre ___ Berlin. *(destination: a city)*\
+   a. zu\
+   b. nach\
+   c. in
 
-**2.** Ich gehe ___ Arzt.
-a. nach · b. zum · c. aus
+**2.** Ich gehe ___ Arzt.\
+   a. nach\
+   b. zum\
+   c. aus
 
-**3.** Ich komme ___ Kanada. *(that's my home country)*
-a. von · b. aus · c. bei
+**3.** Ich komme ___ Kanada. *(that's my home country)*\
+   a. von\
+   b. aus\
+   c. bei
 
-**4.** Ich komme gerade ___ der Arbeit.
-a. aus · b. von · c. nach
+**4.** Ich komme gerade ___ der Arbeit.\
+   a. aus\
+   b. von\
+   c. nach
 
-**5.** Ich fahre ___ dem Zug.
-a. mit · b. bei · c. von
+**5.** Ich fahre ___ dem Zug.\
+   a. mit\
+   b. bei\
+   c. von
 
-**6.** Ich wohne ___ meinen Eltern. *(at their place)*
-a. mit · b. bei · c. zu
+**6.** Ich wohne ___ meinen Eltern. *(at their place)*\
+   a. mit\
+   b. bei\
+   c. zu
 
-**7.** Der Zug fährt ___ acht Uhr.
-a. in · b. am · c. um
+**7.** Der Zug fährt ___ acht Uhr.\
+   a. in\
+   b. am\
+   c. um
 
-**8.** Ich habe ___ Montag frei.
-a. um · b. am · c. in
+**8.** Ich habe ___ Montag frei.\
+   a. um\
+   b. am\
+   c. in
 
-**9.** Das ist ein Geschenk ___ meiner Mutter.
-a. aus · b. von · c. für
+**9.** Das ist ein Geschenk ___ meiner Mutter.\
+   a. aus\
+   b. von\
+   c. für
 
-**10.** Ein Tisch ___ zwei Personen, bitte.
-a. für · b. zu · c. mit
+**10.** Ein Tisch ___ zwei Personen, bitte.\
+   a. für\
+   b. zu\
+   c. mit
 
-**11.** Wir fahren ___ Schweiz.
-a. nach · b. in die · c. zu der
+**11.** Wir fahren ___ Schweiz.\
+   a. nach\
+   b. in die\
+   c. zu der
 
-**12.** Wir haben ___ neun ___ achtzehn Uhr geöffnet.
-a. von / bis · b. aus / zu · c. ab / nach
+**12.** Wir haben ___ neun ___ achtzehn Uhr geöffnet.\
+   a. von / bis\
+   b. aus / zu\
+   c. ab / nach
 
 ---
 
@@ -51,29 +75,37 @@ a. von / bis · b. aus / zu · c. ab / nach
 
 Choose the right article. Ask yourself *Wo?* (dative) or *Wohin?* (accusative).
 
-**13.** Das Buch liegt auf ___ Tisch.
-a. dem · b. den
+**13.** Das Buch liegt auf ___ Tisch.\
+   a. dem\
+   b. den
 
-**14.** Ich lege das Buch auf ___ Tisch.
-a. dem · b. den
+**14.** Ich lege das Buch auf ___ Tisch.\
+   a. dem\
+   b. den
 
-**15.** Ich gehe ___ Kino.
-a. im · b. ins
+**15.** Ich gehe ___ Kino.\
+   a. im\
+   b. ins
 
-**16.** Ich bin ___ Kino.
-a. im · b. ins
+**16.** Ich bin ___ Kino.\
+   a. im\
+   b. ins
 
-**17.** Das Bild hängt an ___ Wand.
-a. der · b. die
+**17.** Das Bild hängt an ___ Wand.\
+   a. der\
+   b. die
 
-**18.** Ich hänge das Bild an ___ Wand.
-a. der · b. die
+**18.** Ich hänge das Bild an ___ Wand.\
+   a. der\
+   b. die
 
-**19.** Wir gehen in ___ Stadt.
-a. der · b. die
+**19.** Wir gehen in ___ Stadt.\
+   a. der\
+   b. die
 
-**20.** Wir sind in ___ Stadt.
-a. der · b. die
+**20.** Wir sind in ___ Stadt.\
+   a. der\
+   b. die
 
 ---
 

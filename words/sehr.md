@@ -100,14 +100,14 @@ And the error to avoid:
 
 ## Mini Review
 
-1. Choose the natural word: *Das Zimmer ist ___ klein.*
-   a. viel
-   b. sehr
+1. Choose the natural word: *Das Zimmer ist ___ klein.*\
+   a. viel\
+   b. sehr\
    c. noch
 
-2. Choose the natural word: *Wir haben ___ Zeit.* (a lot of time)
-   a. sehr
-   b. viel
+2. Choose the natural word: *Wir haben ___ Zeit.* (a lot of time)\
+   a. sehr\
+   b. viel\
    c. sehr viel — also possible?
 
 3. Why is **Ich habe sehr Hunger** wrong? What would a German speaker say?

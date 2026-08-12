@@ -146,18 +146,18 @@ German draws the in/on line more sharply than English does, and *auf* is always 
 
 ## Mini Review
 
-1. Choose the natural form: *Ich lege das Buch auf ___ Tisch.*
-   a. dem
-   b. den
+1. Choose the natural form: *Ich lege das Buch auf ___ Tisch.*\
+   a. dem\
+   b. den\
    c. der
 
-2. Choose the natural form: *Die Tasse steht auf ___ Tisch.*
-   a. dem
-   b. den
+2. Choose the natural form: *Die Tasse steht auf ___ Tisch.*\
+   a. dem\
+   b. den\
    c. das
 
-3. Which question does **Stell den Stuhl auf den Balkon** answer?
-   a. Wo?
+3. Which question does **Stell den Stuhl auf den Balkon** answer?\
+   a. Wo?\
    b. Wohin?
 
 4. Contrast: **Das Buch liegt auf dem Tisch.** / **Ich lege das Buch auf den Tisch.** What's different?

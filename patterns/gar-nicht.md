@@ -63,14 +63,14 @@ Same chunk, opposite emotional direction — the adjective decides.
 
 ## Mini Review
 
-1. **Das ist gar nicht schwer.** What's the speaker doing?
-   a. Warning you.
-   b. Reassuring you.
+1. **Das ist gar nicht schwer.** What's the speaker doing?\
+   a. Warning you.\
+   b. Reassuring you.\
    c. Complaining.
 
-2. Choose the natural form: *Ich habe ___ Zeit.* (no time at all)
-   a. gar nicht
-   b. gar keine
+2. Choose the natural form: *Ich habe ___ Zeit.* (no time at all)\
+   a. gar nicht\
+   b. gar keine\
    c. nicht gar
 
 3. What does *gar* contribute on its own?

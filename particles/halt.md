@@ -97,19 +97,19 @@ It's expensive, that's just how it is. *(no complaint intended)*
 
 ## Mini Review
 
-1. **Das ist halt so.** What's the speaker doing?
-   a. Complaining bitterly.
-   b. Accepting something unchangeable.
+1. **Das ist halt so.** What's the speaker doing?\
+   a. Complaining bitterly.\
+   b. Accepting something unchangeable.\
    c. Asking a question.
 
-2. What's the difference between *halt* and [eben](eben.md) as particles?
-   a. Opposite meanings.
-   b. Almost none — *halt* is more southern and casual.
+2. What's the difference between *halt* and [eben](eben.md) as particles?\
+   a. Opposite meanings.\
+   b. Almost none — *halt* is more southern and casual.\
    c. *halt* is formal.
 
-3. **Nächster Halt: Hauptbahnhof.** What does *Halt* mean here?
-   a. Stop (station).
-   b. Just.
+3. **Nächster Halt: Hauptbahnhof.** What does *Halt* mean here?\
+   a. Stop (station).\
+   b. Just.\
    c. Hold on.
 
 4. Should *halt* appear in a formal email?

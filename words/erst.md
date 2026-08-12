@@ -101,19 +101,19 @@ Three sentences, identical facts, opposite emotional messages. This trio is the 
 
 ## Mini Review
 
-1. **Der Zug kommt erst um zehn.** What does this mean?
-   a. The train comes before ten.
-   b. The train doesn't come until ten.
+1. **Der Zug kommt erst um zehn.** What does this mean?\
+   a. The train comes before ten.\
+   b. The train doesn't come until ten.\
    c. The train is the first one at ten.
 
-2. Someone says **Es ist erst sieben Uhr.** What are they suggesting?
-   a. Hurry, it's late.
-   b. Relax, it's early.
+2. Someone says **Es ist erst sieben Uhr.** What are they suggesting?\
+   a. Hurry, it's late.\
+   b. Relax, it's early.\
    c. The clock is wrong.
 
-3. Choose the natural word: *Ich lerne ___ zwei Monate Deutsch.* (only two months so far)
-   a. schon
-   b. erst
+3. Choose the natural word: *Ich lerne ___ zwei Monate Deutsch.* (only two months so far)\
+   a. schon\
+   b. erst\
    c. immer
 
 4. Contrast: **Es ist erst acht Uhr.** / **Es ist schon acht Uhr.**

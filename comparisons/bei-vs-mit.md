@@ -64,16 +64,16 @@ Both take the **dative**, so at least the endings don't change between them.
 
 ## Self-Check
 
-1. You're staying at your parents' house. Which is right?
-   a. Ich wohne mit meinen Eltern zusammen.
+1. You're staying at your parents' house. Which is right?\
+   a. Ich wohne mit meinen Eltern zusammen.\
    b. Ich wohne bei meinen Eltern.
 
-2. Choose the natural word: *Ich arbeite ___ einer Bank.*
-   a. mit
+2. Choose the natural word: *Ich arbeite ___ einer Bank.*\
+   a. mit\
    b. bei
 
-3. Choose the natural word: *Ich fahre ___ dem Bus.*
-   a. mit
+3. Choose the natural word: *Ich fahre ___ dem Bus.*\
+   a. mit\
    b. bei
 
 4. Which preposition would you use for *going* to someone's place?

@@ -157,18 +157,18 @@ One letter of difference in the article, two different situations. English needs
 
 ## Mini Review
 
-1. Choose the natural form: *Ich gehe ___ Kino.*
-   a. im
-   b. ins
+1. Choose the natural form: *Ich gehe ___ Kino.*\
+   a. im\
+   b. ins\
    c. in der
 
-2. Choose the natural form: *Das Buch ist ___ Regal.*
-   a. im
-   b. ins
+2. Choose the natural form: *Das Buch ist ___ Regal.*\
+   a. im\
+   b. ins\
    c. in das
 
-3. Which question does **Wir fahren in die Stadt** answer?
-   a. Wo?
+3. Which question does **Wir fahren in die Stadt** answer?\
+   a. Wo?\
    b. Wohin?
 
 4. Contrast: **Ich bin in der Küche.** / **Ich gehe in die Küche.** What's different, and which word carries the difference?

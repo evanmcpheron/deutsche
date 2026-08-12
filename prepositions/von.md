@@ -111,19 +111,19 @@ See [aus vs. von](../comparisons/aus-vs-von.md); this pair causes more errors th
 
 ## Mini Review
 
-1. Choose the natural word: *Das ist ein Geschenk ___ meiner Mutter.*
-   a. aus
-   b. von
+1. Choose the natural word: *Das ist ein Geschenk ___ meiner Mutter.*\
+   a. aus\
+   b. von\
    c. bei
 
-2. Choose the natural word: *Ich komme ___ Spanien.* (that's my home country)
-   a. von
-   b. aus
+2. Choose the natural word: *Ich komme ___ Spanien.* (that's my home country)\
+   a. von\
+   b. aus\
    c. bei
 
-3. **Wir haben von Montag bis Freitag geöffnet.** What's being described?
-   a. Opening hours across the week.
-   b. A holiday closure.
+3. **Wir haben von Montag bis Freitag geöffnet.** What's being described?\
+   a. Opening hours across the week.\
+   b. A holiday closure.\
    c. A single day.
 
 4. How would a German speaker normally say "my sister's car" in everyday speech?

@@ -31,23 +31,29 @@ Each pair differs by one small word. Say what changes. Then check the key.
 
 ## Part B — Which One Fits?
 
-**9.** Your friend recovered from a cold last week and is ill again today.
-a. Er ist noch krank. · b. Er ist wieder krank.
+**9.** Your friend recovered from a cold last week and is ill again today.\
+   a. Er ist noch krank.\
+   b. Er ist wieder krank.
 
-**10.** You're leaving the office at six.
-a. Ich gehe zu Hause. · b. Ich gehe nach Hause.
+**10.** You're leaving the office at six.\
+   a. Ich gehe zu Hause.\
+   b. Ich gehe nach Hause.
 
-**11.** The shop opens at ten. It's nine now.
-a. Das Geschäft öffnet schon um zehn. · b. Das Geschäft öffnet erst um zehn.
+**11.** The shop opens at ten. It's nine now.\
+   a. Das Geschäft öffnet schon um zehn.\
+   b. Das Geschäft öffnet erst um zehn.
 
-**12.** You've had one beer and want a second.
-a. Ich möchte auch ein Bier. · b. Ich möchte noch ein Bier.
+**12.** You've had one beer and want a second.\
+   a. Ich möchte auch ein Bier.\
+   b. Ich möchte noch ein Bier.
 
-**13.** Your colleague left the company last year.
-a. Er arbeitet noch hier. · b. Er arbeitet nicht mehr hier.
+**13.** Your colleague left the company last year.\
+   a. Er arbeitet noch hier.\
+   b. Er arbeitet nicht mehr hier.
 
-**14.** Someone calls while you're in the middle of dinner.
-a. Ich esse jetzt. · b. Ich esse gerade.
+**14.** Someone calls while you're in the middle of dinner.\
+   a. Ich esse jetzt.\
+   b. Ich esse gerade.
 
 ---
 

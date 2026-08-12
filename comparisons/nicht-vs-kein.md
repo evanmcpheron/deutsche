@@ -72,16 +72,16 @@ The shortcut most learners find useful: **if you could put *ein* in front of it,
 
 ## Self-Check
 
-1. Choose the natural word: *Ich habe ___ Geld.*
-   a. nicht
+1. Choose the natural word: *Ich habe ___ Geld.*\
+   a. nicht\
    b. kein
 
-2. Choose the natural word: *Das Wetter ist ___ schön.*
-   a. nicht
+2. Choose the natural word: *Das Wetter ist ___ schön.*\
+   a. nicht\
    b. kein
 
-3. Choose the natural word: *Das ist ___ mein Auto.*
-   a. nicht
+3. Choose the natural word: *Das ist ___ mein Auto.*\
+   a. nicht\
    b. kein
 
 4. Why is *Ich habe nicht Zeit* wrong?

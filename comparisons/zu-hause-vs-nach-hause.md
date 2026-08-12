@@ -77,12 +77,12 @@ You'll also see **zuhause** written as one word; both spellings are accepted. *n
 
 ## Self-Check
 
-1. You're sitting on your sofa. Which is right?
-   a. Ich bin zu Hause.
+1. You're sitting on your sofa. Which is right?\
+   a. Ich bin zu Hause.\
    b. Ich bin nach Hause.
 
-2. You're leaving the office. Which is right?
-   a. Ich gehe zu Hause.
+2. You're leaving the office. Which is right?\
+   a. Ich gehe zu Hause.\
    b. Ich gehe nach Hause.
 
 3. Fill in the pattern: *Wir bleiben heute ___.* (staying home)

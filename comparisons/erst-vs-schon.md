@@ -61,16 +61,16 @@ And watch for the hidden negative in *erst*: **erst um zehn** = "not before ten.
 
 ## Self-Check
 
-1. **Es ist erst sieben Uhr.** What's the speaker suggesting?
-   a. Hurry up.
+1. **Es ist erst sieben Uhr.** What's the speaker suggesting?\
+   a. Hurry up.\
    b. There's plenty of time.
 
-2. **Der Bus kommt erst um neun.** Can you catch it at half past eight?
-   a. Yes.
+2. **Der Bus kommt erst um neun.** Can you catch it at half past eight?\
+   a. Yes.\
    b. No.
 
-3. Choose the natural word: *Ich bin ___ seit gestern hier.* (only since yesterday)
-   a. schon
+3. Choose the natural word: *Ich bin ___ seit gestern hier.* (only since yesterday)\
+   a. schon\
    b. erst
 
 4. Contrast: **Wir warten schon seit einer Stunde.** / **Wir warten erst seit einer Stunde.**

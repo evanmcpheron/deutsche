@@ -106,19 +106,19 @@ That's just how it is. *(and there's no point complaining)*
 
 ## Mini Review
 
-1. **Das ist eben so.** What's the speaker's attitude?
-   a. Angry.
-   b. Resigned; accepting.
+1. **Das ist eben so.** What's the speaker's attitude?\
+   a. Angry.\
+   b. Resigned; accepting.\
    c. Surprised.
 
-2. Someone says **Eben!** after your remark. What do they mean?
-   a. They disagree.
-   b. They strongly agree.
+2. Someone says **Eben!** after your remark. What do they mean?\
+   a. They disagree.\
+   b. They strongly agree.\
    c. They didn't hear you.
 
-3. **Er war eben hier.** What does *eben* mean here?
-   a. That's just how it is.
-   b. A moment ago.
+3. **Er war eben hier.** What does *eben* mean here?\
+   a. That's just how it is.\
+   b. A moment ago.\
    c. Flat.
 
 4. Which is more southern and casual — *eben* or *halt*?

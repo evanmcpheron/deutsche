@@ -63,16 +63,16 @@ These are among the most useful four-word-or-fewer sentences in German.
 
 ## Mini Review
 
-1. **Wir haben von Montag bis Freitag geöffnet.** What's described?
-   a. A one-day event.
-   b. The days they're open.
+1. **Wir haben von Montag bis Freitag geöffnet.** What's described?\
+   a. A one-day event.\
+   b. The days they're open.\
    c. A holiday.
 
 2. Fill in the pattern: *Der Bus fährt von hier ___ ___ Bahnhof.*
 
-3. Someone says **Bis morgen!** What are they doing?
-   a. Saying goodbye until tomorrow.
-   b. Asking about tomorrow.
+3. Someone says **Bis morgen!** What are they doing?\
+   a. Saying goodbye until tomorrow.\
+   b. Asking about tomorrow.\
    c. Cancelling.
 
 4. **Produce it:** How would you say "from eight to five" in German?

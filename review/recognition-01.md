@@ -45,23 +45,35 @@ Answer all questions before scrolling to the key. Most of these ask what **situa
 
 ## Part B — Choose the Natural Word
 
-**7.** Ich bin ___ nicht fertig.
-a. schon · b. noch · c. aus
+**7.** Ich bin ___ nicht fertig.\
+   a. schon\
+   b. noch\
+   c. aus
 
-**8.** Ich habe ___ Geld.
-a. nicht · b. kein · c. keine
+**8.** Ich habe ___ Geld.\
+   a. nicht\
+   b. kein\
+   c. keine
 
-**9.** Das Wetter ist ___ schön.
-a. nicht · b. kein · c. nur
+**9.** Das Wetter ist ___ schön.\
+   a. nicht\
+   b. kein\
+   c. nur
 
-**10.** Wir fahren ___ nach München. *(we're going too)*
-a. auch · b. noch · c. erst
+**10.** Wir fahren ___ nach München. *(we're going too)*\
+   a. auch\
+   b. noch\
+   c. erst
 
-**11.** Es ist ___ acht Uhr — wir müssen los! *(already eight)*
-a. noch · b. schon · c. nur
+**11.** Es ist ___ acht Uhr — wir müssen los! *(already eight)*\
+   a. noch\
+   b. schon\
+   c. nur
 
-**12.** Das kostet ___ fünf Euro. *(only five)*
-a. nur · b. noch · c. auch
+**12.** Das kostet ___ fünf Euro. *(only five)*\
+   a. nur\
+   b. noch\
+   c. auch
 
 ---
 

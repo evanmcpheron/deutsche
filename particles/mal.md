@@ -132,18 +132,18 @@ Neither version is rude in the right context — but *mal* makes the request sou
 
 ## Mini Review
 
-1. **Warte mal.** How does this differ from **Warte!**?
-   a. It's a different verb.
-   b. It's softer and more casual.
+1. **Warte mal.** How does this differ from **Warte!**?\
+   a. It's a different verb.\
+   b. It's softer and more casual.\
    c. It's more urgent.
 
-2. Someone begins with **Sag mal, …**. What are they about to do?
-   a. Tell you a story.
-   b. Ask you something.
+2. Someone begins with **Sag mal, …**. What are they about to do?\
+   a. Tell you a story.\
+   b. Ask you something.\
    c. Correct you.
 
-3. Is *mal* appropriate in a formal written complaint to a landlord?
-   a. Yes, it's neutral.
+3. Is *mal* appropriate in a formal written complaint to a landlord?\
+   a. Yes, it's neutral.\
    b. No, it's spoken and casual.
 
 4. What does *mal* add to **Kannst du mir helfen?**

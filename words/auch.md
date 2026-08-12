@@ -116,16 +116,16 @@ I'm coming too. *(someone else is already coming)*
 
 ## Mini Review
 
-1. Someone says *Ich habe keinen Hunger*. Which reply means "me neither"?
-   a. Ich auch.
-   b. Ich auch nicht.
+1. Someone says *Ich habe keinen Hunger*. Which reply means "me neither"?\
+   a. Ich auch.\
+   b. Ich auch nicht.\
    c. Ich nicht auch.
 
 2. What's the difference between **Ich trinke auch Kaffee** and **Auch ich trinke Kaffee**?
 
-3. Choose the natural word: *Wir fahren ___ nach München.* (we're going too)
-   a. auch
-   b. noch
+3. Choose the natural word: *Wir fahren ___ nach München.* (we're going too)\
+   a. auch\
+   b. noch\
    c. schon
 
 4. **Produce it:** How would you say "I'd like a coffee too" in German, using *auch*?

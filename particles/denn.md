@@ -118,19 +118,19 @@ Where'd you get to? *(curious)*
 
 ## Mini Review
 
-1. **Wo warst du denn?** compared with **Wo warst du?** — what does *denn* add?
-   a. A demand for an explanation.
-   b. Interest and warmth.
+1. **Wo warst du denn?** compared with **Wo warst du?** — what does *denn* add?\
+   a. A demand for an explanation.\
+   b. Interest and warmth.\
    c. Nothing; they're identical.
 
-2. Someone says **Ich komme nicht mit.** You reply **Warum denn nicht?** What are you doing?
-   a. Asking, with interest, why not.
-   b. Telling them off.
+2. Someone says **Ich komme nicht mit.** You reply **Warum denn nicht?** What are you doing?\
+   a. Asking, with interest, why not.\
+   b. Telling them off.\
    c. Agreeing.
 
-3. In **Ich bleibe zu Hause, denn ich bin müde**, what is *denn* doing?
-   a. Softening a question.
-   b. Meaning "because".
+3. In **Ich bleibe zu Hause, denn ich bin müde**, what is *denn* doing?\
+   a. Softening a question.\
+   b. Meaning "because".\
    c. Meaning "then".
 
 4. Where does particle *denn* sit in a question — at the start, or inside?

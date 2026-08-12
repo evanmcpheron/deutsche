@@ -61,12 +61,12 @@ Why aren't you coming? — Because I don't have time.
 
 ## Self-Check
 
-1. Which is correct?
-   a. Ich bleibe hier, weil ich bin müde.
+1. Which is correct?\
+   a. Ich bleibe hier, weil ich bin müde.\
    b. Ich bleibe hier, weil ich müde bin.
 
-2. Which is correct?
-   a. Ich bleibe hier, denn ich bin müde.
+2. Which is correct?\
+   a. Ich bleibe hier, denn ich bin müde.\
    b. Ich bleibe hier, denn ich müde bin.
 
 3. Someone asks *Warum lernst du Deutsch?* Can you start your answer with *denn*?

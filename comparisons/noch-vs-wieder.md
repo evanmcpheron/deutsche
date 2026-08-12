@@ -64,18 +64,18 @@ If you're unsure which is true, *noch* is the safer guess for something that's b
 
 ## Self-Check
 
-1. Your friend was ill last month, recovered, and is now ill again. Which is right?
-   a. Er ist noch krank.
+1. Your friend was ill last month, recovered, and is now ill again. Which is right?\
+   a. Er ist noch krank.\
    b. Er ist wieder krank.
 
-2. **Ich bin wieder da.** What happened?
-   a. I never left.
+2. **Ich bin wieder da.** What happened?\
+   a. I never left.\
    b. I left and came back.
 
 3. What's the difference between *immer noch* and *immer wieder*?
 
-4. Choose the natural word: *Es regnet ___ — den ganzen Tag schon.* (still, all day)
-   a. noch
+4. Choose the natural word: *Es regnet ___ — den ganzen Tag schon.* (still, all day)\
+   a. noch\
    b. wieder
 
 5. **Produce it:** The shop was closed and has reopened. Say so in German.

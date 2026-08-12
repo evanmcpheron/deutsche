@@ -142,19 +142,19 @@ Three prepositions, three positions. English uses "on" for the first two, which 
 
 ## Mini Review
 
-1. Choose the natural word: *Ich habe ___ Montag frei.*
-   a. um
-   b. am
+1. Choose the natural word: *Ich habe ___ Montag frei.*\
+   a. um\
+   b. am\
    c. in
 
-2. Choose the natural form: *Ich hänge das Bild an ___ Wand.*
-   a. der
-   b. die
+2. Choose the natural form: *Ich hänge das Bild an ___ Wand.*\
+   a. der\
+   b. die\
    c. dem
 
-3. **Wann kommt der Zug an?** Why is *an* at the end?
-   a. It's a preposition with no noun.
-   b. It's the prefix of the separable verb *ankommen*.
+3. **Wann kommt der Zug an?** Why is *an* at the end?\
+   a. It's a preposition with no noun.\
+   b. It's the prefix of the separable verb *ankommen*.\
    c. It's a typo.
 
 4. Contrast: **Wir sitzen am Tisch.** / **Wir setzen uns an den Tisch.**
