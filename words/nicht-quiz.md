@@ -19,7 +19,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 **Answer:** **a**
 
-**Explanation:** German has no helper verb for negation — no equivalent of "do/don't" — so *nicht* simply joins the sentence and goes late. Option b copies the English "I not understand," and c invents a *tun* helper that German doesn't use here.
+**Explanation:** German does not use a helper verb like English "do/don't" for this kind of negation. In a simple sentence like this, _nicht_ comes late: **Ich verstehe nicht.**
 
 </details>
 
@@ -34,28 +34,28 @@ Try each question before opening its solution. Each solution is directly below t
 
 **Answer:** **c**
 
-**Explanation:** When *nicht* negates an adjective it sits immediately in front of it. *kein* is out of the question here — *teuer* is an adjective, not a noun.
+**Explanation:** When _nicht_ negates an adjective such as _teuer_, it normally comes directly before the adjective: **nicht teuer**. _kein_ is used with nouns, not adjectives.
 
 </details>
 
-3. **Ich fahre nicht nach Berlin.** What exactly is being denied?\
-   a. Das Ziel Berlin — vielleicht fahre ich woanders hin.\
-   b. Das Fahren überhaupt.\
-   c. Die Person, die fährt.\
-   d. Die Uhrzeit der Fahrt.
+3. **Ich fahre nicht nach Berlin.** What is being negated here?\
+   a. The destination, Berlin — I may be going somewhere else.\
+   b. Driving in general.\
+   c. The person who is driving.\
+   d. The time of the trip.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *nicht* stands right in front of *nach Berlin*, so that phrase is what gets cancelled. The trip itself may well be happening — just somewhere else.
+**Explanation:** Here _nicht_ comes directly before **nach Berlin**, so the destination is being denied. The speaker may still be traveling somewhere else.
 
 </details>
 
-4. A friend invites you out this evening and you have another commitment.\
-   a. Ich kann nicht heute kommen.\
-   b. Ich kann heute kommen nicht.\
+4. A friend invites you out this evening, but you cannot come. Which sentence uses the usual neutral word order?\
+   a. Ich kann heute kommen nicht.\
+   b. Ich nicht kann heute kommen.\
    c. Ich kann heute nicht kommen.\
    d. Ich kann heute keine kommen.
 
@@ -64,26 +64,26 @@ Try each question before opening its solution. Each solution is directly below t
 
 **Answer:** **c**
 
-**Explanation:** With a second verb at the end, *nicht* goes as late as possible but still in front of that verb. Option a is real German with a different emphasis — "not *today*, some other day."
+**Explanation:** With a modal verb such as _können_, the infinitive goes at the end. In the usual neutral sentence, _nicht_ comes before that final infinitive: **Ich kann heute nicht kommen.**
 
 </details>
 
-5. **Das geht nicht.** Was bedeutet das im Alltag?\
-   a. Es funktioniert später.\
-   b. Das ist nicht möglich.\
-   c. Ich gehe nicht mit.\
-   d. Der Weg ist zu weit.
+5. **Das geht nicht.** What does this usually mean in everyday German?\
+   a. It will work later.\
+   b. That isn't possible / That won't work.\
+   c. I'm not going with you.\
+   d. The route is too far.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** *Das geht nicht* is a fixed everyday phrase meaning "that won't work / that's not possible." Reading *gehen* literally as walking sends you to option c or d.
+**Explanation:** **Das geht nicht** is a common everyday expression meaning "that won't work" or "that's not possible." Here _gehen_ is not being used literally to mean "to walk."
 
 </details>
 
-6. Which sentence is wrong because it uses *nicht* where German needs *kein*?\
+6. Which sentence is wrong because it uses _nicht_ where German needs _kein_?\
    a. Ich verstehe das nicht.\
    b. Das ist nicht gut.\
    c. Er kommt heute nicht.\
@@ -94,7 +94,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 **Answer:** **d**
 
-**Explanation:** *Zeit* is a noun with no article, so it takes *kein*: **Ich habe keine Zeit.** The other three negate a whole sentence, an adjective and a verb respectively — all *nicht* territory.
+**Explanation:** _Zeit_ is a noun, so German uses **keine Zeit**: **Ich habe keine Zeit.** The other examples correctly use _nicht_ to negate a sentence, an adjective, or an action.
 
 </details>
 
@@ -102,108 +102,108 @@ Try each question before opening its solution. Each solution is directly below t
 
 ## Part B — Where Does It Go?
 
-7. Negate **Ich rufe dich an.** *(anrufen — to call someone)*\
+7. Negate **Ich rufe dich an.** _(anrufen — to call someone)_ using the usual neutral word order.\
    a. Ich rufe dich nicht an.\
-   b. Ich rufe nicht dich an.\
-   c. Ich nicht rufe dich an.\
-   d. Ich rufe dich an nicht.
+   b. Ich nicht rufe dich an.\
+   c. Ich rufe dich an nicht.\
+   d. Ich rufe dich kein an.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *nicht* slides right but stops before the separable prefix *an*. Option b is possible German, but it contradicts one word — "I'm not calling *you*, I'm calling someone else."
+**Explanation:** _anrufen_ is a separable verb. In this sentence, _an_ moves to the end, and _nicht_ comes before it: **Ich rufe dich nicht an.**
 
 </details>
 
-8. **Ich gehe nicht ins Kino.** Why does *nicht* stand in front of *ins Kino*?\
-   a. Weil *nicht* immer direkt nach dem Subjekt steht.\
-   b. Weil *Kino* ein Nomen ist.\
-   c. Weil der Satz eine Frage ist.\
-   d. Weil *nicht* vor eine Präpositionalphrase gehört.
+8. **Ich gehe nicht ins Kino.** Why does _nicht_ come before _ins Kino_?\
+   a. Because _nicht_ always comes directly after the subject.\
+   b. Because _Kino_ is a noun.\
+   c. Because the sentence is a question.\
+   d. Because _ins Kino_ is the destination being negated.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **d**
 
-**Explanation:** A prepositional phrase is one of the things *nicht* has to stop in front of. Option b sounds tempting, but if the noun itself were being negated you would need *kein*, not a change of position.
+**Explanation:** Here the speaker is denying the destination **ins Kino**, so _nicht_ comes directly before that part of the sentence. The important idea is what the speaker is negating, not simply whether a noun appears.
 
 </details>
 
-9. Which sentence means "It's not ME — it's him"?\
-   a. Ich bin nicht er.\
-   b. Er ist nicht ich.\
-   c. Nicht ich — er!\
-   d. Ich nicht bin — er.
+9. Which sentence correctly says **"I am not tired"**?\
+   a. Ich bin müde nicht.\
+   b. Ich nicht bin müde.\
+   c. Ich bin nicht müde.\
+   d. Ich bin kein müde.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** To contradict one specific word, put *nicht* directly in front of it — even at the very start of the sentence. This is the one case where *nicht* leaves its usual late position entirely.
+**Explanation:** _müde_ is an adjective. When _nicht_ negates an adjective, it comes directly before it: **nicht müde**.
 
 </details>
 
-10. "I can't come along today." *(mitkommen — to come along)*\
-   a. Ich kann heute mitkommen nicht.\
-   b. Ich kann nicht heute mitkommen.\
-   c. Ich nicht kann heute mitkommen.\
-   d. Ich kann heute nicht mitkommen.
+10. Which sentence uses the usual neutral word order for **"I can't come along today"**? _(mitkommen — to come along)_\
+    a. Ich kann heute mitkommen nicht.\
+    b. Ich nicht kann heute mitkommen.\
+    c. Ich kann heute kein mitkommen.\
+    d. Ich kann heute nicht mitkommen.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **d**
 
-**Explanation:** As the sentence grows, *nicht* keeps sliding right — past *heute* — but always stops before the verb material at the end. Option b again shifts the emphasis onto *heute*.
+**Explanation:** With _können_, the infinitive _mitkommen_ goes at the end. In the usual neutral sentence, _nicht_ comes directly before it: **Ich kann heute nicht mitkommen.**
 
 </details>
 
-11. In **Ich komme heute nicht mit**, where has *nicht* landed?\
-   a. Direkt nach dem Subjekt.\
-   b. Vor der trennbaren Vorsilbe *mit*.\
-   c. Vor dem Zeitwort *heute*.\
-   d. Ganz am Satzende.
+11. In **Ich komme heute nicht mit**, where is _nicht_?\
+    a. Immediately after the subject.\
+    b. Just before _mit_, the separated part of _mitkommen_.\
+    c. Before _heute_.\
+    d. At the very end of the sentence.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** The prefix *mit* is the last piece of verb material, and *nicht* stops just in front of it. Compare the fuller version *Ich kann heute nicht mitkommen*, where the whole verb sits at the end instead.
+**Explanation:** _mitkommen_ is separable. In **Ich komme heute nicht mit**, the separated part _mit_ is at the end, and _nicht_ comes just before it.
 
 </details>
 
-12. Someone is walking too fast for you and you say **Nicht so schnell!**\
-   a. Er lobt jemanden.\
-   b. Er fragt nach dem Weg.\
-   c. Er bittet jemanden, langsamer zu machen.\
-   d. Er sagt, dass etwas kaputt ist.
+12. Someone is walking too fast and you say **Nicht so schnell!** What are you asking them to do?\
+    a. Praise someone.\
+    b. Ask for directions.\
+    c. Slow down.\
+    d. Say that something is broken.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** *nicht so* + adjective is a compact everyday request — no verb needed. *Nicht so laut!* and *Nicht so viel!* work the same way.
+**Explanation:** **Nicht so schnell!** means "Not so fast!" In everyday German, _nicht so_ can be used before an adjective or adverb to tell someone to do something less strongly: **Nicht so laut!** = "Not so loud!"
 
 </details>
 
-13. Compare **Er kommt heute nicht** and **Nicht er kommt heute.** What changes?\
-   a. Nichts — beide sagen dasselbe.\
-   b. Der zweite Satz ist eine Frage.\
-   c. Der zweite Satz ist höflicher.\
-   d. Der erste verneint sein Kommen; der zweite sagt, dass jemand anderes kommt.
+13. Compare **Er kommt heute nicht** and **Er kommt nicht heute, sondern morgen.** What changes?\
+    a. Nothing; both sentences have exactly the same emphasis.\
+    b. The second sentence is a question.\
+    c. The first says he is not coming today; the second specifically contrasts today with tomorrow.\
+    d. The second sentence means that someone else is coming.
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** **d**
+**Answer:** **c**
 
-**Explanation:** Position decides scope. Late *nicht* cancels the whole event; *nicht* in front of *er* cancels only that word and leaves the visit standing.
+**Explanation:** In **Er kommt heute nicht**, the whole idea of him coming today is negated. In **Er kommt nicht heute, sondern morgen**, _nicht_ directly contrasts **heute** with **morgen**: not today, but tomorrow.
 
 </details>
 
@@ -211,18 +211,18 @@ Try each question before opening its solution. Each solution is directly below t
 
 ## Part C — Contrast and Diagnosis
 
-14. You want to say: **I don't have any money.** A learner writes **Ich habe nicht Geld.**\
-   a. Richtig — genau diese Bedeutung.\
-   b. Falsch — vor einem Nomen braucht man *kein*: *Ich habe kein Geld.*\
-   c. Richtig, aber unhöflich.\
-   d. Korrektes Deutsch, aber es bedeutet etwas anderes.
+14. A learner wants to say **"I don't have any money"** and writes **Ich habe nicht Geld.** What's wrong?\
+    a. Nothing; the sentence is correct.\
+    b. _Geld_ is a noun here, so German uses _kein_: **Ich habe kein Geld.**\
+    c. The sentence is correct but impolite.\
+    d. The sentence is correct but means something different.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** This is the single most common negation error for English speakers. Test yourself with *ein*: if *ein Geld* or a bare noun could stand there, you want *kein*.
+**Explanation:** To say that you have no money, German uses _kein_ with the noun: **Ich habe kein Geld.** This is a common place where English speakers incorrectly choose _nicht_.
 
 </details>
 
@@ -233,92 +233,92 @@ A: Ich mag keinen Fisch.
 B: Ich ___.
 ```
 
-   a. auch\
-   b. nicht auch\
-   c. auch nicht\
-   d. nicht mehr
+a. auch\
+ b. nicht auch\
+ c. auch nicht\
+ d. nicht mehr
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** *Ich auch nicht* is "me neither" — the order is fixed, with *auch* before *nicht*. Plain *Ich auch* would agree with a positive statement, which A's sentence is not.
+**Explanation:** **Ich auch nicht** means "me neither." The usual expression is _auch nicht_, not _nicht auch_.
 
 </details>
 
 16. What is the difference between **Ich trinke nicht** and **Ich trinke keinen Kaffee**?\
-   a. Der erste Satz ist eine Frage.\
-   b. Der erste verneint das Verb allgemein, der zweite ein bestimmtes Nomen.\
-   c. Der zweite Satz ist falsch.\
-   d. Der erste Satz spricht auch über Kaffee.
+    a. The first sentence is a question.\
+    b. The first negates drinking in general; the second specifically says the person does not drink coffee.\
+    c. The second sentence is incorrect.\
+    d. Both sentences specifically mean that the person does not drink coffee.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** *Ich trinke nicht* is a statement about a habit — often about alcohol. *Ich trinke keinen Kaffee* names the thing being refused, so the noun pulls in *kein*.
+**Explanation:** **Ich trinke nicht** negates the action more generally. **Ich trinke keinen Kaffee** names a specific noun, _Kaffee_, and uses _kein_ to negate it.
 
 </details>
 
-17. Why is **Das macht nichts** not simply *Das macht nicht*?\
-   a. *nichts* ist ein eigenes Wort und bedeutet "nothing".\
-   b. *nichts* ist die höfliche Form von *nicht*.\
-   c. *nichts* steht nur am Satzanfang.\
-   d. Die beiden Wörter sind gleich; das *-s* ist egal.
+17. Why does **Das macht nichts** use _nichts_ rather than _nicht_?\
+    a. _nichts_ is a separate word meaning "nothing."\
+    b. _nichts_ is the polite form of _nicht_.\
+    c. _nichts_ can only appear at the beginning of a sentence.\
+    d. They are the same word; the _-s_ does not change the meaning.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *nicht* cancels something; *nichts* is a thing in its own right — "nothing." *Das macht nichts* = "that does nothing," i.e. never mind. Keep them apart from the start.
+**Explanation:** _nicht_ means "not" and is used to negate something. _nichts_ is a separate word meaning "nothing." **Das macht nichts** is a common expression meaning "It doesn't matter," "That's okay," or "No problem."
 
 </details>
 
-18. Which sentence means "I don't understand that **at all**"?\
-   a. Ich verstehe das noch nicht.\
-   b. Ich verstehe das nicht mehr.\
-   c. Ich verstehe das auch nicht.\
-   d. Ich verstehe das gar nicht.
+18. Which sentence means **"I don't understand that at all"**?\
+    a. Ich verstehe das noch nicht.\
+    b. Ich verstehe das nicht mehr.\
+    c. Ich verstehe das auch nicht.\
+    d. Ich verstehe das gar nicht.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **d**
 
-**Explanation:** *gar nicht* strengthens the negation to "not at all." The other three place the negation in time (a, b) or add it to someone else's (c).
+**Explanation:** **gar nicht** strengthens the negation and means "not at all." The other choices mean "not yet," "not anymore," and "also not."
 
 </details>
 
-19. You lived in Munich until last year and have since moved away.\
-   a. Ich wohne nicht mehr in München.\
-   b. Ich wohne noch nicht in München.\
-   c. Ich wohne wieder in München.\
-   d. Ich wohne nicht in München mehr.
+19. You lived in Munich until last year and have since moved away. Which sentence fits?\
+    a. Ich wohne nicht mehr in München.\
+    b. Ich wohne noch nicht in München.\
+    c. Ich wohne wieder in München.\
+    d. Ich wohne nicht in München mehr.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *nicht mehr* = it was true and has stopped. Option b reverses the history, and d splits a pair that has to stay together.
+**Explanation:** **nicht mehr** means "not anymore" or "no longer." It describes something that used to be true but is not true now.
 
 </details>
 
-20. A learner writes **Der Zug nicht fährt ab.** What is the fix? *(abfahren — to depart)*\
-   a. Der Zug fährt ab nicht.\
-   b. Der Zug fährt nicht ab.\
-   c. Der Zug fährt kein ab.\
-   d. Nicht der Zug fährt ab.
+20. A learner writes **Der Zug nicht fährt ab.** What is the correct neutral word order? _(abfahren — to depart)_\
+    a. Der Zug fährt ab nicht.\
+    b. Der Zug fährt nicht ab.\
+    c. Der Zug fährt kein ab.\
+    d. Der Zug nicht abfährt.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **b**
 
-**Explanation:** *nicht* was placed on the English pattern, right after the subject. It belongs late — just before the separable prefix. Option d is real German, but it means something else: *another* thing is departing, not the train.
+**Explanation:** _abfahren_ is separable. The conjugated part _fährt_ stays in the normal verb position, _ab_ moves to the end, and _nicht_ comes before _ab_: **Der Zug fährt nicht ab.**
 
 </details>
 
@@ -326,27 +326,27 @@ B: Ich ___.
 
 ## Part D — Retrieve and Produce
 
-21. **Select all that apply.** Which gaps would a German speaker fill with *nicht* rather than *kein*?\
-   a. Das ist ___ gut.\
-   b. Ich habe ___ Zeit.\
-   c. Er kommt heute ___.\
-   d. Ich wohne ___ in Berlin.
+21. **Select all that apply.** Which gaps would a German speaker fill with _nicht_ rather than _kein_?\
+    a. Das ist **_ gut.\
+    b. Ich habe _** Zeit.\
+    c. Er kommt heute **_.\
+    d. Ich wohne _** in Berlin.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a, c, d**
 
-**Explanation:** An adjective (a), a whole sentence (c) and a prepositional phrase (d) all take *nicht*. Only b has a bare noun in the way, and that needs **keine Zeit**.
+**Explanation:** An adjective in a, the action or sentence in c, and the location phrase in d all use _nicht_. The noun _Zeit_ in b needs **keine Zeit**.
 
 </details>
 
 22. Fill in the missing word. No options given.
 
-   A colleague asks whether you can join the three o'clock meeting. You have an appointment then.
+A colleague asks whether you can come to a meeting today. You cannot attend.
 
 ```text
-Ich kann um drei ___ kommen.
+Ich kann heute ___ kommen.
 ```
 
 <details>
@@ -354,11 +354,11 @@ Ich kann um drei ___ kommen.
 
 **Answer:** **nicht**
 
-**Explanation:** *Ich kann um drei nicht kommen.* The infinitive *kommen* is at the end, so *nicht* stops just before it. *Ich kann nicht um drei kommen* is also correct, but it stresses the time — as if another hour would be fine.
+**Explanation:** **Ich kann heute nicht kommen.** With a modal verb, the infinitive _kommen_ goes at the end, and _nicht_ comes before it in the usual neutral word order.
 
 </details>
 
-23. Put the words in order.
+23. Put the words in the usual neutral word order.
 
 ```text
 heute / nicht / ich / kommen / kann
@@ -369,11 +369,11 @@ heute / nicht / ich / kommen / kann
 
 **Answer:** **Ich kann heute nicht kommen.**
 
-**Explanation:** Subject, modal verb, time word, *nicht*, then the infinitive at the end. If you produced *Ich kann nicht heute kommen*, it is grammatical but narrows the negation to *heute*.
+**Explanation:** The modal verb _kann_ is in the main verb position, _heute_ gives the time, _nicht_ negates the action, and the infinitive _kommen_ goes at the end.
 
 </details>
 
-24. Put the words in order.
+24. Put the words in the usual neutral word order.
 
 ```text
 an / nicht / rufe / dich / ich
@@ -384,7 +384,7 @@ an / nicht / rufe / dich / ich
 
 **Answer:** **Ich rufe dich nicht an.**
 
-**Explanation:** The prefix *an* splits off to the very end, and *nicht* takes the last position before it. This word order is worth drilling — separable verbs are everywhere at A1.
+**Explanation:** _anrufen_ is separable. The prefix _an_ moves to the end, and _nicht_ comes before it.
 
 </details>
 
@@ -395,7 +395,7 @@ an / nicht / rufe / dich / ich
 
 **Answer:** **Ich verstehe die Frage nicht.**
 
-**Explanation:** *die Frage* is a definite noun, so *kein* is not an option — *keine Frage* would mean "no question at all," a different sentence. With a definite thing, negate the sentence with a late *nicht*.
+**Explanation:** _die Frage_ already has a definite article, so the sentence is negated with _nicht_: **Ich verstehe die Frage nicht.**
 
 </details>
 
@@ -406,7 +406,7 @@ an / nicht / rufe / dich / ich
 
 **Answer:** **Nein, die Suppe ist nicht warm.**
 
-**Explanation:** *warm* is an adjective, so *nicht* goes directly in front of it. *Nein, sie ist nicht warm* and the blunter *Nein, sie ist kalt* both work in conversation.
+**Explanation:** _warm_ is an adjective, so _nicht_ comes directly before it: **nicht warm**. **Nein, sie ist nicht warm** also works in conversation.
 
 </details>
 
