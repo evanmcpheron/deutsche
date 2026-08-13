@@ -1,7 +1,7 @@
 # Contrast 01 — Near-Identical Sentences
 
 **Covers:** [noch](../words/noch.md) · [schon](../words/schon.md) · [wieder](../words/wieder.md) · [erst](../words/erst.md) · [nicht mehr](../patterns/nicht-mehr.md) · [zu Hause / nach Hause](../comparisons/zu-hause-vs-nach-hause.md)
-**Do this after:** Stage 1, and again after Stage 3
+**Do this after:** Stage 5 of [Start Here](../START-HERE.md)
 
 [← Recognition 01](recognition-01.md) | [Category Index](./README.md) | [Next → Sentence Completion 01](sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)
 

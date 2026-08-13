@@ -75,6 +75,6 @@ That's not failure. That's how reading works in your first language too.
 - [Study Guide](../STUDY_GUIDE.md)
 - [Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md)
 - [Phrases](../phrases/README.md)
-- [Start Here](../START_HERE.md)
+- [Start Here](../START-HERE.md)
 
 [← Modal Particles Overview](modal-particles-overview.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)

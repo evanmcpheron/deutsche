@@ -1,7 +1,7 @@
 # Cumulative Review
 
 **Covers:** everything in this repository
-**Do this after:** Stage 3 of [Start Here](../START_HERE.md) — then again a month later
+**Do this after:** Stage 6 of [Start Here](../START-HERE.md) — then reuse it later for spaced review
 
 [← Recognition 02](recognition-02.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
@@ -767,7 +767,7 @@ Use the score diagnostically rather than as a final grade.
 
 - **41–48:** strong cumulative recognition and controlled application. Keep spacing the review rather than immediately repeating it.
 - **33–40:** identify the two or three concepts behind your errors and revisit those lesson/comparison pages.
-- **24–32:** the interleaving is exposing real gaps; review the relevant Stage 1–3 sections before retaking.
+- **24–32:** the interleaving is exposing real gaps; review the specific lesson or comparison behind the repeated errors before retaking.
 - **Under 24:** return to the core words and preposition decision patterns before adding more review load.
 
 For production questions, accept a natural alternative if it expresses the target relationship correctly. Do not require exact wording when German allows more than one good sentence.

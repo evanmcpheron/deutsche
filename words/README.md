@@ -1,10 +1,10 @@
 # Words
 
-[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START_HERE.md)
+[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START-HERE.md)
 
 Adverbs and function words — the small words that carry real meaning into a sentence, as opposed to the tone-shaping [particles](../particles/README.md) or the relationship-setting [prepositions](../prepositions/README.md).
 
-Read them roughly in this order. The first six are Stage 1 in [Start Here](../START_HERE.md).
+Read them roughly in this order. The first six are Stage 1 in [Start Here](../START-HERE.md).
 
 | Word | Type | Rough sense | Tier | Goal |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ The same rule decides any future placement question, so the answer never depends
 - [Prepositions](../prepositions/README.md)
 - [Particles](../particles/README.md)
 
-[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START_HERE.md)
+[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START-HERE.md)

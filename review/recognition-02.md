@@ -1,7 +1,7 @@
 # Recognition 02 — Particles and Tone
 
 **Covers:** [mal](../particles/mal.md) · [denn](../particles/denn.md) · [doch](../particles/doch.md) · [eigentlich](../particles/eigentlich.md) · [ja](../particles/ja.md) · [eben](../particles/eben.md) · [halt](../particles/halt.md)
-**Do this during:** Stage 4 of [Start Here](../START_HERE.md)
+**Do this during:** Stage 6 of [Start Here](../START-HERE.md)
 
 [← Sentence Completion 01](sentence-completion-01.md) | [Category Index](./README.md) | [Next → Cumulative Review](cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)
 

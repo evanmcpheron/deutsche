@@ -4,7 +4,7 @@ A self-study reference for the small, high-frequency German words that resist si
 
 ## Start Here
 
-[Begin with the learning guide →](START_HERE.md)
+[New learner? Begin with the recommended learning path →](START-HERE.md)
 
 ---
 
@@ -41,7 +41,7 @@ The fix is not more definitions. It is more **patterns**.
 
 | Section | What's inside |
 |---|---|
-| [Start Here](START_HERE.md) | A staged learning sequence with pacing and interleaved review |
+| [Start Here](START-HERE.md) | The canonical staged learning path, with lessons, quizzes, comparisons, and review checkpoints |
 | [Master Index](MASTER_INDEX.md) | Every word, alphabetically, with its word type |
 | [Study Guide](STUDY_GUIDE.md) | How to actually study this material |
 | [Glossary](GLOSSARY.md) | Plain-English definitions of the grammar terms used here |
@@ -56,7 +56,7 @@ The fix is not more definitions. It is more **patterns**.
 
 ## Where a Beginner Should Start
 
-Read [START_HERE.md](START_HERE.md) first. It gives you a four-stage sequence, a rough pace for each stage, and tells you which review page to complete before moving on. If you would rather look up one specific word right now, go to the [Master Index](MASTER_INDEX.md).
+Read [START-HERE.md](START-HERE.md) first. It gives you the recommended stage order, places each quiz and comparison after its prerequisites, and marks material as Core, Recognition, or Later. If you would rather look up one specific word right now, go to the [Master Index](MASTER_INDEX.md).
 
 ## How to Use the Exercises
 

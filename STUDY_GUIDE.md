@@ -1,6 +1,6 @@
 # Study Guide
 
-[← Start Here](START_HERE.md) | [↑ Master Index](MASTER_INDEX.md) | [Glossary →](GLOSSARY.md)
+[← Start Here](START-HERE.md) | [↑ Master Index](MASTER_INDEX.md) | [Glossary →](GLOSSARY.md)
 
 *How* you study these words matters as much as which ones you study. Small words are learned differently from nouns.
 
@@ -97,10 +97,10 @@ But: you hear *Das ist doch nicht so schwer* and, without stopping to analyze, y
 ---
 
 ## Related Pages
-- [Start Here](START_HERE.md)
+- [Start Here](START-HERE.md)
 - [The A1 Priority System](reference/a1-priority-system.md)
 - [Active vs. Passive Vocabulary](reference/active-vs-passive-vocabulary.md)
 - [How to Read Without Translating](reference/how-to-read-without-translating.md)
 - [Review Exercises](review/README.md)
 
-[← Start Here](START_HERE.md) | [↑ Master Index](MASTER_INDEX.md) | [Glossary →](GLOSSARY.md)
+[← Start Here](START-HERE.md) | [↑ Master Index](MASTER_INDEX.md) | [Glossary →](GLOSSARY.md)

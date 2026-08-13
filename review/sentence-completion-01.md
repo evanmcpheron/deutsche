@@ -1,7 +1,7 @@
 # Sentence Completion 01 — Prepositions
 
 **Covers:** [mit](../prepositions/mit.md) · [zu](../prepositions/zu.md) · [nach](../prepositions/nach.md) · [bei](../prepositions/bei.md) · [aus](../prepositions/aus.md) · [von](../prepositions/von.md) · [für](../prepositions/fuer.md) · [um](../prepositions/um.md) · [in](../prepositions/in.md) · [auf](../prepositions/auf.md) · [an](../prepositions/an.md)
-**Do this after:** Stage 2 of [Start Here](../START_HERE.md)
+**Do this after:** Stage 5 of [Start Here](../START-HERE.md)
 
 [← Contrast 01](contrast-01.md) | [Category Index](./README.md) | [Next → Recognition 02](recognition-02.md) | [↑ Master Index](../MASTER_INDEX.md)
 

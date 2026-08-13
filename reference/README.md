@@ -28,6 +28,6 @@ Those matter later. Nothing in this repository requires them, and every example 
 
 - [Glossary](../GLOSSARY.md) — every grammar term used here, in plain English
 - [Study Guide](../STUDY_GUIDE.md)
-- [Start Here](../START_HERE.md)
+- [Start Here](../START-HERE.md)
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Glossary](../GLOSSARY.md)

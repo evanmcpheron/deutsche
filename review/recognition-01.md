@@ -1,7 +1,7 @@
 # Recognition 01 — Core Words
 
 **Covers:** [nicht](../words/nicht.md) · [kein](../words/kein.md) · [auch](../words/auch.md) · [noch](../words/noch.md) · [schon](../words/schon.md) · [nur](../words/nur.md)
-**Do this after:** Stage 1 of [Start Here](../START_HERE.md)
+**Do this after:** Stage 1 of [Start Here](../START-HERE.md)
 
 [Category Index](./README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)
 
@@ -575,7 +575,7 @@ Now the situation changes: you finish earlier than expected. Change only what is
 
 ### How Did It Go?
 
-- **29–34 correct:** move on to Stage 2 in [Start Here](../START_HERE.md).
+- **29–34 correct:** move on to Stage 2 in [Start Here](../START-HERE.md).
 - **23–28:** reread the two or three word pages that gave you trouble, then retake this after some spacing.
 - **Under 23:** review the six Stage 1 word pages before moving on; focus on the contrasts that caused errors.
 

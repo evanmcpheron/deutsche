@@ -1,16 +1,16 @@
 # Review
 
-[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START_HERE.md)
+[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START-HERE.md)
 
 Every page here is self-contained and has a **solution dropdown directly below each question**. Nothing waits on a tutor.
 
 | Page | Covers | Do it after |
 |---|---|---|
 | [Recognition 01](recognition-01.md) | nicht, kein, auch, noch, schon, nur | Stage 1 |
-| [Contrast 01](contrast-01.md) | near-identical sentence pairs | Stage 1, then again after Stage 3 |
-| [Sentence Completion 01](sentence-completion-01.md) | prepositions, including two-way case | Stage 2 |
-| [Recognition 02](recognition-02.md) | particles and tone | during Stage 4 |
-| [Cumulative Review](cumulative-review.md) | everything | after Stage 3, then a month later |
+| [Contrast 01](contrast-01.md) | near-identical sentence pairs across time and home/destination distinctions | after Stage 5 |
+| [Sentence Completion 01](sentence-completion-01.md) | prepositions, including two-way case | after Stage 5 |
+| [Recognition 02](recognition-02.md) | particles and tone | during Stage 6 |
+| [Cumulative Review](cumulative-review.md) | everything | after Stage 6, then reuse later |
 
 ## Question Types Used Here
 
@@ -35,4 +35,4 @@ The first four test **recognition**, which is what you build first. **Produce it
 - [Comparisons](../comparisons/README.md) — each comparison page links to its own quiz
 - [Words](../words/README.md) · [Prepositions](../prepositions/README.md) · [Particles](../particles/README.md)
 
-[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START_HERE.md)
+[↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START-HERE.md)

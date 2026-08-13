@@ -83,7 +83,7 @@ If a page marks something as A2 or "recognize only," you can safely skim it.
 |---|---|
 | 10 minutes | One Tier 1 word page + its linked quiz |
 | 30 minutes | A Tier 1 page and the comparison it links to |
-| A week | One [Start Here](../START_HERE.md) stage, review included |
+| A week | One [Start Here](../START-HERE.md) stage, review included |
 | A passive commute | A [phrases](../phrases/README.md) page — pure Tier 2/3 exposure |
 
 The single highest-value hour you can spend in this repository: [noch](../words/noch.md), [schon](../words/schon.md), and [noch vs. schon](../comparisons/noch-vs-schon.md), in that order.
@@ -91,7 +91,7 @@ The single highest-value hour you can spend in this repository: [noch](../words/
 ## Related Pages
 
 - [Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md)
-- [Start Here](../START_HERE.md)
+- [Start Here](../START-HERE.md)
 - [Study Guide](../STUDY_GUIDE.md)
 - [Master Index](../MASTER_INDEX.md)
 
