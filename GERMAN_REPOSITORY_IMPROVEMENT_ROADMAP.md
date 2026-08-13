@@ -74,7 +74,7 @@ The repository should function as a self-directed course instead of only a colle
 
 ## Step 2 — Build a Concept Index
 
-**Status:** Ready to begin
+**Status:** Complete
 
 ### Goal
 
@@ -99,16 +99,16 @@ Allow learners to find material by the meaning or problem they are trying to exp
 
 ### Completion Criteria
 
-- [ ] Major concepts map to the relevant lessons and comparisons.
-- [ ] Each entry uses short learner-friendly descriptions.
-- [ ] The index avoids duplicating full lesson explanations.
-- [ ] Related concepts are cross-linked.
+- [x] Major concepts map to the relevant lessons and comparisons.
+- [x] Each entry uses short learner-friendly descriptions.
+- [x] The index avoids duplicating full lesson explanations.
+- [x] Related concepts are cross-linked.
 
 ---
 
 ## Step 3 — Build a Confusion Index / Confusion Clinic
 
-**Status:** Blocked by Step 2
+**Status:** Ready to begin
 
 ### Goal
 
@@ -454,11 +454,11 @@ Do **not** improve the repository by:
 
 # Current Focus
 
-## Next Phase: Step 2 — Concept Index
+## Next Phase: Step 3 — Confusion Index / Confusion Clinic
 
-Step 1 is complete. The repository now has one canonical learner-facing path at `START-HERE.md`, with prerequisite-aware stages, lesson-to-quiz flow, comparison placement, recognition/later classifications, and review checkpoints.
+Steps 1 and 2 are complete. The repository now has both a canonical learner-facing path at `START-HERE.md` and a meaning-based retrieval surface at `CONCEPT-INDEX.md`.
 
-Step 2 can begin from that stable learning-path architecture.
+Step 3 can now build a focused diagnostic index for commonly confused concepts without changing the established learning sequence.
 
 ---
 
@@ -472,3 +472,6 @@ Step 2 can begin from that stable learning-path architecture.
 - Completed Step 1 with a canonical `START-HERE.md`, six prerequisite-aware stages, Core/Recognition/Later guidance, integrated quizzes/comparisons/reviews, and full learner-asset coverage auditing.
 - Renamed the learner entry point from `START_HERE.md` to `START-HERE.md` and updated affected navigation links.
 - Marked Step 2 — Concept Index ready to begin.
+- Completed Step 2 with a root `CONCEPT-INDEX.md` organized by learner meaning/problem, cross-linked related concept groups, and canonical lesson/comparison links.
+- Added conservative Concept Index navigation from `README.md`, `START-HERE.md`, and `MASTER_INDEX.md`.
+- Marked Step 3 — Confusion Index / Confusion Clinic ready to begin.

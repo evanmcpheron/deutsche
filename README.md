@@ -42,6 +42,7 @@ The fix is not more definitions. It is more **patterns**.
 | Section | What's inside |
 |---|---|
 | [Start Here](START-HERE.md) | The canonical staged learning path, with lessons, quizzes, comparisons, and review checkpoints |
+| [Concept Index](CONCEPT-INDEX.md) | Find lessons by meaning or problem when you do not yet know the German word |
 | [Master Index](MASTER_INDEX.md) | Every word, alphabetically, with its word type |
 | [Study Guide](STUDY_GUIDE.md) | How to actually study this material |
 | [Glossary](GLOSSARY.md) | Plain-English definitions of the grammar terms used here |
@@ -56,7 +57,7 @@ The fix is not more definitions. It is more **patterns**.
 
 ## Where a Beginner Should Start
 
-Read [START-HERE.md](START-HERE.md) first. It gives you the recommended stage order, places each quiz and comparison after its prerequisites, and marks material as Core, Recognition, or Later. If you would rather look up one specific word right now, go to the [Master Index](MASTER_INDEX.md).
+Read [START-HERE.md](START-HERE.md) first. It gives you the recommended stage order, places each quiz and comparison after its prerequisites, and marks material as Core, Recognition, or Later. If you know the meaning or problem but not the German word, use the [Concept Index](CONCEPT-INDEX.md). If you already know the German word, use the [Master Index](MASTER_INDEX.md).
 
 ## How to Use the Exercises
 

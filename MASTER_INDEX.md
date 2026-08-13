@@ -1,6 +1,6 @@
 # Master Index
 
-[← README](README.md) | [Start Here](START-HERE.md) | [Study Guide](STUDY_GUIDE.md) | [Glossary](GLOSSARY.md)
+[← README](README.md) | [Start Here](START-HERE.md) | [Concept Index](CONCEPT-INDEX.md) | [Study Guide](STUDY_GUIDE.md) | [Glossary](GLOSSARY.md)
 
 Every word covered in this repository, alphabetically, with its word type and priority tier. Words with more than one function have that noted briefly.
 
@@ -163,4 +163,4 @@ Every word covered in this repository, alphabetically, with its word type and pr
 
 ---
 
-[← README](README.md) | [Start Here](START-HERE.md) | [Study Guide](STUDY_GUIDE.md) | [Glossary](GLOSSARY.md)
+[← README](README.md) | [Start Here](START-HERE.md) | [Concept Index](CONCEPT-INDEX.md) | [Study Guide](STUDY_GUIDE.md) | [Glossary](GLOSSARY.md)

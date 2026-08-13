@@ -1,6 +1,6 @@
 # Start Here — Recommended Learning Path
 
-[← Repository README](README.md) | [Master Index](MASTER_INDEX.md) | [Study Guide](STUDY_GUIDE.md)
+[← Repository README](README.md) | [Concept Index](CONCEPT-INDEX.md) | [Master Index](MASTER_INDEX.md) | [Study Guide](STUDY_GUIDE.md)
 
 ## What This Repository Teaches
 
@@ -200,6 +200,7 @@ You do not need the folder structure to follow the course, but it becomes useful
 ## Reference and Navigation
 
 - [Repository README](README.md) — overview and category navigation
+- [Concept Index](CONCEPT-INDEX.md) — lookup by meaning or problem when you do not know the German word
 - [Master Index](MASTER_INDEX.md) — alphabetical lookup
 - [Study Guide](STUDY_GUIDE.md) — how to study these small words efficiently
 - [Glossary](GLOSSARY.md) — plain-English grammar terminology
