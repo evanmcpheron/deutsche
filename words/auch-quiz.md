@@ -65,18 +65,18 @@ B: ___
 
 </details>
 
-4. **Ich trinke auch Kaffee.** Which statement is correct?\
-   a. Kaffee ist das Einzige, was ich trinke.\
-   b. Ich trinke keinen Kaffee.\
-   c. Ich trinke jeden Tag Kaffee.\
-   d. Kaffee kommt zu etwas anderem dazu.
+4. **Ich trinke auch Kaffee.** What does *auch* add here?\
+   a. That coffee is being added to something already true — other drinks, or other people who drink it.\
+   b. That coffee is the only thing being drunk.\
+   c. That the speaker drinks a lot of coffee every day.\
+   d. That someone else, not the speaker, drinks coffee.
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** **d**
+**Answer:** **a**
 
-**Explanation:** *auch* adds — either to what other people drink, or to the other drinks I have. Option a is the *nur* sentence: *Ich trinke nur Kaffee.*
+**Explanation:** *auch* signals that this fact is being added to something already true — other people who drink coffee, or other drinks the speaker already has. Option b describes what *nur* would say, not *auch*. Option c is about frequency, which *auch* doesn't address. Option d reverses who is doing the drinking.
 
 </details>
 

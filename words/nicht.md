@@ -7,6 +7,8 @@
 
 [Category Index](./README.md) | [Next → kein](kein.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *nicht* cancels something. It's the general-purpose "not" — it negates verbs, adjectives, adverbs, and specific named things.

@@ -7,6 +7,8 @@
 
 [← kein](kein.md) | [Category Index](./README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *auch* adds someone or something to what's already true. English says "also," "too," or "as well" — German says *auch*, and puts it **directly before the thing being added**.

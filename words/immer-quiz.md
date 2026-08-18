@@ -10,7 +10,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 1. Your bus has arrived late every single morning this month.\
    a. Der Bus kommt noch zu spät.\
-   b. Der Bus kommt wieder zu spät.\
+   b. Der Bus kommt nicht immer zu spät.\
    c. Der Bus kommt immer zu spät.\
    d. Der Bus kommt schon zu spät.
 
@@ -19,7 +19,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 **Answer:** **c**
 
-**Explanation:** Every time, without exception — that's plain *immer*. Option b would describe one more late morning without claiming a pattern.
+**Explanation:** Every time, without exception — that's plain *immer*. Option b (*nicht immer*) would deny that it's a regular pattern at all, which contradicts a month of late mornings.
 
 </details>
 
@@ -42,14 +42,14 @@ Try each question before opening its solution. Each solution is directly below t
    a. Er wartet immer noch.\
    b. Er wartet immer wieder.\
    c. Er wartet immer.\
-   d. Er wartet wieder.
+   d. Er wartet noch.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *immer noch* is one unbroken wait that has gone on longer than it should. Option c would say he waits as a general habit, which isn't the situation.
+**Explanation:** *immer noch* is one unbroken wait that has gone on longer than it should. Option c would say he waits as a general habit, which isn't the situation. Option d (plain *noch*) states the same fact neutrally, without the impatience *immer noch* carries.
 
 </details>
 
@@ -185,14 +185,14 @@ Try each question before opening its solution. Each solution is directly below t
    a. Das Geschäft ist nicht immer offen.\
    b. Das Geschäft ist immer noch offen.\
    c. Das Geschäft ist immer offen.\
-   d. Das Geschäft ist wieder offen.
+   d. Das Geschäft ist schon offen.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *nicht immer* is the plain negative of the frequency use. Option b is about right now — still open, later than you expected — and d is about the shop reopening.
+**Explanation:** *nicht immer* is the plain negative of the frequency use. Option b is about right now — still open, later than you expected. Option d (*schon offen*) would mean it opened earlier than expected — a one-off observation, not a claim about opening hours in general.
 
 </details>
 
@@ -219,7 +219,7 @@ B: Nicht gut. Ich bin ___ krank.
 ```
 
    a. immer\
-   b. wieder\
+   b. noch\
    c. immer noch\
    d. immer wieder
 
@@ -228,7 +228,7 @@ B: Nicht gut. Ich bin ___ krank.
 
 **Answer:** **c**
 
-**Explanation:** One long illness, no gaps, and B is fed up — exactly what *immer noch* is for. Option d would describe someone who keeps falling ill and recovering.
+**Explanation:** One long illness, no gaps, and B is fed up — exactly what *immer noch* is for. Option b (plain *noch*) would state the same fact without B's frustration — *immer noch* is what adds it. Option d would describe someone who keeps falling ill and recovering.
 
 </details>
 

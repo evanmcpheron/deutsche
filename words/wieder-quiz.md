@@ -78,7 +78,7 @@ Juli: Der Laden ist offen.
 
 5. Your flatmate has arrived late three evenings this week. Tonight he walks in late again.\
    a. Du bist noch zu spät.\
-   b. Du bist erst zu spät.\
+   b. Du bist nicht mehr zu spät.\
    c. Du bist immer noch zu spät.\
    d. Du bist schon wieder zu spät.
 
@@ -87,7 +87,7 @@ Juli: Der Laden ist offen.
 
 **Answer:** **d**
 
-**Explanation:** *schon wieder* carries the irritation that fits a fourth late evening. Plain *wieder* would state the repetition without the sigh.
+**Explanation:** *schon wieder* carries the irritation that fits a fourth late evening. Option b (*nicht mehr*) would mean the lateness had stopped — the opposite of what just happened. Options a and c both claim one unbroken lateness, when tonight is actually a separate, repeated occurrence.
 
 </details>
 
@@ -198,7 +198,7 @@ B: Danke, es geht ihm ___ gut.
 
    a. schon\
    b. noch\
-   c. erst\
+   c. immer noch\
    d. wieder
 
 <details>
@@ -206,7 +206,7 @@ B: Danke, es geht ihm ___ gut.
 
 **Answer:** **d**
 
-**Explanation:** He was well, then ill, and is well once more — a textbook return to an earlier state. *noch* would mean the good health never lapsed, which contradicts the situation.
+**Explanation:** He was well, then ill, and is well once more — a textbook return to an earlier state. *noch* would mean the good health never lapsed, and *immer noch* would mean the illness never lifted — both contradict the recovery already described.
 
 </details>
 

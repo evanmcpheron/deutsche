@@ -223,33 +223,33 @@ B: Nein, ich habe ___ Auto.
 
 </details>
 
-14. You had bread at breakfast. It is now evening, the bread is finished, and you are telling your partner.\
-   a. Wir haben kein Brot mehr.\
-   b. Wir haben noch kein Brot.\
-   c. Wir haben nicht Brot.\
-   d. Wir haben kein Brot noch.
+14. You arrive at the bakery in the afternoon. There is no bread in the shop at all today.\
+   a. Wir haben kein Brot.\
+   b. Wir haben nicht Brot.\
+   c. Wir haben keine Brot.\
+   d. Wir haben ein kein Brot.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **a**
 
-**Explanation:** *kein … mehr* = none left, where there used to be some. Option b would mean the bread hasn't arrived yet, which reverses the story.
+**Explanation:** *Brot* is neuter, and *kein* takes no extra ending in the nominative/accusative neuter: **kein Brot**. *Nicht Brot* (b) wrongly negates a noun with *nicht* — the classic English-speaker mistake. *Keine Brot* (c) puts the feminine/plural ending on a neuter noun, and *ein kein Brot* (d) stacks two articles, which German never does.
 
 </details>
 
-15. Which sentence says "we don't have tickets **yet**"?\
-   a. Wir haben keine Tickets mehr.\
-   b. Wir haben nicht Tickets.\
-   c. Wir haben gar keine Tickets.\
-   d. Wir haben noch keine Tickets.
+15. Which sentence correctly uses **kein** with the masculine accusative noun *Bruder*?\
+   a. Ich habe kein Bruder.\
+   b. Ich habe keine Bruder.\
+   c. Ich habe keinen Bruder.\
+   d. Ich habe keins Bruder.
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** **d**
+**Answer:** **c**
 
-**Explanation:** *noch* supplies the "yet" and implies the tickets are still expected. Option a means the opposite — sold out. Option c just strengthens the negation: none at all.
+**Explanation:** *Bruder* is masculine, and the accusative ending for *kein* — just like *ein* — is *-en*: **keinen Bruder**, the same pattern shown in the lesson's Pattern Recognition section (*Er hat einen Bruder* → *Er hat keinen Bruder*). *Kein Bruder* (a) is missing the ending, *keine* (b) is the feminine/plural ending, and *keins* (d) isn't a form *kein* takes before a noun.
 
 </details>
 

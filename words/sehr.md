@@ -7,6 +7,8 @@
 
 [← nur](nur.md) | [Category Index](./README.md) | [Next → immer](immer.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *sehr* turns up the **intensity** of an adjective, adverb, or verb. It never tells you *how much of something* there is — that's *viel*.

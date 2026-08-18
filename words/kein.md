@@ -7,6 +7,8 @@
 
 [← nicht](nicht.md) | [Category Index](./README.md) | [Next → auch](auch.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *kein* is what German uses instead of *nicht* when you're negating a **noun**. Think of it as **"not a" / "no"** — and notice that it behaves like the word *ein*, endings and all:

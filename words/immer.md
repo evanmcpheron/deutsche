@@ -7,6 +7,8 @@
 
 [← sehr](sehr.md) | [Category Index](./README.md) | [Next → wieder](wieder.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *immer* = **always, every time, without exception.** This is one of the rare small words where the English equivalent really does hold up.

@@ -7,6 +7,8 @@
 
 [← noch](noch.md) | [Category Index](./README.md) | [Next → nur](nur.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *schon* says: **it has already happened — earlier than you might think.**

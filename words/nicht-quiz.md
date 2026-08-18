@@ -192,18 +192,18 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-13. Compare **Er kommt heute nicht** and **Er kommt nicht heute, sondern morgen.** What changes?\
-    a. Nothing; both sentences have exactly the same emphasis.\
+13. Compare **Ich verstehe das.** and **Ich verstehe das nicht.** What changes?\
+    a. Nothing; both sentences mean the same thing.\
     b. The second sentence is a question.\
-    c. The first says he is not coming today; the second specifically contrasts today with tomorrow.\
-    d. The second sentence means that someone else is coming.
+    c. The first says the speaker understands; the second says the speaker does not understand.\
+    d. The second sentence means someone else understands instead.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** In **Er kommt heute nicht**, the whole idea of him coming today is negated. In **Er kommt nicht heute, sondern morgen**, _nicht_ directly contrasts **heute** with **morgen**: not today, but tomorrow.
+**Explanation:** Adding *nicht* reverses the statement: **Ich verstehe das** says the speaker understands; **Ich verstehe das nicht** says the speaker does not. Nothing else in the sentence changes — that's the whole job *nicht* is doing here.
 
 </details>
 

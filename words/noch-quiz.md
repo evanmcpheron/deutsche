@@ -12,14 +12,14 @@ Try each question before opening its solution. Each solution is directly below t
    a. Anna arbeitet schon.\
    b. Anna arbeitet wieder.\
    c. Anna arbeitet noch.\
-   d. Anna arbeitet nicht mehr.
+   d. Anna hat noch nicht angefangen.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** The work started and has never stopped, so the situation is still running: *Anna arbeitet noch.* *Wieder* would mean she stopped and started a second time, and *nicht mehr* would mean she has finished.
+**Explanation:** The work started and has never stopped, so the situation is still running: *Anna arbeitet noch.* *Wieder* would mean she stopped and started a second time, and *noch nicht angefangen* would mean she hasn't begun at all — the opposite of having worked all day without a break.
 
 </details>
 
@@ -50,14 +50,14 @@ Try each question before opening its solution. Each solution is directly below t
    a. Der Supermarkt ist schon zu.\
    b. Der Supermarkt ist wieder offen.\
    c. Der Supermarkt ist noch offen.\
-   d. Der Supermarkt ist nicht mehr offen.
+   d. Der Supermarkt ist noch nicht offen.
 
 <details>
 <summary>Show solution</summary>
 
 **Answer:** **c**
 
-**Explanation:** At 19:30 the opening hours have not run out yet — that is exactly what *noch* points at. Both *schon zu* and *nicht mehr offen* would put you half an hour into the future.
+**Explanation:** At 19:30 the opening hours have not run out yet — that is exactly what *noch* points at. *Schon zu* would put you half an hour into the future, and *noch nicht offen* would put you before opening — but the supermarket has already been open since 18:00.
 
 </details>
 
@@ -125,24 +125,24 @@ Try each question before opening its solution. Each solution is directly below t
 
 </details>
 
-8. Paul was ill on Monday. By Wednesday he had recovered and went back to work. On Friday he wakes up ill.\
-   a. Paul ist noch krank.\
-   b. Paul ist wieder krank.\
-   c. Paul ist immer noch krank.\
-   d. Paul ist schon krank.
+8. You check the coffee machine. The pot still has a little coffee left — not much, but something.\
+   a. Es ist kein Kaffee da.\
+   b. Es ist wieder Kaffee da.\
+   c. Es ist noch Kaffee da.\
+   d. Es ist schon Kaffee da.
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** **b**
+**Answer:** **c**
 
-**Explanation:** The illness stopped and came back, which is *wieder*. Both *noch* and *immer noch* would claim he never got better in between — and *immer noch* would add impatience on top.
+**Explanation:** *noch* here points at a remaining amount — some coffee is left, exactly like *Ist noch Milch da?* on the lesson page. *Kein Kaffee da* (a) would mean none at all, which contradicts the scenario. *Wieder* (b) would mean the pot ran dry and was then refilled, and *schon* (d) simply states that coffee exists without capturing that the supply is running low.
 
 </details>
 
 9. You are standing on the platform. Your train is delayed, the track is empty, and the display still lists it as expected.\
    a. Der Zug ist noch nicht da.\
-   b. Der Zug ist nicht mehr da.\
+   b. Der Zug ist noch da.\
    c. Der Zug ist wieder da.\
    d. Der Zug ist schon da.
 
@@ -151,7 +151,7 @@ Try each question before opening its solution. Each solution is directly below t
 
 **Answer:** **a**
 
-**Explanation:** *noch nicht* = it hasn't arrived yet, and it is still expected. *nicht mehr* would mean it had been there and has now gone — the opposite direction in time.
+**Explanation:** *noch nicht* = it hasn't arrived yet, and it is still expected. Plain *noch da* (without *nicht*) would mean it already arrived and is still standing there — the opposite of what's happening on this platform.
 
 </details>
 
@@ -218,24 +218,24 @@ Try each question before opening its solution. Each solution is directly below t
 
 ## Part C — Conversation and Judgement
 
-14. Complete the dialogue. B moved away from Hamburg last year.
+14. Complete the dialogue. B has been apartment-hunting for weeks and has nothing lined up yet.
 
 ```text
-A: Wohnst du noch in Hamburg?
+A: Hast du schon eine Wohnung gefunden?
 B: ___
 ```
 
-   a. Ja, noch.\
-   b. Ja, schon lange.\
-   c. Nein, noch nicht.\
-   d. Nein, nicht mehr.
+   a. Ja, schon.\
+   b. Nein, noch nicht.\
+   c. Nein, noch.\
+   d. Ja, noch nicht.
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** **d**
+**Answer:** **b**
 
-**Explanation:** *nicht mehr* answers a *noch* question in the negative: it was true, and it has stopped being true. *noch nicht* would mean he hasn't moved to Hamburg yet — the situation reversed.
+**Explanation:** *noch nicht* answers a *schon* question in the negative: it hasn't happened yet, but it's still expected to. Plain *noch* (c) isn't a complete answer to a *schon* question on its own, and d contradicts itself — *ja* and *noch nicht* can't both be true.
 
 </details>
 
@@ -413,15 +413,15 @@ Zimmer / noch / haben / frei / Sie
 
 25. Rewrite the sentence for the new situation.
 
-   Original: **Er ist noch krank.**\
-   New situation: he recovered, went back to work for a week, and has now fallen ill a second time.
+   Original: **Ich bin fertig.**\
+   New situation: you need five more minutes before you're actually done.
 
 <details>
 <summary>Show solution</summary>
 
-**Answer:** **Er ist wieder krank.**
+**Answer:** **Ich bin noch nicht fertig.**
 
-**Explanation:** Change only the small word. *noch* claims one unbroken illness; *wieder* says it ended and returned. If you wanted to stress how long a single illness had lasted, *Er ist immer noch krank* would be the sentence — but that isn't this situation.
+**Explanation:** *noch nicht* negates completion while implying it's still expected — exactly this situation. It's a fixed pair, always in that order: reach for *noch nicht*, not *nicht* or *kein* on their own, whenever something hasn't happened yet but should.
 
 </details>
 

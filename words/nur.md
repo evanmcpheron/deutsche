@@ -7,6 +7,8 @@
 
 [← schon](schon.md) | [Category Index](./README.md) | [Next → sehr](sehr.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *nur* draws a line around something and says: **that's all — nothing beyond this.**

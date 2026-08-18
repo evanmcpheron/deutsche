@@ -7,6 +7,8 @@
 
 [← wieder](wieder.md) | [Category Index](./README.md) | [Next → erst](erst.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *vielleicht* = **maybe, perhaps.** It marks something as uncertain — and, just as often in real speech, it **softens** a suggestion or request so it doesn't sound like an order.

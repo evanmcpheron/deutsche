@@ -7,6 +7,8 @@
 
 [← vielleicht](vielleicht.md) | [Category Index](./README.md) | [Next → gerade](gerade.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *erst* marks something as **earlier or smaller than you'd expect** — the point reached so far is less than the listener might assume.

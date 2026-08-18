@@ -7,6 +7,8 @@
 
 [← immer](immer.md) | [Category Index](./README.md) | [Next → vielleicht](vielleicht.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *wieder* = **again** — something stopped and is now happening a second time, or has returned to an earlier state.

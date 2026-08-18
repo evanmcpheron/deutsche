@@ -7,6 +7,8 @@
 
 [← erst](erst.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+*(This is the lookup order — see [Start Here](../START-HERE.md) for the recommended study path.)*
+
 ## Core Idea
 
 *gerade* pins something to **this exact moment** — right now, just then, at precisely this point.
