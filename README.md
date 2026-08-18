@@ -1,8 +1,9 @@
-# German Small Words
+# German A1 Foundations
 
-A self-study reference for the small, high-frequency German words that resist simple English translation — **noch, doch, schon, mal, zu, bei, nach, aus, von, denn, auch, nur, erst, wieder, eigentlich, gerade** and their relatives.
+A self-study reference for an English-speaking beginner learning **Standard German at A1**. The repository currently focuses especially on two areas that are easy to understand badly if they are reduced to translation tables:
 
-## Start Here
+1. **small, high-frequency words and patterns** such as *noch, schon, doch, zu, bei, wieder*;
+2. **verb conjugation and sentence use**, including present tense, irregular forms, modals, separable verbs, reflexives, Perfekt, and essential past forms.
 
 [New learner? Begin with the recommended learning path →](START-HERE.md)
 
@@ -10,71 +11,104 @@ A self-study reference for the small, high-frequency German words that resist si
 
 ## What This Repository Teaches
 
-Beginning learners usually have no trouble with concrete nouns. *der Bahnhof* is "the train station" and that is the end of it. The trouble starts with the little words that appear in almost every German sentence and refuse to sit still:
+The goal is not to collect disconnected grammar facts. It is to make high-frequency A1 German **usable in real sentences**.
+
+For small words, that means learning through **context, recurring patterns, contrasts, and repeated exposure** instead of dictionary equations such as `noch = still`.
+
+For verbs, that means learning through **subject → form → sentence pattern → meaning** instead of memorizing a conjugation table and stopping there.
+
+Examples:
 
 > Ich bin **noch** hier.
-> Ich bin **noch nicht** fertig.
-> **Noch** einen Kaffee, bitte.
-> Hast du **noch** Zeit?
+> I am still here.
 
-One German word, four situations, and no single English word that covers all of them. This repository teaches those words the way you actually learn them — through **context, recurring patterns, contrasts, and repeated exposure** — instead of through a dictionary equation like `noch = still`.
+> Du **fährst** heute nach Berlin.
+> You are traveling to Berlin today.
+
+> Ich **muss** morgen früh **aufstehen**.
+> I have to get up early tomorrow.
+
+> Wir **haben** gestern Deutsch **gelernt**.
+> We learned German yesterday.
 
 ## Who It Is For
 
 - Beginning learners around **A1**, moving toward A2
 - Native English speakers learning **Standard German**
-- People building conversational German for **travel and everyday life**
-- Anyone who understands the nouns in a sentence but still can't tell what the sentence *means*
+- People building conversational German for travel and everyday life
+- Learners who want explicit explanations plus enough production practice to make grammar usable
 
-Explanations are in English. German appears heavily enough to give you real exposure, and every German example has a translation or explanation.
+Explanations are in English. German appears heavily enough to give real exposure, and lesson examples have translations or explanations.
 
-## Why Direct Translation Fails Here
+## Why Direct Translation Fails for Small Words
 
-1. **One-to-many.** A single German word maps onto several unrelated-looking English words depending on the situation.
-2. **Many-to-one.** English "to" is *zu*, *nach*, *in*, *an*, or *auf* in German, depending on the destination.
-3. **Untranslatable by design.** Modal particles like *doch*, *mal*, and *eben* mostly change **tone**, not information. English does the same job with intonation, word order, or a word like "just" — so a word-for-word translation produces nothing at all.
-4. **Case-carrying.** Prepositions like *auf*, *in*, and *an* change the case of what follows depending on whether you mean a location or a movement. English does not mark this.
+1. **One-to-many.** A single German word can map onto several English words depending on the situation.
+2. **Many-to-one.** English “to” can be *zu*, *nach*, *in*, *an*, or *auf*.
+3. **Untranslatable by design.** Modal particles often change tone rather than literal information.
+4. **Case-carrying.** Prepositions can determine the case of what follows.
 
 The fix is not more definitions. It is more **patterns**.
+
+## Why Conjugation Tables Are Not Enough
+
+Knowing that `fahren` changes to `du fährst` is useful, but the real target is being able to produce:
+
+> **Wann fährst du nach Berlin?**
+
+Likewise, knowing that `aufstehen` is separable matters only when you can use:
+
+> **Ich stehe um sieben Uhr auf.**
+
+and then recognize that a modal changes the structure:
+
+> **Ich muss um sieben Uhr aufstehen.**
+
+The verb section therefore tests **production, spelling, and sentence structure**, not only recognition.
 
 ## How the Repository Is Organized
 
 | Section | What's inside |
 |---|---|
-| [Start Here](START-HERE.md) | The canonical staged learning path, with lessons, quizzes, comparisons, and review checkpoints |
-| [Concept Index](CONCEPT-INDEX.md) | Find lessons by meaning or problem when you do not yet know the German word |
-| [Master Index](MASTER_INDEX.md) | Every word, alphabetically, with its word type |
-| [Study Guide](STUDY_GUIDE.md) | How to actually study this material |
-| [Glossary](GLOSSARY.md) | Plain-English definitions of the grammar terms used here |
+| [Start Here](START-HERE.md) | Canonical staged learning path with lessons, quizzes, comparisons, and checkpoints |
+| [Concept Index](CONCEPT-INDEX.md) | Find material by the problem you are trying to solve |
+| [Master Index](MASTER_INDEX.md) | Word and topic lookup |
+| [Study Guide](STUDY_GUIDE.md) | How to study the different material efficiently |
+| [Glossary](GLOSSARY.md) | Plain-English grammar terminology |
+| [Verbs](verbs/README.md) | Present conjugation, irregular forms, modals, separable/reflexive verbs, Perfekt, essential Präteritum |
 | [Words](words/README.md) | Adverbs and function words: noch, schon, auch, nur, erst, gerade … |
 | [Prepositions](prepositions/README.md) | zu, nach, bei, mit, von, aus, für, um, in, auf, an |
 | [Particles](particles/README.md) | Modal particles: mal, denn, doch, eigentlich, ja, eben, halt |
 | [Patterns](patterns/README.md) | Fixed chunks: noch nicht, noch ein…, gar nicht, von … bis … |
-| [Comparisons](comparisons/README.md) | Confusing pairs: noch vs. schon, zu vs. nach, aus vs. von … |
-| [Phrases](phrases/README.md) | Everyday, conversation, and travel chunks you will hear |
-| [Review](review/README.md) | Self-contained exercises with a solution dropdown below each question |
-| [Reference](reference/README.md) | Priority tiers, case overview, how to read without translating |
+| [Comparisons](comparisons/README.md) | Confusing pairs and near-neighbor concepts |
+| [Phrases](phrases/README.md) | Everyday, conversation, and travel chunks |
+| [Review](review/README.md) | Mixed diagnostic exercises with hidden solutions |
+| [Reference](reference/README.md) | Priority tiers, cases, particles, and reading support |
 
 ## Where a Beginner Should Start
 
-Read [START-HERE.md](START-HERE.md) first. It gives you the recommended stage order, places each quiz and comparison after its prerequisites, and marks material as Core, Recognition, or Later. If you know the meaning or problem but not the German word, use the [Concept Index](CONCEPT-INDEX.md). If you already know the German word, use the [Master Index](MASTER_INDEX.md).
+Read [START-HERE.md](START-HERE.md). It places foundational present-tense verb work early, then alternates vocabulary/grammar systems so later lessons can use structures you have already seen.
+
+If you know the meaning or problem but not the German form, use the [Concept Index](CONCEPT-INDEX.md). If you already know what you are looking for, use the [Master Index](MASTER_INDEX.md) or the relevant category index.
 
 ## How to Use the Exercises
 
-Every exercise page is self-contained and has a **solution dropdown directly below each question**. Attempt the question first, then expand only that solution before continuing.
+Every exercise page is self-contained and has a **solution dropdown directly below each question**. Attempt the question first, then expand only that solution.
 
-Most questions test **recognition** — do you understand the situation the sentence describes? — rather than translation. Pages covering words marked **Active** also include **production** questions, where you write the German yourself. Production questions often have more than one good answer; the key gives one natural version, not the only correct one.
+Small-word exercises often emphasize recognition because recognizing speaker meaning comes before natural particle production.
+
+Verb-conjugation exercises are deliberately more production-heavy. For a requested verb form, spelling is part of correctness: `du fährst` is correct; `du fahrst` is not treated as an equivalent answer.
 
 ## How to Navigate
 
-Every page has a navigation line at the top:
-
-```
-[← Previous](previous.md) | [Category Index](./README.md) | [Next →](next.md) | [↑ Master Index](../MASTER_INDEX.md)
-```
-
-and a **Related Pages** section at the bottom. All links are ordinary relative Markdown links, so they work when you browse this repository on GitHub, and they keep working if you clone it and read it in any Markdown editor. Nothing here needs JavaScript, a site generator, or a plugin.
+Lesson pages use ordinary relative Markdown links, so the repository works on GitHub or in any normal Markdown editor. Nothing requires JavaScript, a site generator, or a plugin.
 
 ## A Note on Method
 
-You do not need to understand every word of a German sentence to understand the sentence. That is a skill, and it is trainable: see [How to Read Without Translating](reference/how-to-read-without-translating.md). The small words in this repository are exactly the ones you can often let wash over you at first and pin down later — as long as you keep meeting them in context.
+You do not need to understand every token of a German sentence before you can understand the sentence. At the same time, a few structural systems — especially the conjugated verb and its position — carry enough information that they deserve deliberate practice.
+
+Use the repository in both directions:
+
+- **input:** notice forms and patterns while reading/listening;
+- **output:** retrieve high-priority forms and build short sentences without looking them up.
+
+[Start with the learning path →](START-HERE.md)

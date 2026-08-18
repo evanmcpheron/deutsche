@@ -2,102 +2,144 @@
 
 [← Start Here](START-HERE.md) | [↑ Master Index](MASTER_INDEX.md) | [Glossary →](GLOSSARY.md)
 
-*How* you study these words matters as much as which ones you study. Small words are learned differently from nouns.
+Different parts of German need different study methods. Small words are learned through context and contrasts; verb conjugation needs deliberate retrieval and sentence production.
 
-## Why Flashcards Alone Fail Here
+## Small Words: Learn the Situation, Not a Dictionary Equation
 
-A flashcard reading `noch = still` will make you worse at German. The next time you meet *Noch einen Kaffee, bitte*, the card fires, "still" appears in your head, and the sentence becomes nonsense. You then conclude that German is illogical.
-
-The problem is the card, not the word. For small words, the useful unit of study is not the word alone but:
+A flashcard reading `noch = still` is too weak. The useful unit is:
 
 > **word + situation + sentence pattern**
 
-If you use flashcards, put a **whole short sentence** on the front and the **situation** on the back:
+For example:
 
 | Front | Back |
 |---|---|
-| Ich bin **noch** hier. | I haven't left yet — the situation is continuing |
-| **Noch** einen Kaffee, bitte. | Asking for one more of something |
-| Ich bin **noch nicht** fertig. | Not finished — but expected to be, later |
+| Ich bin **noch** hier. | The situation is continuing |
+| **Noch** einen Kaffee, bitte. | One more of something |
+| Ich bin **noch nicht** fertig. | Not finished yet, expected later |
 
-Same word, three cards, and none of them lie to you.
+When you meet a small word, ask where it sits, what surrounds it, and what the speaker is doing with it.
 
-## The Four-Step Routine for a Word Page
+## Verb Forms: Retrieve, Then Use
 
-1. **Read the Core Idea.** Don't try to memorize it. You're looking for the shape of the word.
-2. **Read the examples out loud.** Out loud matters — these words carry stress and rhythm, and your ear will learn patterns your eye won't.
-3. **Cover the translations** and reread the German. If a sentence still makes sense to you, that word is starting to land.
-4. **Open the linked quiz.** Attempt each question before opening the solution directly below it.
+A conjugation table is useful as a reference, but rereading it does not prove you can conjugate.
 
-Ten focused minutes on one page beats an hour of skimming five.
+Use this three-step cycle:
 
-## Notice, Don't Memorize
+1. **Retrieve the form:** `du + fahren` → **du fährst**
+2. **Put it in a sentence:** **Du fährst heute nach Berlin.**
+3. **Change one variable:** **Er fährt morgen nach Berlin.**
 
-When you meet one of these words in real German — a video, a podcast, a graded reader, a menu — the useful reaction is not "what does that mean?" but:
+For irregular verbs, store the forms that actually differ:
 
-- Where in the sentence did it sit?
-- What was around it?
-- Was the speaker asking, offering, complaining, agreeing?
+> **fahren — du fährst — er fährt — ist gefahren**
 
-Then come back here and look it up. A word you looked up *because you actually met it* sticks several times harder than one from a list.
+For a regular verb, do not create a separate memory item for every person. Learn the ending system and practice applying it.
 
-## Keep a "Heard It" Page
+## Exact Spelling Matters for Verb Production
 
-Keep a single note — paper, phone, anywhere — with one line per sentence you actually encountered:
+If the target is a conjugated form, treat the grammatical spelling as part of the answer:
 
-```
-Sind Sie noch da?      — call center, "are you still there"
-Warte mal.             — friend, "hang on a second"
-Das ist schon gut.     — waiter, "that's fine / never mind"
-```
+- `du fährst`, not `du fahrst`
+- `du gibst`, not `du gebst`
+- `du arbeitest`, not `du arbeitst`
+- `ich bin gegangen`, not `ich habe gegangen`
 
-After two weeks you will have your own frequency list, which beats anyone else's.
+This is different from a recognition exercise where the main question may be whether you understood the situation.
 
-## Expect Particles to Take Months
+## A Four-Step Routine for a Lesson
 
-*doch, mal, denn, eben, halt, ja* do not have meanings you can pin down and be done with. They have **effects**. You will understand them in this order:
+1. **Read the Core Idea.** Identify the one main distinction.
+2. **Read examples aloud.** Notice the verb position and sentence rhythm.
+3. **Cover the explanation and retrieve.** Produce a form or explain the contrast without looking.
+4. **Take the linked quiz.** Open each solution only after committing to an answer.
 
-1. You don't notice them at all.
-2. You notice them and find them annoying.
-3. You notice that a sentence sounds different without one.
-4. You start using one or two correctly by accident.
-5. You use them on purpose.
+## Say Sentences, Not Isolated Forms
 
-Stage 3 is real progress. Don't skip ahead to stage 5 by force — over-inserting particles is one of the clearest markers of a learner who read about them too early. See [Modal Particles Overview](reference/modal-particles-overview.md).
+For active material, vary one element at a time.
 
-## Tolerate Incomplete Understanding
+> Ich bin noch nicht fertig.
+> Er ist noch nicht fertig.
+> Wir sind noch nicht fertig.
 
-The instinct to translate every token before moving on is the single biggest brake on early reading. Train the opposite habit: read the sentence, extract who/what/when, and let the rest blur. See [How to Read Without Translating](reference/how-to-read-without-translating.md).
+For verbs:
+
+> Ich lerne Deutsch.
+> Du lernst Deutsch.
+> Heute lernst du Deutsch.
+> Lernst du Deutsch?
+
+This exposes both conjugation and word order without requiring new vocabulary.
+
+## Modal and Separable Verbs: Practice the Whole Frame
+
+Do not study only `kann` or only `auf`.
+
+Practice complete frames:
+
+> **Ich kann ___ [infinitive].**
+
+> **Ich muss ___ [infinitive].**
+
+> **Ich stehe ___ auf.**
+
+> **Ich muss ___ aufstehen.**
+
+The contrast between `Ich stehe auf` and `Ich muss aufstehen` is more important than knowing the label “separable verb.”
+
+## Perfekt: Learn Frequent Verbs with Their Past Form
+
+For common verbs, retrieve the whole package:
+
+> **lernen — hat gelernt**
+
+> **gehen — ist gegangen**
+
+> **anrufen — hat angerufen**
+
+Then build a sentence with a time expression:
+
+> **Ich habe gestern Deutsch gelernt.**
+
+> **Wir sind gestern nach Hause gegangen.**
+
+## Notice, Don't Force, Recognition-Only Material
+
+Particles such as `doch`, `mal`, `denn`, `eben`, `halt`, and modal `ja` often take months to become natural. Understanding their effect before producing them is valid progress.
+
+Do not apply the same production standard to a recognition-only particle that you apply to `sein` or present-tense endings.
 
 ## Space Your Review
 
-Small words fade quietly — you don't notice you've lost *erst* until it appears in a sentence and slides off. A rough schedule that works:
+A practical schedule:
 
 | When | What |
 |---|---|
-| Same day | Reread the page you studied, for two minutes |
-| Next day | Redo just the linked quiz |
-| One week later | The relevant [review](review/README.md) page |
-| One month later | [Cumulative Review](review/cumulative-review.md) |
+| Same day | Briefly retrieve the main forms/distinctions without looking |
+| Next day | Redo selected quiz items |
+| About one week later | Use the relevant mixed review |
+| Later | Retake a checkpoint after enough time that the answers are no longer memorized |
 
-## Say Sentences, Not Words
+If a review exposes one narrow weakness, revisit that lesson instead of restarting the whole stage.
 
-For anything marked **Active**, the goal is production. Say the example sentences aloud, then change one thing in them:
+## Use the High-Frequency Verb Reference Correctly
 
-> Ich bin noch nicht fertig. → Er ist noch nicht fertig. → Wir sind noch nicht fertig.
+[High-Frequency Verb Reference](verbs/high-frequency-reference.md) is for lookup. Do not try to memorize the page top to bottom.
 
-Small, safe variations build fluency faster than new vocabulary does.
+When a verb repeatedly causes trouble, extract only the useful retrieval set and make a few sentences with it.
 
 ## What Good Progress Looks Like
 
-Not: "I can define *doch*."
+For small words: you understand the situation and speaker effect without translating each token.
 
-But: you hear *Das ist doch nicht so schwer* and, without stopping to analyze, you catch that the speaker is pushing back a little and reassuring you. That's the target — and it comes from exposure, not from effort.
+For verbs: you increasingly produce the correct form and sentence structure without stopping to recite a table.
 
----
+Both are forms of automaticity, but they are trained differently.
 
 ## Related Pages
+
 - [Start Here](START-HERE.md)
+- [Verbs](verbs/README.md)
 - [The A1 Priority System](reference/a1-priority-system.md)
 - [Active vs. Passive Vocabulary](reference/active-vs-passive-vocabulary.md)
 - [How to Read Without Translating](reference/how-to-read-without-translating.md)

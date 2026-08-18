@@ -2,37 +2,60 @@
 
 [← Repository README](README.md) | [Concept Index](CONCEPT-INDEX.md) | [Master Index](MASTER_INDEX.md) | [Study Guide](STUDY_GUIDE.md)
 
-## What This Repository Teaches
+## What This Learning Path Does
 
-This repository teaches the small, high-frequency German words and patterns that are difficult to learn through one-to-one translation: negation, time and change, quantity, prepositions, recurring chunks, and conversational particles. The goal is to build an intuitive sense of what these forms do in real sentences while keeping the learning load appropriate for A1.
+This path builds a practical A1 foundation in a deliberate order. It combines:
+
+- core present-tense verb production;
+- high-frequency sentence-shaping words;
+- time and quantity patterns;
+- prepositions and basic case relationships;
+- modal, separable, and reflexive verb structures;
+- conversational past formation;
+- recognition-heavy conversational particles.
+
+The goal is not to finish pages. The goal is to make each new layer usable without forcing low-priority material into active production too early.
 
 ## How to Use This Learning Path
 
-Follow the stages in order. Inside each stage, use the listed order unless a note says otherwise.
+- **Lesson → quiz:** study the lesson, then take its linked quiz.
+- **Comparison:** use a comparison only after both concepts are familiar.
+- **Checkpoint:** mixed practice removes the page-title clue and shows whether retrieval transfers.
+- **Core:** work toward active understanding and production where specified.
+- **Recognition:** understand common meaning/effect; spontaneous production is not required yet.
+- **Later:** useful material that should not compete with core A1 work.
 
-- **Lesson → quiz:** study the linked lesson, then take its linked quiz soon afterward.
-- **Comparison:** use a comparison only after you have studied both concepts it contrasts.
-- **Checkpoint:** use mixed reviews to see whether related concepts remain distinguishable when the title no longer tells you what to choose.
-- **Core:** work toward active understanding and, where the lesson itself calls for it, active use.
-- **Recognition:** understand the common meaning or effect when you meet it; reliable spontaneous production is not required yet.
-- **Later:** useful material that should not compete with core A1 learning. Read it when the stated prerequisite is in place.
-
-A quiz is feedback, not a gate. Continue when the distinctions generally make sense. If several items expose the same confusion, revisit that lesson or comparison. Do not keep repeating recognition-only particle material just to force a score.
+A quiz is feedback, not a gate. If several items expose the same confusion, revisit that lesson. Do not repeat a quiz immediately until you have memorized the answer order.
 
 ### Before Stage 1
 
-Read these two short support pages once:
+Read these support pages once:
 
 1. [How to Read Without Translating](reference/how-to-read-without-translating.md)
 2. [Active vs. Passive Vocabulary](reference/active-vs-passive-vocabulary.md)
 
-Optional orientation: skim [The A1 Priority System](reference/a1-priority-system.md). You can return to it whenever you are unsure how much effort a word deserves.
+Optional orientation: [The A1 Priority System](reference/a1-priority-system.md).
 
 ---
 
-## Stage 1 — Core Sentence-Shaping Words
+## Stage 1 — Present-Tense Verb Foundations
 
-**What this develops:** the highest-frequency choices for negation, addition, limitation, and the basic *still/already* contrast. These are prerequisites for several later patterns.
+**What this develops:** the verb forms needed to build and understand basic A1 statements and questions.
+
+1. **Core — present-tense basics:** [lesson](verbs/present-tense-basics.md) → [quiz](verbs/present-tense-basics-quiz.md)
+2. **Core — `sein`:** [lesson](verbs/sein.md)
+3. **Core — `haben`:** [lesson](verbs/haben.md)
+4. **Core — `werden`:** [lesson](verbs/werden.md)
+5. **Checkpoint — `sein`, `haben`, `werden`:** [quiz](verbs/essential-irregular-verbs-quiz.md)
+6. **Core — spelling and stem changes:** [lesson](verbs/spelling-and-stem-changes.md) → [quiz](verbs/spelling-and-stem-changes-quiz.md)
+
+**Continue when:** regular endings are mostly retrievable, `sein` and `haben` are usable without calculation, and common `du` / `er` stem changes no longer surprise you. Speed can still be slow.
+
+---
+
+## Stage 2 — Core Sentence-Shaping Words
+
+**What this develops:** high-frequency choices for negation, addition, limitation, and the basic *still/already* contrast.
 
 1. **Core — `nicht`:** [lesson](words/nicht.md) → [quiz](words/nicht-quiz.md)
 2. **Core — `kein`:** [lesson](words/kein.md) → [quiz](words/kein-quiz.md)
@@ -44,15 +67,15 @@ Optional orientation: skim [The A1 Priority System](reference/a1-priority-system
 8. **Core — `schon`:** [lesson](words/schon.md) → [quiz](words/schon-quiz.md)
 9. **Core comparison — `noch` vs. `schon`:** [comparison](comparisons/noch-vs-schon.md) → [quiz](comparisons/noch-vs-schon-quiz.md)
 
-### Stage 1 checkpoint
+### Stage 2 checkpoint
 
-Take [Recognition 01 — Core Words](review/recognition-01.md). It mixes the six core words without keeping them in lesson-sized compartments.
+Take [Recognition 01 — Core Words](review/recognition-01.md).
 
-**Continue when:** you can usually tell why the chosen word fits the situation. If two words keep collapsing into the same meaning, revisit their comparison before continuing.
+**Continue when:** you can usually explain why the chosen word fits the situation.
 
 ---
 
-## Stage 2 — Time, Continuation, Completion, and Repetition
+## Stage 3 — Time, Continuation, Completion, and Repetition
 
 **What this develops:** a connected timeline system: not yet, no longer, still, again, and earlier/later-than-expected meanings.
 
@@ -66,13 +89,13 @@ Take [Recognition 01 — Core Words](review/recognition-01.md). It mixes the six
 8. **Recognition — `erst`:** [lesson](words/erst.md) → [quiz](words/erst-quiz.md)
 9. **Recognition comparison — `erst` vs. `schon`:** [comparison](comparisons/erst-vs-schon.md) → [quiz](comparisons/erst-vs-schon-quiz.md)
 
-**Continue when:** the difference between a continuing state, an ended state, and a repeated state is generally clear. Treat `erst` as recognition-first; do not hold up the stage because you cannot produce every use spontaneously.
+**Continue when:** continuing, ended, and repeated states are generally distinguishable.
 
 ---
 
-## Stage 3 — Everyday Amount, Emphasis, Possibility, and “One More”
+## Stage 4 — Everyday Amount, Emphasis, Possibility, and “One More”
 
-**What this develops:** common modifiers and chunks that make basic A1 sentences more useful without adding much grammatical complexity.
+**What this develops:** useful modifiers and chunks without a large new grammar burden.
 
 1. **Core — `sehr`:** [lesson](words/sehr.md) → [quiz](words/sehr-quiz.md)
 2. **Core pattern — `ein bisschen`:** [lesson](patterns/ein-bisschen.md) → [quiz](patterns/ein-bisschen-quiz.md)
@@ -81,25 +104,16 @@ Take [Recognition 01 — Core Words](review/recognition-01.md). It mixes the six
 5. **Recognition — `gerade`:** [lesson](words/gerade.md) → [quiz](words/gerade-quiz.md)
 6. **Core pattern — `noch ein …`:** [lesson](patterns/noch-ein.md) → [quiz](patterns/noch-ein-quiz.md)
 
-### Recognition exposure after Stage 3
-
-These pages are for repeated exposure, not memorization:
+### Recognition exposure after Stage 4
 
 - [Everyday Patterns](phrases/everyday-patterns.md)
 - [Common Chunks](phrases/common-chunks.md)
 
-Two existing comparisons are intentionally **Later** because this repository does not contain standalone prerequisite lessons for the other concept:
-
-- **Later — `sehr` vs. `viel`:** [comparison](comparisons/sehr-vs-viel.md) → [quiz](comparisons/sehr-vs-viel-quiz.md). Use after you have learned basic `viel` elsewhere.
-- **Later — `gerade` vs. `jetzt`:** [comparison](comparisons/gerade-vs-jetzt.md) → [quiz](comparisons/gerade-vs-jetzt-quiz.md). Use after you have learned basic `jetzt` elsewhere.
-
-These Later pages do not block Stage 4.
+**Later:** [sehr vs. viel](comparisons/sehr-vs-viel.md) and [gerade vs. jetzt](comparisons/gerade-vs-jetzt.md) should wait until the missing comparison concept has been learned elsewhere.
 
 ---
 
-## Stage 4 — People, Destinations, Purpose, and Time: Fixed-Case Prepositions
-
-**What this develops:** high-frequency relationships that do not require a two-way case decision. This creates a stable base before location/movement prepositions.
+## Stage 5 — People, Destinations, Purpose, and Time: Fixed-Case Prepositions
 
 Before starting, skim [Preposition Overview](reference/preposition-overview.md).
 
@@ -113,98 +127,95 @@ Before starting, skim [Preposition Overview](reference/preposition-overview.md).
 8. **Core — `für`:** [lesson](prepositions/fuer.md) → [quiz](prepositions/fuer-quiz.md)
 9. **Core — `um`:** [lesson](prepositions/um.md) → [quiz](prepositions/um-quiz.md)
 
-Do not try to generalize English “to,” “with,” or “for.” The point of this stage is to connect each German preposition to the relationship it expresses.
-
 ---
 
-## Stage 5 — Source, Range, Location, and Movement
-
-**What this develops:** origin and starting-point distinctions, then the location-versus-destination system used by two-way prepositions.
+## Stage 6 — Source, Range, Location, and Movement
 
 1. **Core — `aus`:** [lesson](prepositions/aus.md) → [quiz](prepositions/aus-quiz.md)
 2. **Core — `von`:** [lesson](prepositions/von.md) → [quiz](prepositions/von-quiz.md)
 3. **Core comparison — `aus` vs. `von`:** [comparison](comparisons/aus-vs-von.md) → [quiz](comparisons/aus-vs-von-quiz.md)
 4. **Core pattern — `von … bis …`:** [lesson](patterns/von-bis.md) → [quiz](patterns/von-bis-quiz.md)
-5. Read [Cases at a Glance](reference/cases-at-a-glance.md), focusing on the *Wo?* / *Wohin?* distinction rather than memorizing every table.
+5. Read [Cases at a Glance](reference/cases-at-a-glance.md), focusing on *Wo?* / *Wohin?*
 6. **Core — `in`:** [lesson](prepositions/in.md) → [quiz](prepositions/in-quiz.md)
 7. **Core comparison — `in` vs. `nach`:** [comparison](comparisons/in-vs-nach.md) → [quiz](comparisons/in-vs-nach-quiz.md)
 8. **Core — `auf`:** [lesson](prepositions/auf.md) → [quiz](prepositions/auf-quiz.md)
 9. **Recognition — `an`:** [lesson](prepositions/an.md) → [quiz](prepositions/an-quiz.md)
 
-### Stage 5 checkpoints
+### Stage 6 checkpoints
 
-First take [Sentence Completion 01 — Prepositions](review/sentence-completion-01.md). It mixes all eleven prepositions rather than testing them one page at a time.
+- [Sentence Completion 01 — Prepositions](review/sentence-completion-01.md)
+- [Contrast 01 — Near-Identical Sentences](review/contrast-01.md)
 
-Then take [Contrast 01 — Near-Identical Sentences](review/contrast-01.md). It now combines the time distinctions from Stage 2 with the `zu Hause` / `nach Hause` distinction from Stage 4.
-
-**Continue when:** you can usually identify whether a sentence is about destination, location, origin, source, accompaniment, or purpose. Two-way case endings may still feel slow; that is not a reason to stop progressing.
-
-### Recognition exposure after Stage 5
-
-Read [Travel Patterns](phrases/travel-patterns.md) as exposure. Notice prepositions you now recognize; do not try to memorize the page.
+Then read [Travel Patterns](phrases/travel-patterns.md) for recognition exposure.
 
 ---
 
-## Stage 6 — Conversational Particles and Tone
+## Stage 7 — Modal, Separable, and Reflexive Verbs
 
-**What this develops:** recognition of words that often change tone, expectation, or attitude more than literal information. This stage is deliberately recognition-heavy.
+**What this develops:** the two-verb and split-verb sentence structures that make basic German substantially more useful.
+
+1. **Core — modal verbs:** [lesson](verbs/modal-verbs.md) → [quiz](verbs/modal-verbs-quiz.md)
+2. **Core — separable verbs:** [lesson](verbs/separable-verbs.md) → [quiz](verbs/separable-verbs-quiz.md)
+3. **Core — reflexive verbs:** [lesson](verbs/reflexive-verbs.md) → [quiz](verbs/reflexive-verbs-quiz.md)
+
+**Continue when:** you can keep the infinitive at the end after a modal, split common separable verbs in a normal main clause, and choose `mich/dich/sich/uns/euch/sich` with familiar reflexive verbs.
+
+---
+
+## Stage 8 — Talking About the Past
+
+**What this develops:** the past structures most useful in early conversation.
+
+1. **Core — Perfekt:** [lesson](verbs/perfekt.md) → [quiz](verbs/perfekt-quiz.md)
+2. **Selective — essential Präteritum:** [lesson](verbs/praeteritum-essentials.md) → [quiz](verbs/praeteritum-essentials-quiz.md)
+3. **Verb checkpoint:** [Verb Conjugation 01](review/verb-conjugation-01.md)
+
+**Continue when:** you can build common Perfekt sentences with the correct auxiliary and participle, and `war` / `hatte` are recognizable and increasingly producible.
+
+---
+
+## Stage 9 — Conversational Particles and Tone
 
 Read [Modal Particles Overview](reference/modal-particles-overview.md) first.
 
 1. **Recognition — `mal`:** [lesson](particles/mal.md) → [quiz](particles/mal-quiz.md)
 2. **Recognition pattern — `schon mal`:** [lesson](patterns/schon-mal.md) → [quiz](patterns/schon-mal-quiz.md)
 3. **Recognition — `denn`:** [lesson](particles/denn.md) → [quiz](particles/denn-quiz.md)
-4. **Recognition — `doch`:** [lesson](particles/doch.md) → [quiz](particles/doch-quiz.md). The contradicting one-word **Doch!** is a useful exception you can actively learn early.
+4. **Recognition — `doch`:** [lesson](particles/doch.md) → [quiz](particles/doch-quiz.md)
 5. **Recognition — `eigentlich`:** [lesson](particles/eigentlich.md) → [quiz](particles/eigentlich-quiz.md)
 6. **Later — `ja` as a modal particle:** [lesson](particles/ja.md) → [quiz](particles/ja-quiz.md)
 7. **Later — `eben`:** [lesson](particles/eben.md) → [quiz](particles/eben-quiz.md)
 8. **Later — `halt`:** [lesson](particles/halt.md) → [quiz](particles/halt-quiz.md)
 
-### Stage 6 checkpoint
+### Stage 9 checkpoint
 
-Take [Recognition 02 — Particles and Tone](review/recognition-02.md). Use it to check whether you can recognize the speaker effect. Do **not** treat inability to produce `ja`, `eben`, or `halt` naturally as a failure.
+Take [Recognition 02 — Particles and Tone](review/recognition-02.md), then read [Conversation Patterns](phrases/conversation-patterns.md).
 
-Then read [Conversation Patterns](phrases/conversation-patterns.md) for recognition exposure.
-
-One comparison remains **Later** because this repository has no standalone `weil` lesson:
-
-- **Later — `denn` vs. `weil`:** [comparison](comparisons/denn-vs-weil.md) → [quiz](comparisons/denn-vs-weil-quiz.md). Use it after your main A1 course has introduced basic `weil` word order.
-
-### Whole-repository checkpoint
-
-After the six stages, take the [Cumulative Review](review/cumulative-review.md). It deliberately mixes concepts so the question title no longer gives away the target. Use the results diagnostically: return to the specific lesson or comparison behind a repeated confusion, then continue using the repository as a reference.
+**Later:** [denn vs. weil](comparisons/denn-vs-weil.md) should wait until basic `weil` word order has been learned.
 
 ---
 
+## Whole-Repository Review
+
+Use two complementary checkpoints:
+
+1. [Cumulative Review](review/cumulative-review.md) — the existing small-word, preposition, pattern, and particle material.
+2. [Verb Conjugation 01](review/verb-conjugation-01.md) — mixed present/past verb production and sentence structure.
+
+If a repeated error appears, return to the specific lesson behind it rather than restarting the repository.
+
 ## What to Do When Something Does Not Stick
 
-- **One concept is fuzzy:** reread that individual lesson, then retry its quiz after some spacing.
-- **Two concepts keep getting mixed up:** use the dedicated comparison and comparison quiz after confirming you have learned both prerequisites.
-- **A particle makes sense but will not come out naturally:** that is acceptable for Recognition or Later material. Keep noticing it in context instead of forcing production.
-- **A mixed review feels difficult:** identify the repeated distinction causing errors. Review that distinction rather than restarting an entire stage.
-- **A two-way preposition case is slow:** return to [Cases at a Glance](reference/cases-at-a-glance.md) and the relevant preposition page. Correct recognition of location versus movement matters more than speed.
+- **A verb ending is unreliable:** redo controlled production from [Present-Tense Basics](verbs/present-tense-basics.md).
+- **`du` / `er` irregular forms blur together:** use [Spelling and Stem Changes](verbs/spelling-and-stem-changes.md).
+- **Two verbs end up in the wrong places:** revisit [Modal Verbs](verbs/modal-verbs.md) or [Separable Verbs](verbs/separable-verbs.md).
+- **A Perfekt sentence feels like guesswork:** learn the frequent verb together with its auxiliary and participle.
+- **Two small words collapse into one meaning:** use the dedicated comparison page.
+- **A particle makes sense but will not come out naturally:** keep it recognition-first.
+- **A two-way preposition case is slow:** return to [Cases at a Glance](reference/cases-at-a-glance.md).
 
 ## Repository Organization
 
-You do not need the folder structure to follow the course, but it becomes useful for lookup later:
-
-- [Words](words/README.md) — high-frequency adverbs and function words
-- [Patterns](patterns/README.md) — reusable chunks such as `noch nicht` and `nicht mehr`
-- [Prepositions](prepositions/README.md) — destination, location, source, accompaniment, and related case patterns
-- [Particles](particles/README.md) — conversational tone and attitude words
-- [Comparisons](comparisons/README.md) — easily confused concepts side by side
-- [Phrases](phrases/README.md) — exposure collections for everyday, travel, and conversation contexts
-- [Review](review/README.md) — mixed checkpoints and cumulative practice
-- [Reference](reference/README.md) — support pages for cases, priorities, reading, and particles
-
-## Reference and Navigation
-
-- [Repository README](README.md) — overview and category navigation
-- [Concept Index](CONCEPT-INDEX.md) — lookup by meaning or problem when you do not know the German word
-- [Master Index](MASTER_INDEX.md) — alphabetical lookup
-- [Study Guide](STUDY_GUIDE.md) — how to study these small words efficiently
-- [Glossary](GLOSSARY.md) — plain-English grammar terminology
-- [Review Index](review/README.md) — all mixed review pages
-- [Reference Index](reference/README.md) — background and support pages
+[Verbs](verbs/README.md) · [Words](words/README.md) · [Patterns](patterns/README.md) · [Prepositions](prepositions/README.md) · [Particles](particles/README.md) · [Comparisons](comparisons/README.md) · [Phrases](phrases/README.md) · [Review](review/README.md) · [Reference](reference/README.md)
 
 [← Repository README](README.md) | [Master Index](MASTER_INDEX.md) | [Study Guide](STUDY_GUIDE.md)

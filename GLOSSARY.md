@@ -2,73 +2,103 @@
 
 [← Study Guide](STUDY_GUIDE.md) | [↑ Master Index](MASTER_INDEX.md) | [README →](README.md)
 
-Plain-English definitions of every grammar term used in this repository. Nothing here needs to be memorized — look things up as you meet them.
+Plain-English definitions of the grammar terms used in this repository. Nothing here needs to be memorized.
 
 ## Word Types
 
-**Adverb** — a word that adds information to a verb, adjective, or whole sentence: *noch, schon, immer, gerade, vielleicht*. English "still", "already", "always".
+**Adverb** — a word that adds information to a verb, adjective, or whole sentence: *noch, schon, immer, gerade, vielleicht*.
 
-**Article** — *der, die, das, ein, eine*. The little word before a noun. Articles change form depending on case, which is why prepositions matter so much in German.
+**Article** — *der, die, das, ein, eine*. Articles change form depending on case.
 
-**Conjunction** — a word that joins two parts of a sentence: *und, aber, weil, denn*. Some conjunctions change the word order of what follows; see [denn vs. weil](comparisons/denn-vs-weil.md).
+**Conjunction** — a word that joins parts of a sentence: *und, aber, weil, denn*.
 
-**Function word** — a general term for words that do grammatical work rather than naming things. Nearly everything in this repository is a function word.
+**Function word** — a word that mainly does grammatical or discourse work rather than naming a concrete thing.
 
-**Modal particle** (*Modalpartikel*) — a small unstressed word that changes the **tone** of a sentence rather than its information: *doch, mal, denn, ja, eben, halt*. Usually has no English equivalent; English uses intonation or a phrase instead. See [Modal Particles Overview](reference/modal-particles-overview.md).
+**Modal particle** (*Modalpartikel*) — a usually unstressed word that changes tone or speaker attitude more than literal information: *doch, mal, denn, ja, eben, halt*.
 
-**Preposition** — a word before a noun that sets up a relationship: *mit, zu, nach, bei, aus, von, für, in, auf, an*. German prepositions decide the case of the noun after them.
+**Preposition** — a word before a noun phrase that establishes a relationship: *mit, zu, nach, bei, aus, von, für, in, auf, an*.
 
-**Particle** — used loosely in this repository to mean "small word doing tone or emphasis work." Modal particles are the main group.
+**Verb** — a word expressing an action, event, process, or state: *machen, gehen, sein, werden*.
+
+## Verb Terms
+
+**Infinitive** — the dictionary form of a verb, usually ending in `-en` or `-n`: *machen, lernen, sein*.
+
+**Verb stem** — the part used before conjugation endings. For regular `machen`, remove `-en` to get `mach-`.
+
+**Conjugation** — changing a verb form to agree with its subject or express tense: *ich mache, du machst, er macht*.
+
+**Conjugated / finite verb** — the verb form carrying person/tense information in the clause. In *Ich kann Deutsch sprechen*, **kann** is conjugated and **sprechen** is an infinitive.
+
+**Regular verb** — a verb that follows the standard conjugation pattern without an unpredictable stem change.
+
+**Irregular verb** — a verb with one or more forms that must be learned beyond the normal ending rule: *sein → ich bin*; *fahren → du fährst*.
+
+**Stem-vowel change** — a vowel change in the present tense of some verbs, commonly in `du` and `er/sie/es`: *fahren → du fährst*, *geben → du gibst*, *sehen → du siehst*.
+
+**Modal verb** — a verb such as *können, müssen, wollen,* or *dürfen* that combines with another infinitive and expresses ability, necessity, desire, permission, etc.
+
+**Separable verb** — a verb whose prefix separates in a normal main clause: *aufstehen → Ich stehe auf*. With a modal infinitive it stays together: *Ich muss aufstehen.*
+
+**Reflexive verb** — a verb used with a pronoun referring back to the subject: *Ich fühle mich gut.*
+
+**Auxiliary verb** — a helping verb used to build another tense or structure. German Perfekt commonly uses conjugated *haben* or *sein*.
+
+**Past participle** (*Partizip II*) — the verb form used with *haben/sein* in Perfekt: *gemacht, gelernt, gegangen, angerufen*.
+
+**Perfekt** — the most important general conversational past structure at A1: conjugated *haben/sein* + past participle.
+
+**Präteritum** — German simple past. At A1, prioritize very common forms such as *war* and *hatte* and recognize common modal past forms.
 
 ## Case Terms
 
-**Case** — the form a noun phrase takes depending on its job in the sentence. German has four; at A1 you mostly meet three.
+**Case** — the form a noun phrase takes depending on its job in the sentence.
 
-**Nominative** — the subject; the form you find in a dictionary. *Der Mann ist hier.*
+**Nominative** — the subject form: *Der Mann ist hier.*
 
-**Accusative** — the direct object, and the case used after certain prepositions and for **movement toward** a place. *Ich sehe den Mann.* / *Ich lege das Buch auf den Tisch.*
+**Accusative** — commonly the direct object and the case after certain prepositions: *Ich sehe den Mann.*
 
-**Dative** — the indirect object, and the case used after certain prepositions and for **fixed location**. *Ich helfe dem Mann.* / *Das Buch liegt auf dem Tisch.*
+**Dative** — commonly the indirect object and the case after certain prepositions: *Ich helfe dem Mann.*
 
-**Genitive** — possession (*des Mannes*). Rare at A1; you can safely ignore it for now.
+**Genitive** — a possession relationship. Low priority at A1.
 
-See [Cases at a Glance](reference/cases-at-a-glance.md) for the article tables.
+See [Cases at a Glance](reference/cases-at-a-glance.md).
 
 ## Preposition Terms
 
-**Fixed-case preposition** — always takes the same case, no matter what the sentence means. *mit, zu, bei, von, aus, nach, seit* always take dative. *für, um, durch, ohne, gegen* always take accusative. Learn the case once, apply it forever.
+**Fixed-case preposition** — always takes the same case.
 
-**Two-way preposition** (*Wechselpräposition*) — takes **dative for a location** and **accusative for a movement toward a destination**: *in, auf, an, über, unter, vor, hinter, neben, zwischen*. This is the single most common source of case errors for English speakers. See [in](prepositions/in.md), [auf](prepositions/auf.md), [an](prepositions/an.md).
+**Two-way preposition** (*Wechselpräposition*) — takes dative for location and accusative for movement toward a destination: *in, auf, an,* etc.
 
-**Wo? / Wohin?** — the test for two-way prepositions. If the sentence answers *Wo?* ("where is it?"), use dative. If it answers *Wohin?* ("where is it going?"), use accusative.
+**Wo? / Wohin?** — a useful location-versus-destination test for two-way prepositions.
 
-**Contraction** — a preposition fused with an article: *zu dem → zum*, *zu der → zur*, *in dem → im*, *in das → ins*, *an dem → am*, *bei dem → beim*, *von dem → vom*. These are normal, everyday German, not slang.
+**Contraction** — a preposition fused with an article: *zu dem → zum*, *in dem → im*, *an dem → am*.
 
 ## Sentence Terms
 
-**Chunk** — a group of words learned as one unit because that's how it's used: *zu Hause, noch nicht, zum Beispiel, gar nicht*. Chunks are often easier than the words inside them.
+**Chunk** — a group of words learned as one unit: *zu Hause, noch nicht, zum Beispiel*.
 
-**Fixed expression** — a chunk whose form doesn't change and whose meaning isn't fully predictable from its parts: *zu Hause* ("at home"), *nach Hause* ("homeward"). Learn as a unit.
+**Fixed expression** — a chunk whose form is conventional enough that learning it as a unit is more useful than deriving it word by word.
 
-**Separable verb** — a verb that splits, sending its prefix to the end of the sentence: *mitkommen* → *Kommst du mit?*, *anfangen* → *Der Film fängt um acht an*. Relevant here because small words like *mit* and *an* often turn out to be verb prefixes rather than prepositions.
+**Verb-second (V2)** — in a normal German main-clause statement, the conjugated verb is the second **element**: *Heute lerne ich Deutsch.*
 
-**Word order** — German's rule of thumb at A1: the conjugated verb is the **second element** in a statement. *Heute gehe ich nach Hause.* Some conjunctions (like *weil*) send the verb to the **end** of the clause instead; others (like *denn*) don't.
+**Word order** — the rules governing where sentence elements appear. At A1, verb-second statements, verb-first yes/no questions, infinitives after modals, and separated prefixes are especially important.
 
 ## Learning Terms Used Here
 
-**Active** — you should practice producing this word yourself.
+**Active** — practice producing the form yourself.
 
-**Recognition First** — you should understand it when you meet it, but you don't need to produce it yet.
+**Recognition First** — understand it when you meet it; reliable spontaneous production is not required yet.
 
-**Passive** — you only need to recognize that it exists and not be thrown by it.
+**Passive** — recognize that the form exists without making it an active production target.
 
-**Tier 1 / 2 / 3** — the priority ranking used throughout; see [The A1 Priority System](reference/a1-priority-system.md).
+**Tier 1 / 2 / 3** — the repository priority ranking; see [The A1 Priority System](reference/a1-priority-system.md).
 
-**A1 / A2** — the first two levels of the Common European Framework. A1 is roughly "can handle simple, everyday exchanges"; A2 is "can handle routine situations with a bit more range."
-
----
+**A1 / A2** — the first two CEFR levels.
 
 ## Related Pages
+
+- [Verb Conjugation](verbs/README.md)
 - [Cases at a Glance](reference/cases-at-a-glance.md)
 - [Preposition Overview](reference/preposition-overview.md)
 - [Modal Particles Overview](reference/modal-particles-overview.md)

@@ -6,33 +6,41 @@ Every page here is self-contained and has a **solution dropdown directly below e
 
 | Page | Covers | Do it after |
 |---|---|---|
-| [Recognition 01](recognition-01.md) | nicht, kein, auch, noch, schon, nur | Stage 1 |
-| [Contrast 01](contrast-01.md) | near-identical sentence pairs across time and home/destination distinctions | after Stage 5 |
-| [Sentence Completion 01](sentence-completion-01.md) | prepositions, including two-way case | after Stage 5 |
-| [Recognition 02](recognition-02.md) | particles and tone | during Stage 6 |
-| [Cumulative Review](cumulative-review.md) | everything | after Stage 6, then reuse later |
+| [Recognition 01](recognition-01.md) | nicht, kein, auch, noch, schon, nur | Stage 2 |
+| [Contrast 01](contrast-01.md) | near-identical sentence pairs across time and home/destination distinctions | after Stage 6 |
+| [Sentence Completion 01](sentence-completion-01.md) | prepositions, including two-way case | after Stage 6 |
+| [Verb Conjugation 01](verb-conjugation-01.md) | present forms, irregulars, modals, separable/reflexive verbs, Perfekt, essential Präteritum | after Stage 8 |
+| [Recognition 02](recognition-02.md) | particles and tone | during Stage 9 |
+| [Cumulative Review](cumulative-review.md) | existing small-word/preposition/pattern/particle material | after Stage 9, then reuse later |
 
 ## Question Types Used Here
 
 - **Choose the natural word** — pick the German that fits the situation.
-- **Interpret the sentence** — what situation is being described? No translation required.
-- **Contrast** — two near-identical sentences; what's different?
-- **Fill in the pattern** — which preposition or chunk sounds natural here?
-- **Produce it** — an English prompt; you write the German using a named target word.
+- **Interpret the sentence** — identify the situation or speaker effect.
+- **Contrast** — explain what changes between near-identical sentences.
+- **Fill in the pattern** — choose the preposition, chunk, or grammatical form.
+- **Produce it** — write the required German.
+- **Diagnose the error** — identify and correct a wrong form or structure.
 
-The first four test **recognition**, which is what you build first. **Produce it** questions test production, and appear on every page that covers a word marked **Active**. Production questions usually have more than one good answer — the key gives a natural version, not the only correct one. If yours differs but says the same thing with correct grammar, count it.
+Recognition is intentionally important for particles and some small-word material. Verb conjugation uses more **controlled and sentence-level production**, because being able to recognize `du fährst` is not the same as being able to produce it.
 
-## How to Use Them
+For verb-form production, spelling counts. Umlauts, stem changes, endings, auxiliaries, and participles are part of the target.
 
-1. Attempt each question before opening its solution. A wrong answer you committed to teaches more than a right answer you peeked at.
-2. Don't mark yourself on translation quality. Mark yourself on whether you understood the **situation**.
-3. Redo a page a week later rather than doing a new one. Rereading beats reading here.
-4. If you're getting under half right, go back to the word pages — the review isn't the problem.
+## How to Use Reviews
+
+1. Attempt each question before opening its solution.
+2. Use errors diagnostically: identify the lesson behind the repeated error.
+3. Do not immediately repeat a review until the answer order becomes familiar.
+4. Retake mixed reviews after spacing so they measure retrieval rather than short-term memory.
+5. For production questions, count a different answer as correct only when it is grammatical and satisfies the requested target.
 
 ## Related Sections
 
-- [Study Guide](../STUDY_GUIDE.md) — spacing and routine
-- [Comparisons](../comparisons/README.md) — each comparison page links to its own quiz
-- [Words](../words/README.md) · [Prepositions](../prepositions/README.md) · [Particles](../particles/README.md)
+- [Study Guide](../STUDY_GUIDE.md)
+- [Verbs](../verbs/README.md)
+- [Comparisons](../comparisons/README.md)
+- [Words](../words/README.md)
+- [Prepositions](../prepositions/README.md)
+- [Particles](../particles/README.md)
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START-HERE.md)
