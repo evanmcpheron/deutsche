@@ -460,9 +460,22 @@ Steps 1 and 2 are complete. The repository now has both a canonical learner-faci
 
 Step 3 can now build a focused diagnostic index for commonly confused concepts without changing the established learning sequence.
 
+**Note:** The `assessment/` closed-book progress assessment (added 2026-08-17) shipped as a standalone feature outside this ordered plan. Its absence from the 14 numbered steps below is intentional, not an oversight — see the Change Log.
+
 ---
 
 # Change Log
+
+## 2026-08-18
+
+- Applied an externally-prepared verb-conjugation overlay: added the full `verbs/` curriculum (present-tense basics, `sein`/`haben`/`werden`, spelling and stem changes, modal/separable/reflexive verbs, Perfekt, essential Präteritum, and a high-frequency reference), plus `review/verb-conjugation-01.md`.
+- Replaced `README.md`, `START-HERE.md`, `STUDY_GUIDE.md`, `GLOSSARY.md`, and `review/README.md` to reflect the repository's broadened scope from "small words" to German A1 foundations.
+- Ran a documentation freshness audit; updated `MASTER_INDEX.md` and `CONCEPT-INDEX.md` to index the verb curriculum and the progress assessment, and removed the overlay's now-applied scaffolding (`APPLY-OVERLAY.md`, `_apply-index-updates.py`).
+- Added a `Next →` navigation link carrying the guided learning-path sequence across lesson, quiz, comparison, reference, and review pages.
+
+## 2026-08-17
+
+- Added the `assessment/` closed-book A1 progress assessment (reading, vocabulary, language structure, everyday communication, controlled and independent production, and an optional A2 ceiling section) plus its `grader-only/` grading materials. Shipped as a standalone feature outside this roadmap's numbered step plan.
 
 ## 2026-08-12
 

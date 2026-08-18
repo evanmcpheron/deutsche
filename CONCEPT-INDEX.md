@@ -10,6 +10,8 @@ The main entries link to the full lesson or comparison. Those pages contain the 
 
 | I want to understand or express… | Go to |
 |---|---|
+| conjugating a present-tense verb or choosing a subject ending | [Verb forms and conjugation](#verb-forms-and-conjugation) |
+| using can/must/want, separable verbs, reflexive verbs, or the conversational past | [Verb forms and conjugation](#verb-forms-and-conjugation) |
 | not, no, not at all, not yet, no longer | [Negation](#negation) |
 | also, only, very, a little, one more | [Amount, addition, and limitation](#amount-addition-and-limitation) |
 | still, already, again, always, ever, right now | [Time and change](#time-and-change) |
@@ -22,6 +24,29 @@ The main entries link to the full lesson or comparison. Those pages contain the 
 | making a request or question softer, reacting, contradicting, or changing tone | [Questions, reactions, and conversational tone](#questions-reactions-and-conversational-tone) |
 | maybe, perhaps, or making a suggestion less direct | [Uncertainty and softening](#uncertainty-and-softening) |
 | because / giving a reason | [Cause and reason](#cause-and-reason) |
+
+---
+
+## Verb forms and conjugation
+
+Use this section when the problem is **what form the verb needs** or **where the verb pieces belong**.
+
+| Meaning or problem | Best page to open |
+|---|---|
+| Regular present-tense endings and verb-second statements | [Present-Tense Basics](verbs/present-tense-basics.md) |
+| `sein` forms: `bin, bist, ist, sind, seid` | [`sein`](verbs/sein.md) |
+| `haben` forms: `habe, hast, hat, haben, habt` | [`haben`](verbs/haben.md) |
+| `werden` as "become/get": `wirst, wird` | [`werden`](verbs/werden.md) |
+| `du arbeitest`, `du heißt`, `du fährst`, `du gibst`, `du siehst` | [Spelling and Stem Changes](verbs/spelling-and-stem-changes.md) |
+| "can / have to / want to / would like" with an infinitive | [Modal Verbs](verbs/modal-verbs.md) |
+| Verbs that split: `Ich stehe auf` | [Separable Verbs](verbs/separable-verbs.md) |
+| Reflexive pronouns: `mich, dich, sich, uns, euch` | [Reflexive Verbs](verbs/reflexive-verbs.md) |
+| Conversational past with `haben/sein + participle` | [Perfekt](verbs/perfekt.md) |
+| Very common simple-past forms such as `war` and `hatte` | [Essential Präteritum](verbs/praeteritum-essentials.md) |
+| Look up common present and Perfekt forms quickly | [High-Frequency Verb Reference](verbs/high-frequency-reference.md) |
+| Mixed production without the lesson title giving away the rule | [Verb Conjugation 01](review/verb-conjugation-01.md) |
+
+**Related concepts:** [Time and change](#time-and-change) for words such as `noch`, `schon`, and `wieder`; [Movement and destination](#movement-and-destination) for prepositions used with verbs of motion.
 
 ---
 
@@ -256,7 +281,9 @@ The repository currently has one relevant comparison:
 - [Master Index](MASTER_INDEX.md) — alphabetical lookup when you already know the German word
 - [Comparisons](comparisons/README.md) — direct access to existing side-by-side distinctions
 - [Preposition Overview](reference/preposition-overview.md) — choosing among common prepositions
+- [Verbs](verbs/README.md) — conjugation lessons, reference, and production practice
 - [Review](review/README.md) — mixed diagnostic practice
 - [Glossary](GLOSSARY.md) — grammar terms used in the lessons
+- [Progress Assessment](assessment/README.md) — closed-book test of current A1 ability, once you've finished the path
 
 [← Repository README](README.md) | [Start Here](START-HERE.md) | [Master Index](MASTER_INDEX.md) | [Study Guide](STUDY_GUIDE.md)

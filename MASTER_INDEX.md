@@ -2,7 +2,7 @@
 
 [← README](README.md) | [Start Here](START-HERE.md) | [Concept Index](CONCEPT-INDEX.md) | [Study Guide](STUDY_GUIDE.md) | [Glossary](GLOSSARY.md)
 
-Every word covered in this repository, alphabetically, with its word type and priority tier. Words with more than one function have that noted briefly.
+Every primary word covered in this repository, alphabetically, plus indexes for verb-conjugation systems and supporting material. Words with more than one function have that noted briefly.
 
 **Tier key:** **1** = learn actively now · **2** = recognize now, produce gradually · **3** = recognition only for now. See [The A1 Priority System](reference/a1-priority-system.md).
 
@@ -44,6 +44,7 @@ Every word covered in this repository, alphabetically, with its word type and pr
 
 ## H
 
+- [**haben**](verbs/haben.md) — irregular verb ("to have"); essential present forms and Perfekt auxiliary — *Core*
 - [**halt**](particles/halt.md) · [quiz](particles/halt-quiz.md) — modal particle (resignation, "that's just how it is") — *Tier 3*
 
 ## I
@@ -78,6 +79,7 @@ Every word covered in this repository, alphabetically, with its word type and pr
 
 ## S
 
+- [**sein**](verbs/sein.md) — irregular verb ("to be"); essential present and past forms — *Core*
 - [**schon**](words/schon.md) · [quiz](words/schon-quiz.md) — adverb / particle ("already, by now"); also reassurance — *Tier 1*
 - [**schon mal**](patterns/schon-mal.md) · [quiz](patterns/schon-mal-quiz.md) — pattern ("ever / before now") — *Tier 2*
 - [**sehr**](words/sehr.md) · [quiz](words/sehr-quiz.md) — adverb ("very") — *Tier 1*
@@ -94,6 +96,7 @@ Every word covered in this repository, alphabetically, with its word type and pr
 
 ## W
 
+- [**werden**](verbs/werden.md) — irregular verb ("to become/get"); `du wirst`, `er wird` — *Core*
 - [**wieder**](words/wieder.md) · [quiz](words/wieder-quiz.md) — adverb ("again") — *Tier 1*
 
 ## Z
@@ -102,6 +105,22 @@ Every word covered in this repository, alphabetically, with its word type and pr
 - **zu Hause / nach Hause** — fixed expressions; see [zu Hause vs. nach Hause](comparisons/zu-hause-vs-nach-hause.md) · [quiz](comparisons/zu-hause-vs-nach-hause-quiz.md) — *Tier 1*
 
 ---
+
+## Verb Conjugation
+
+- [Verb Conjugation Index](verbs/README.md)
+- [Present-Tense Basics](verbs/present-tense-basics.md) · [quiz](verbs/present-tense-basics-quiz.md)
+- [`sein`](verbs/sein.md)
+- [`haben`](verbs/haben.md)
+- [`werden`](verbs/werden.md)
+- [`sein`, `haben`, `werden` checkpoint](verbs/essential-irregular-verbs-quiz.md)
+- [Spelling and Stem Changes](verbs/spelling-and-stem-changes.md) · [quiz](verbs/spelling-and-stem-changes-quiz.md)
+- [Modal Verbs](verbs/modal-verbs.md) · [quiz](verbs/modal-verbs-quiz.md)
+- [Separable Verbs](verbs/separable-verbs.md) · [quiz](verbs/separable-verbs-quiz.md)
+- [Reflexive Verbs](verbs/reflexive-verbs.md) · [quiz](verbs/reflexive-verbs-quiz.md)
+- [Perfekt](verbs/perfekt.md) · [quiz](verbs/perfekt-quiz.md)
+- [Essential Präteritum](verbs/praeteritum-essentials.md) · [quiz](verbs/praeteritum-essentials-quiz.md)
+- [High-Frequency Verb Reference](verbs/high-frequency-reference.md)
 
 ## Patterns and Chunks
 
@@ -145,8 +164,10 @@ Every word covered in this repository, alphabetically, with its word type and pr
 - [Recognition 01](review/recognition-01.md) — core words
 - [Contrast 01](review/contrast-01.md) — near-identical sentences
 - [Sentence Completion 01](review/sentence-completion-01.md) — prepositions
+- [Verb Conjugation 01](review/verb-conjugation-01.md) — mixed A1 verb production and sentence structure
 - [Recognition 02](review/recognition-02.md) — particles and tone
 - [Cumulative Review](review/cumulative-review.md) — everything
+- [Progress Assessment](assessment/README.md) — closed-book test of where your A1 ability stands, once you've finished the path
 
 ## Reference
 
@@ -159,7 +180,7 @@ Every word covered in this repository, alphabetically, with its word type and pr
 
 ## Category Indexes
 
-[Words](words/README.md) · [Prepositions](prepositions/README.md) · [Particles](particles/README.md) · [Patterns](patterns/README.md) · [Comparisons](comparisons/README.md) · [Phrases](phrases/README.md) · [Review](review/README.md) · [Reference](reference/README.md)
+[Verbs](verbs/README.md) · [Words](words/README.md) · [Prepositions](prepositions/README.md) · [Particles](particles/README.md) · [Patterns](patterns/README.md) · [Comparisons](comparisons/README.md) · [Phrases](phrases/README.md) · [Review](review/README.md) · [Reference](reference/README.md)
 
 ---
 
