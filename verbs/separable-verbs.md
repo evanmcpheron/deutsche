@@ -96,4 +96,4 @@ Learn the full rule in [Perfekt](perfekt.md).
 
 [Take the **Separable Verbs** quiz →](separable-verbs-quiz.md)
 
-[← Modal Verbs](modal-verbs.md) | [Verb Index](README.md) | [Quiz →](separable-verbs-quiz.md) | [Next → Reflexive Verbs](reflexive-verbs.md)
+[← Modal Verbs](modal-verbs.md) | [Verb Index](README.md) | [Quiz →](separable-verbs-quiz.md) | [Next → **Separable Verbs** quiz](separable-verbs-quiz.md)

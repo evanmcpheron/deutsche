@@ -438,4 +438,4 @@ Zimmer / noch / haben / frei / Sie
 
 ---
 
-[← Back to **noch**](noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch**](noch.md) | [Category Index](./README.md) | [Next → auch vs. noch](../comparisons/auch-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)

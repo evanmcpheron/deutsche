@@ -344,4 +344,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **ein bisschen**](ein-bisschen.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **ein bisschen**](ein-bisschen.md) | [Category Index](./README.md) | [Next → gar nicht](gar-nicht.md) | [↑ Master Index](../MASTER_INDEX.md)

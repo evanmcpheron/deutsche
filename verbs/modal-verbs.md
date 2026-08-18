@@ -115,4 +115,4 @@ Actively produce common forms of `können`, `müssen`, `wollen`, and `möchten`,
 
 [Take the **Modal Verbs** quiz →](modal-verbs-quiz.md)
 
-[← Spelling and Stem Changes](spelling-and-stem-changes.md) | [Verb Index](README.md) | [Quiz →](modal-verbs-quiz.md) | [Next → Separable Verbs](separable-verbs.md)
+[← Spelling and Stem Changes](spelling-and-stem-changes.md) | [Verb Index](README.md) | [Quiz →](modal-verbs-quiz.md) | [Next → **Modal Verbs** quiz](modal-verbs-quiz.md)

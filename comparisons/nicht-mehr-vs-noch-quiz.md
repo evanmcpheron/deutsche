@@ -473,4 +473,4 @@ Wir haben ___ Brot.
 
 ---
 
-[← Back to **nicht mehr vs. noch**](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht mehr vs. noch**](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [Next → immer](../words/immer.md) | [↑ Master Index](../MASTER_INDEX.md)

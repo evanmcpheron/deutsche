@@ -174,4 +174,4 @@ Verb second still applies.
 
 ---
 
-[← Lesson](separable-verbs.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](separable-verbs.md) | [Verb Index](README.md) | [Next → Reflexive Verbs](reflexive-verbs.md) | [↑ Master Index](../MASTER_INDEX.md)

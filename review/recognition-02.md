@@ -535,4 +535,4 @@ Do not respond to a good score by forcing particles into every sentence. Recogni
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [Cumulative Review](cumulative-review.md)
 
-[← Sentence Completion 01](sentence-completion-01.md) | [Category Index](./README.md) | [Next → Cumulative Review](cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Sentence Completion 01](sentence-completion-01.md) | [Category Index](./README.md) | [Next → Conversation Patterns](../phrases/conversation-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)

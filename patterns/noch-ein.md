@@ -77,4 +77,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Travel Patterns](../phrases/travel-patterns.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← noch nicht](noch-nicht.md) | [Category Index](./README.md) | [Next → immer noch](immer-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch nicht](noch-nicht.md) | [Category Index](./README.md) | [Next → **noch ein …** quiz](noch-ein-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

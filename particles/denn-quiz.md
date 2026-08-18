@@ -397,4 +397,4 @@ Wie heißt du?
 
 ---
 
-[← Back to **denn**](denn.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **denn**](denn.md) | [Category Index](./README.md) | [Next → doch](doch.md) | [↑ Master Index](../MASTER_INDEX.md)

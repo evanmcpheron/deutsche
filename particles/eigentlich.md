@@ -127,4 +127,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [words/eigentlich.md](../words/eigentlich.md) — stub explaining the placement
 
-[← doch](doch.md) | [Category Index](./README.md) | [Next → ja](ja.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← doch](doch.md) | [Category Index](./README.md) | [Next → **eigentlich** quiz](eigentlich-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -390,4 +390,4 @@ Hunger / habe / keinen / ich
 
 ---
 
-[← Back to **kein**](kein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **kein**](kein.md) | [Category Index](./README.md) | [Next → nicht vs. kein](../comparisons/nicht-vs-kein.md) | [↑ Master Index](../MASTER_INDEX.md)

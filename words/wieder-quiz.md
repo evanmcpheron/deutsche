@@ -342,4 +342,4 @@ da / gleich / bin / wieder / ich
 
 ---
 
-[← Back to **wieder**](wieder.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **wieder**](wieder.md) | [Category Index](./README.md) | [Next → noch vs. wieder](../comparisons/noch-vs-wieder.md) | [↑ Master Index](../MASTER_INDEX.md)

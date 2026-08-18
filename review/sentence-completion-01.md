@@ -625,4 +625,4 @@ If destination choices are the weak point, revisit [Preposition Overview](../ref
 - [bei vs. mit](../comparisons/bei-vs-mit.md)
 - [in vs. nach](../comparisons/in-vs-nach.md)
 
-[← Contrast 01](contrast-01.md) | [Category Index](./README.md) | [Next → Recognition 02](recognition-02.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Contrast 01](contrast-01.md) | [Category Index](./README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -411,4 +411,4 @@ Gib mir das Buch.
 
 ---
 
-[← Back to **mal**](mal.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **mal**](mal.md) | [Category Index](./README.md) | [Next → schon mal](../patterns/schon-mal.md) | [↑ Master Index](../MASTER_INDEX.md)

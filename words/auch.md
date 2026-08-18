@@ -127,4 +127,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht](nicht.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← kein](kein.md) | [Category Index](./README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← kein](kein.md) | [Category Index](./README.md) | [Next → **auch** quiz](auch-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

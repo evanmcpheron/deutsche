@@ -83,6 +83,7 @@ The verb section therefore tests **production, spelling, and sentence structure*
 | [Phrases](phrases/README.md) | Everyday, conversation, and travel chunks |
 | [Review](review/README.md) | Mixed diagnostic exercises with hidden solutions |
 | [Reference](reference/README.md) | Priority tiers, cases, particles, and reading support |
+| [Progress Assessment](assessment/README.md) | Closed-book test of where your A1 ability actually stands, once you've finished the path |
 
 ## Where a Beginner Should Start
 

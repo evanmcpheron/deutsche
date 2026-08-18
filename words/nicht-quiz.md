@@ -412,4 +412,4 @@ an / nicht / rufe / dich / ich
 
 ---
 
-[← Back to **nicht**](nicht.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht**](nicht.md) | [Category Index](./README.md) | [Next → kein](kein.md) | [↑ Master Index](../MASTER_INDEX.md)

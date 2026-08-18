@@ -150,4 +150,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [gar nicht](../patterns/gar-nicht.md)
 - [nicht mehr vs. noch](../comparisons/nicht-mehr-vs-noch.md)
 
-[Category Index](./README.md) | [Next → kein](kein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → **nicht** quiz](nicht-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

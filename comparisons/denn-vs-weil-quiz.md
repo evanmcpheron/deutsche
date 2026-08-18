@@ -397,4 +397,4 @@ denn / keine / habe / ich / Zeit
 
 ---
 
-[← Back to **denn vs. weil**](denn-vs-weil.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **denn vs. weil**](denn-vs-weil.md) | [Category Index](./README.md) | [Next → Cumulative Review](../review/cumulative-review.md) | [↑ Master Index](../MASTER_INDEX.md)

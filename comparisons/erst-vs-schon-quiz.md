@@ -425,4 +425,4 @@ um / kommt / erst / zehn / der Zug
 
 ---
 
-[← Back to **erst vs. schon**](erst-vs-schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **erst vs. schon**](erst-vs-schon.md) | [Category Index](./README.md) | [Next → sehr](../words/sehr.md) | [↑ Master Index](../MASTER_INDEX.md)

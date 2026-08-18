@@ -117,4 +117,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [gerade](../words/gerade.md)
 - [ja](ja.md)
 
-[← ja](ja.md) | [Category Index](./README.md) | [Next → halt](halt.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← ja](ja.md) | [Category Index](./README.md) | [Next → **eben** quiz](eben-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

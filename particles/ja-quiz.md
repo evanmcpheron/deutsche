@@ -403,4 +403,4 @@ B: Ja, ich trinke Tee.
 
 ---
 
-[← Back to **ja**](ja.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **ja**](ja.md) | [Category Index](./README.md) | [Next → eben](eben.md) | [↑ Master Index](../MASTER_INDEX.md)

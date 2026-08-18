@@ -75,4 +75,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht vs. kein](../comparisons/nicht-vs-kein.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← nicht mehr](nicht-mehr.md) | [Category Index](./README.md) | [Next → von … bis …](von-bis.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht mehr](nicht-mehr.md) | [Category Index](./README.md) | [Next → **gar nicht** quiz](gar-nicht-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

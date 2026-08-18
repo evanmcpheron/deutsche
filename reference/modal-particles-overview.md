@@ -82,4 +82,4 @@ What a page like this can do is stop you being confused by them in the meantime 
 - [Recognition 02](../review/recognition-02.md)
 - [denn vs. weil](../comparisons/denn-vs-weil.md)
 
-[← Cases at a Glance](cases-at-a-glance.md) | [Category Index](./README.md) | [Next → How to Read Without Translating](how-to-read-without-translating.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Cases at a Glance](cases-at-a-glance.md) | [Category Index](./README.md) | [Next → mal](../particles/mal.md) | [↑ Master Index](../MASTER_INDEX.md)

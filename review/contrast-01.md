@@ -573,4 +573,4 @@ These contrasts become reliable when you picture the timeline rather than transl
 - [zu Hause vs. nach Hause](../comparisons/zu-hause-vs-nach-hause.md)
 - [Comparisons](../comparisons/README.md)
 
-[← Recognition 01](recognition-01.md) | [Category Index](./README.md) | [Next → Sentence Completion 01](sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Recognition 01](recognition-01.md) | [Category Index](./README.md) | [Next → Travel Patterns](../phrases/travel-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)

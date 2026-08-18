@@ -482,4 +482,4 @@ nach / der Zug / Berlin / fährt / Hamburg / von
 
 ---
 
-[← Back to **aus vs. von**](aus-vs-von.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **aus vs. von**](aus-vs-von.md) | [Category Index](./README.md) | [Next → von … bis …](../patterns/von-bis.md) | [↑ Master Index](../MASTER_INDEX.md)

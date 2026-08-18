@@ -145,4 +145,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [words/mal.md](../words/mal.md) — stub explaining the placement
 
-[Category Index](./README.md) | [Next → denn](denn.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → **mal** quiz](mal-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

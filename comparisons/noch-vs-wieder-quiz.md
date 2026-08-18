@@ -471,4 +471,4 @@ da / wieder / gleich / bin / ich
 
 ---
 
-[← Back to **noch vs. wieder**](noch-vs-wieder.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch vs. wieder**](noch-vs-wieder.md) | [Category Index](./README.md) | [Next → erst](../words/erst.md) | [↑ Master Index](../MASTER_INDEX.md)

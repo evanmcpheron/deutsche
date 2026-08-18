@@ -95,4 +95,4 @@ The single highest-value hour you can spend in this repository: [noch](../words/
 - [Study Guide](../STUDY_GUIDE.md)
 - [Master Index](../MASTER_INDEX.md)
 
-[Category Index](./README.md) | [Next → Active vs. Passive Vocabulary](active-vs-passive-vocabulary.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Present-Tense Basics](../verbs/present-tense-basics.md) | [↑ Master Index](../MASTER_INDEX.md)

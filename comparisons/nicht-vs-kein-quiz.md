@@ -484,4 +484,4 @@ Der Film war ___ gut.
 
 ---
 
-[← Back to **nicht vs. kein**](nicht-vs-kein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht vs. kein**](nicht-vs-kein.md) | [Category Index](./README.md) | [Next → auch](../words/auch.md) | [↑ Master Index](../MASTER_INDEX.md)

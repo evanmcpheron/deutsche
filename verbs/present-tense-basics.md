@@ -110,4 +110,4 @@ Then practice them in real sentences instead of reciting the sequence alone.
 - [Spelling and Stem Changes](spelling-and-stem-changes.md)
 - [High-Frequency Verb Reference](high-frequency-reference.md)
 
-[← Verb Index](README.md) | [Quiz →](present-tense-basics-quiz.md) | [Next → `sein`](sein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Verb Index](README.md) | [Quiz →](present-tense-basics-quiz.md) | [Next → **Present-Tense Basics** quiz](present-tense-basics-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

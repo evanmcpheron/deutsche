@@ -359,4 +359,4 @@ noch / haben / wir / Minuten / nur / zwei
 
 ---
 
-[← Back to **nur**](nur.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nur**](nur.md) | [Category Index](./README.md) | [Next → noch](noch.md) | [↑ Master Index](../MASTER_INDEX.md)

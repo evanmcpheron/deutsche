@@ -108,4 +108,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [ja](ja.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← eben](eben.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← eben](eben.md) | [Category Index](./README.md) | [Next → **halt** quiz](halt-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -123,4 +123,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [bei](bei.md)
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 
-[← aus](aus.md) | [Category Index](./README.md) | [Next → für](fuer.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← aus](aus.md) | [Category Index](./README.md) | [Next → **von** quiz](von-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

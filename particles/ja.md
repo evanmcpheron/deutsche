@@ -117,4 +117,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [eben](eben.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← eigentlich](eigentlich.md) | [Category Index](./README.md) | [Next → eben](eben.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← eigentlich](eigentlich.md) | [Category Index](./README.md) | [Next → **ja** quiz](ja-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

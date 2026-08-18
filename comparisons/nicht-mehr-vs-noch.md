@@ -88,4 +88,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [kein](../words/kein.md)
 - [noch vs. schon](noch-vs-schon.md)
 
-[← noch vs. wieder](noch-vs-wieder.md) | [Category Index](./README.md) | [Next → auch vs. noch](auch-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch vs. wieder](noch-vs-wieder.md) | [Category Index](./README.md) | [Next → **nicht mehr vs. noch** quiz](nicht-mehr-vs-noch-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

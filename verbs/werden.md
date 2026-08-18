@@ -75,4 +75,4 @@ Do not make future-tense formation a priority yet. Learn the present forms of `w
 - [Spelling and Stem Changes](spelling-and-stem-changes.md)
 - [High-Frequency Verb Reference](high-frequency-reference.md)
 
-[← `haben`](haben.md) | [Verb Index](README.md) | [Next → Spelling and Stem Changes](spelling-and-stem-changes.md) | [Irregular Verb Quiz →](essential-irregular-verbs-quiz.md)
+[← `haben`](haben.md) | [Verb Index](README.md) | [Next → Irregular Verb Quiz](essential-irregular-verbs-quiz.md) | [Irregular Verb Quiz →](essential-irregular-verbs-quiz.md)

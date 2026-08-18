@@ -90,4 +90,4 @@ German also has dative reflexive forms such as **mir** and **dir** in patterns l
 
 [Take the **Reflexive Verbs** quiz →](reflexive-verbs-quiz.md)
 
-[← Separable Verbs](separable-verbs.md) | [Verb Index](README.md) | [Quiz →](reflexive-verbs-quiz.md) | [Next → Perfekt](perfekt.md)
+[← Separable Verbs](separable-verbs.md) | [Verb Index](README.md) | [Quiz →](reflexive-verbs-quiz.md) | [Next → **Reflexive Verbs** quiz](reflexive-verbs-quiz.md)

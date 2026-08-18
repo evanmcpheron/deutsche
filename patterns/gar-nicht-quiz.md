@@ -344,4 +344,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **gar nicht**](gar-nicht.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **gar nicht**](gar-nicht.md) | [Category Index](./README.md) | [Next → vielleicht](../words/vielleicht.md) | [↑ Master Index](../MASTER_INDEX.md)

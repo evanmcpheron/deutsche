@@ -513,4 +513,4 @@ nicht / bin / noch / ich / fertig
 
 ---
 
-[← Back to **noch vs. schon**](noch-vs-schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch vs. schon**](noch-vs-schon.md) | [Category Index](./README.md) | [Next → Recognition 01](../review/recognition-01.md) | [↑ Master Index](../MASTER_INDEX.md)

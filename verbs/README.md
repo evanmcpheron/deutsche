@@ -2,6 +2,8 @@
 
 [← Repository README](../README.md) | [Start Here](../START-HERE.md) | [↑ Master Index](../MASTER_INDEX.md)
 
+This page lists verb lessons as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 This section teaches the **A1 verb system you need to understand and produce ordinary German sentences**. The goal is not to memorize giant tables. The goal is to connect:
 
 > **subject → verb form → sentence pattern → meaning**

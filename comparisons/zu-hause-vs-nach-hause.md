@@ -89,4 +89,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← bei vs. mit](bei-vs-mit.md) | [Category Index](./README.md) | [Next → denn vs. weil](denn-vs-weil.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← bei vs. mit](bei-vs-mit.md) | [Category Index](./README.md) | [Next → **zu Hause vs. nach Hause** quiz](zu-hause-vs-nach-hause-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

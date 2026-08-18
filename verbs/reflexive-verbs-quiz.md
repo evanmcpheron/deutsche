@@ -156,4 +156,4 @@ Verb second still applies.
 
 ---
 
-[← Lesson](reflexive-verbs.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](reflexive-verbs.md) | [Verb Index](README.md) | [Next → Perfekt](perfekt.md) | [↑ Master Index](../MASTER_INDEX.md)

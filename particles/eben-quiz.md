@@ -368,4 +368,4 @@ Das ist teuer.
 
 ---
 
-[← Back to **eben**](eben.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **eben**](eben.md) | [Category Index](./README.md) | [Next → halt](halt.md) | [↑ Master Index](../MASTER_INDEX.md)

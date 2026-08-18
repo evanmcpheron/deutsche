@@ -444,4 +444,4 @@ Hause / heute / nach / gehe / früh / ich
 
 ---
 
-[← Back to **zu Hause vs. nach Hause**](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu Hause vs. nach Hause**](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [Next → für](../prepositions/fuer.md) | [↑ Master Index](../MASTER_INDEX.md)

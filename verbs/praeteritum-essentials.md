@@ -104,4 +104,4 @@ At A1, learn **war** because it is extremely common and compact. You do not need
 
 [Take the **Essential Präteritum** quiz →](praeteritum-essentials-quiz.md)
 
-[← Perfekt](perfekt.md) | [Verb Index](README.md) | [Quiz →](praeteritum-essentials-quiz.md) | [Mixed Review →](../review/verb-conjugation-01.md)
+[← Perfekt](perfekt.md) | [Verb Index](README.md) | [Quiz →](praeteritum-essentials-quiz.md) | [Next → **Essential Präteritum** quiz](praeteritum-essentials-quiz.md) | [Mixed Review →](../review/verb-conjugation-01.md)

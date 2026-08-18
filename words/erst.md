@@ -113,4 +113,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch](noch.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← vielleicht](vielleicht.md) | [Category Index](./README.md) | [Next → gerade](gerade.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← vielleicht](vielleicht.md) | [Category Index](./README.md) | [Next → **erst** quiz](erst-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

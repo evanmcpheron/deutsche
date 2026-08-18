@@ -84,4 +84,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [nicht mehr](../patterns/nicht-mehr.md)
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 
-[← gerade vs. jetzt](gerade-vs-jetzt.md) | [Category Index](./README.md) | [Next → sehr vs. viel](sehr-vs-viel.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← gerade vs. jetzt](gerade-vs-jetzt.md) | [Category Index](./README.md) | [Next → **nicht vs. kein** quiz](nicht-vs-kein-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

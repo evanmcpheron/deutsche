@@ -287,4 +287,4 @@ Haben Sie ___ Kleingeld?
 
 ---
 
-[← Back to **vielleicht**](vielleicht.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **vielleicht**](vielleicht.md) | [Category Index](./README.md) | [Next → gerade](gerade.md) | [↑ Master Index](../MASTER_INDEX.md)

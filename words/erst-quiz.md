@@ -338,4 +338,4 @@ Es ist ___ halb sieben.
 
 ---
 
-[← Back to **erst**](erst.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **erst**](erst.md) | [Category Index](./README.md) | [Next → erst vs. schon](../comparisons/erst-vs-schon.md) | [↑ Master Index](../MASTER_INDEX.md)

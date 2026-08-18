@@ -152,4 +152,4 @@ Recognition is the main A1 target, but this common form is useful to produce.
 
 ---
 
-[← Lesson](praeteritum-essentials.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](praeteritum-essentials.md) | [Verb Index](README.md) | [Next → Verb Conjugation 01](../review/verb-conjugation-01.md) | [↑ Master Index](../MASTER_INDEX.md)

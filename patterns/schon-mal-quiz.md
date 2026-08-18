@@ -350,4 +350,4 @@ B: Ja, ___.
 
 ---
 
-[← Back to **schon mal**](schon-mal.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **schon mal**](schon-mal.md) | [Category Index](./README.md) | [Next → denn](../particles/denn.md) | [↑ Master Index](../MASTER_INDEX.md)

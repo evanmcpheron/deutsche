@@ -110,4 +110,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [immer](immer.md)
 - [immer noch](../patterns/immer-noch.md)
 
-[← immer](immer.md) | [Category Index](./README.md) | [Next → vielleicht](vielleicht.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← immer](immer.md) | [Category Index](./README.md) | [Next → **wieder** quiz](wieder-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

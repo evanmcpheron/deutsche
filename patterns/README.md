@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Common Chunks](../phrases/common-chunks.md)
 
+This page lists patterns and chunks as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 Some German is easier learned in groups than word by word. *noch nicht* is not "still" + "not" — it is one unit meaning "not yet," and treating it as a unit saves you from assembling it wrongly every time.
 
 | Chunk | Means | Built from | Tier |

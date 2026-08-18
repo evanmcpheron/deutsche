@@ -130,4 +130,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [doch](doch.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← mal](mal.md) | [Category Index](./README.md) | [Next → doch](doch.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← mal](mal.md) | [Category Index](./README.md) | [Next → **denn** quiz](denn-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

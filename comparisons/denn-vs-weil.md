@@ -72,4 +72,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 - [Modal Particles Overview](../reference/modal-particles-overview.md)
 
-[← zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [Category Index](./README.md) | [Next → **denn vs. weil** quiz](denn-vs-weil-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

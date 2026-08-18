@@ -438,4 +438,4 @@ Ich möchte ___ ein Stück, bitte.
 
 ---
 
-[← Back to **auch vs. noch**](auch-vs-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **auch vs. noch**](auch-vs-noch.md) | [Category Index](./README.md) | [Next → schon](../words/schon.md) | [↑ Master Index](../MASTER_INDEX.md)

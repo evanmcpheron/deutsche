@@ -406,4 +406,4 @@ Wo arbeitest du?
 
 ---
 
-[← Back to **eigentlich**](eigentlich.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **eigentlich**](eigentlich.md) | [Category Index](./README.md) | [Next → ja](ja.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -350,4 +350,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **nicht mehr**](nicht-mehr.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nicht mehr**](nicht-mehr.md) | [Category Index](./README.md) | [Next → nicht mehr vs. noch](../comparisons/nicht-mehr-vs-noch.md) | [↑ Master Index](../MASTER_INDEX.md)

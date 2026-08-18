@@ -368,4 +368,4 @@ nicht / weiß / auch / das / ich
 
 ---
 
-[← Back to **auch**](auch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **auch**](auch.md) | [Category Index](./README.md) | [Next → nur](nur.md) | [↑ Master Index](../MASTER_INDEX.md)

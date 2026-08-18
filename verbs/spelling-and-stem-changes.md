@@ -114,4 +114,4 @@ That is more useful than memorizing the label “strong verb.”
 - [High-Frequency Verb Reference](high-frequency-reference.md)
 - [Separable Verbs](separable-verbs.md)
 
-[← `werden`](werden.md) | [Verb Index](README.md) | [Quiz →](spelling-and-stem-changes-quiz.md) | [Next → Modal Verbs](modal-verbs.md)
+[← `werden`](werden.md) | [Verb Index](README.md) | [Quiz →](spelling-and-stem-changes-quiz.md) | [Next → **Spelling and Stem Changes** quiz](spelling-and-stem-changes-quiz.md)

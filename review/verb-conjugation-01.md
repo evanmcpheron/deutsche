@@ -317,4 +317,4 @@ This is diagnostic rather than pass/fail.
 
 Do not repeat the checkpoint immediately until you can recognize the answer pattern. Review the weak lesson, wait, then retake it later.
 
-[↑ Review Index](README.md) | [Verb Index](../verbs/README.md) | [Start Here](../START-HERE.md)
+[↑ Review Index](README.md) | [Verb Index](../verbs/README.md) | [Next → Modal Particles Overview](../reference/modal-particles-overview.md) | [Start Here](../START-HERE.md)

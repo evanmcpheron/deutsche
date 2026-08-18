@@ -369,4 +369,4 @@ Holz / der Tisch / aus / ist
 
 ---
 
-[← Back to **aus**](aus.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **aus**](aus.md) | [Category Index](./README.md) | [Next → von](von.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -170,4 +170,4 @@ The conjugated verb is second.
 
 ---
 
-[← `sein`](sein.md) | [`haben`](haben.md) | [`werden`](werden.md) | [Verb Index](README.md)
+[← `sein`](sein.md) | [`haben`](haben.md) | [`werden`](werden.md) | [Next → Spelling and Stem Changes](spelling-and-stem-changes.md) | [Verb Index](README.md)

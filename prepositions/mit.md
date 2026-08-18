@@ -124,4 +124,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Preposition Overview](../reference/preposition-overview.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[Category Index](./README.md) | [Next → zu](zu.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → **mit** quiz](mit-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

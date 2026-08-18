@@ -342,4 +342,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **noch ein …**](noch-ein.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch ein …**](noch-ein.md) | [Category Index](./README.md) | [Next → Everyday Patterns](../phrases/everyday-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)

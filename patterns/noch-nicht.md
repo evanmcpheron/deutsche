@@ -83,4 +83,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](../comparisons/noch-vs-schon.md)
 - [nicht mehr vs. noch](../comparisons/nicht-mehr-vs-noch.md)
 
-[Category Index](./README.md) | [Next → noch ein …](noch-ein.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → **noch nicht** quiz](noch-nicht-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

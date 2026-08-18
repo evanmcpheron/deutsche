@@ -133,4 +133,4 @@ This connects present behavior and past formation.
 
 [Take the **Perfekt** quiz →](perfekt-quiz.md)
 
-[← Reflexive Verbs](reflexive-verbs.md) | [Verb Index](README.md) | [Quiz →](perfekt-quiz.md) | [Next → Essential Präteritum](praeteritum-essentials.md)
+[← Reflexive Verbs](reflexive-verbs.md) | [Verb Index](README.md) | [Quiz →](perfekt-quiz.md) | [Next → **Perfekt** quiz](perfekt-quiz.md)

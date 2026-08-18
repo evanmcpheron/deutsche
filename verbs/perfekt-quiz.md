@@ -198,4 +198,4 @@ gestern / gearbeitet / ich / habe
 
 ---
 
-[← Lesson](perfekt.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](perfekt.md) | [Verb Index](README.md) | [Next → Essential Präteritum](praeteritum-essentials.md) | [↑ Master Index](../MASTER_INDEX.md)

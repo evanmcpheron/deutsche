@@ -75,4 +75,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [um](../prepositions/um.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← gar nicht](gar-nicht.md) | [Category Index](./README.md) | [Next → ein bisschen](ein-bisschen.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← gar nicht](gar-nicht.md) | [Category Index](./README.md) | [Next → **von … bis …** quiz](von-bis-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

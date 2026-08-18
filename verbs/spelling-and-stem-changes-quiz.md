@@ -164,4 +164,4 @@ Was ___ du? (lesen)
 
 ---
 
-[← Lesson](spelling-and-stem-changes.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](spelling-and-stem-changes.md) | [Verb Index](README.md) | [Next → nicht](../words/nicht.md) | [↑ Master Index](../MASTER_INDEX.md)

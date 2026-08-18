@@ -374,4 +374,4 @@ bei einer kleinen Firma / arbeitet / sie
 
 ---
 
-[← Back to **bei**](bei.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **bei**](bei.md) | [Category Index](./README.md) | [Next → bei vs. mit](../comparisons/bei-vs-mit.md) | [↑ Master Index](../MASTER_INDEX.md)

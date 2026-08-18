@@ -586,4 +586,4 @@ Now the situation changes: you finish earlier than expected. Change only what is
 - [noch vs. schon](../comparisons/noch-vs-schon.md)
 - [nicht vs. kein](../comparisons/nicht-vs-kein.md)
 
-[Category Index](./README.md) | [Next → Contrast 01](contrast-01.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → noch nicht](../patterns/noch-nicht.md) | [↑ Master Index](../MASTER_INDEX.md)

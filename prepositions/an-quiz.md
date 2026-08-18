@@ -378,4 +378,4 @@ an den / ich / den Stuhl / stelle / Tisch
 
 ---
 
-[← Back to **an**](an.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **an**](an.md) | [Category Index](./README.md) | [Next → Sentence Completion 01](../review/sentence-completion-01.md) | [↑ Master Index](../MASTER_INDEX.md)

@@ -287,4 +287,4 @@ Ich bin ___ müde.
 
 ---
 
-[← Back to **sehr**](sehr.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **sehr**](sehr.md) | [Category Index](./README.md) | [Next → ein bisschen](../patterns/ein-bisschen.md) | [↑ Master Index](../MASTER_INDEX.md)

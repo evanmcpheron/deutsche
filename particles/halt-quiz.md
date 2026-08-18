@@ -372,4 +372,4 @@ Das ist halt so.
 
 ---
 
-[← Back to **halt**](halt.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **halt**](halt.md) | [Category Index](./README.md) | [Next → Recognition 02](../review/recognition-02.md) | [↑ Master Index](../MASTER_INDEX.md)

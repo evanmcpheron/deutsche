@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Patterns](../patterns/README.md)
 
+This page lists phrase collections as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 Collections of real German you will hear, grouped by situation rather than by word. These pages are for **exposure** — read them the way you'd read a phrasebook, not the way you'd study a grammar table.
 
 | Page | What's in it |

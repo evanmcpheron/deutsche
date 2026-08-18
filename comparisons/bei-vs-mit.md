@@ -76,4 +76,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [aus vs. von](aus-vs-von.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← aus vs. von](aus-vs-von.md) | [Category Index](./README.md) | [Next → zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← aus vs. von](aus-vs-von.md) | [Category Index](./README.md) | [Next → **bei vs. mit** quiz](bei-vs-mit-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

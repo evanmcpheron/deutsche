@@ -300,4 +300,4 @@ Kaffee / trinke / immer / morgens / ich
 
 ---
 
-[← Back to **immer**](immer.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **immer**](immer.md) | [Category Index](./README.md) | [Next → immer noch](../patterns/immer-noch.md) | [↑ Master Index](../MASTER_INDEX.md)

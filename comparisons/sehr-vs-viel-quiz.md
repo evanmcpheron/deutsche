@@ -412,4 +412,4 @@ Ich habe im Moment ___ Arbeit.
 
 ---
 
-[← Back to **sehr vs. viel**](sehr-vs-viel.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **sehr vs. viel**](sehr-vs-viel.md) | [Category Index](./README.md) | [Next → gerade vs. jetzt](gerade-vs-jetzt.md) | [↑ Master Index](../MASTER_INDEX.md)

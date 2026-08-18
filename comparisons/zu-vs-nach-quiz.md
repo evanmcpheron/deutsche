@@ -474,4 +474,4 @@ am Sonntag / zu / fahre / meinen Großeltern / ich
 
 ---
 
-[← Back to **zu vs. nach**](zu-vs-nach.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu vs. nach**](zu-vs-nach.md) | [Category Index](./README.md) | [Next → zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md) | [↑ Master Index](../MASTER_INDEX.md)

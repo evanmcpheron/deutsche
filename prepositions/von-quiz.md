@@ -366,4 +366,4 @@ von meinem Bruder / das Auto / ist / das
 
 ---
 
-[← Back to **von**](von.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **von**](von.md) | [Category Index](./README.md) | [Next → aus vs. von](../comparisons/aus-vs-von.md) | [↑ Master Index](../MASTER_INDEX.md)

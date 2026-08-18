@@ -300,4 +300,4 @@ du / machst / gerade / was
 
 ---
 
-[← Back to **gerade**](gerade.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **gerade**](gerade.md) | [Category Index](./README.md) | [Next → noch ein …](../patterns/noch-ein.md) | [↑ Master Index](../MASTER_INDEX.md)

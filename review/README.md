@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Start Here](../START-HERE.md)
 
+This page lists review checkpoints as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 Every page here is self-contained and has a **solution dropdown directly below each question**. Nothing waits on a tutor.
 
 | Page | Covers | Do it after |

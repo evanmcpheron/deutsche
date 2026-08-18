@@ -170,4 +170,4 @@ No second verb is required in this common construction.
 
 ---
 
-[← Lesson](modal-verbs.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](modal-verbs.md) | [Verb Index](README.md) | [Next → Separable Verbs](separable-verbs.md) | [↑ Master Index](../MASTER_INDEX.md)

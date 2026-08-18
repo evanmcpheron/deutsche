@@ -394,4 +394,4 @@ Ich bin nach Hause.
 
 ---
 
-[← Back to **zu**](zu.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **zu**](zu.md) | [Category Index](./README.md) | [Next → nach](nach.md) | [↑ Master Index](../MASTER_INDEX.md)

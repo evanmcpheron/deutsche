@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Review](../review/README.md)
 
+This page lists comparisons as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 Most small-word errors are not "I didn't know that word." They are "I knew both words and picked the wrong one." These pages put the confusable pairs side by side.
 
 Each page follows the same shape: a simple explanation, contrasting examples, a rule of thumb, common mistakes, a link to its separate quiz, and links to the individual word pages.

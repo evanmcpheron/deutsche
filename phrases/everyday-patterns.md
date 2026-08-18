@@ -103,4 +103,4 @@ German you'd hear in an ordinary day at home, in shops, and around family. Read 
 - [Common Chunks](common-chunks.md)
 - [Patterns](../patterns/README.md)
 
-[Category Index](./README.md) | [Next → Conversation Patterns](conversation-patterns.md) | [↑ Master Index](../MASTER_INDEX.md)
+[Category Index](./README.md) | [Next → Common Chunks](common-chunks.md) | [↑ Master Index](../MASTER_INDEX.md)

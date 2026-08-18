@@ -114,4 +114,4 @@ Pick five, say them out loud, and use them in your next three sentences of Germa
 - [Travel Patterns](travel-patterns.md)
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 
-[← Travel Patterns](travel-patterns.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Travel Patterns](travel-patterns.md) | [Category Index](./README.md) | [Next → Preposition Overview](../reference/preposition-overview.md) | [↑ Master Index](../MASTER_INDEX.md)

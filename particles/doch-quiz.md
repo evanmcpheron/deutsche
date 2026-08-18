@@ -394,4 +394,4 @@ Komm mit!
 
 ---
 
-[← Back to **doch**](doch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **doch**](doch.md) | [Category Index](./README.md) | [Next → eigentlich](eigentlich.md) | [↑ Master Index](../MASTER_INDEX.md)

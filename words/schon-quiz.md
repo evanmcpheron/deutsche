@@ -403,4 +403,4 @@ du / gegessen / schon / hast
 
 ---
 
-[← Back to **schon**](schon.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **schon**](schon.md) | [Category Index](./README.md) | [Next → noch vs. schon](../comparisons/noch-vs-schon.md) | [↑ Master Index](../MASTER_INDEX.md)

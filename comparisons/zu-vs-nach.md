@@ -83,4 +83,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [zu Hause vs. nach Hause](zu-hause-vs-nach-hause.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← sehr vs. viel](sehr-vs-viel.md) | [Category Index](./README.md) | [Next → in vs. nach](in-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← sehr vs. viel](sehr-vs-viel.md) | [Category Index](./README.md) | [Next → **zu vs. nach** quiz](zu-vs-nach-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

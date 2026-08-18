@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Modal Particles Overview](../reference/modal-particles-overview.md)
 
+This page lists particles as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 Modal particles are small, unstressed words that change how a sentence **sounds** rather than what it **says**. Remove one and the sentence stays true — it just becomes blunter, colder, or more neutral.
 
 Read [Modal Particles Overview](../reference/modal-particles-overview.md) before the individual pages.

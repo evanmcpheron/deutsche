@@ -70,4 +70,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](../comparisons/noch-vs-schon.md)
 - [Conversation Patterns](../phrases/conversation-patterns.md)
 
-[← immer noch](immer-noch.md) | [Category Index](./README.md) | [Next → nicht mehr](nicht-mehr.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← immer noch](immer-noch.md) | [Category Index](./README.md) | [Next → **schon mal** quiz](schon-mal-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

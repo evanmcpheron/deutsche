@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Preposition Overview](../reference/preposition-overview.md)
 
+This page lists prepositions as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 German prepositions cannot be learned as one-to-one translations of English ones. English "to" alone splits into *zu*, *nach*, *in*, and *an* depending on the destination. What works instead is learning **which kinds of words each preposition usually appears with**.
 
 Every preposition also decides the **case** of the noun after it. There are two kinds:

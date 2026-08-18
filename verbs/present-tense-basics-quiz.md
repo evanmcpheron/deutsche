@@ -188,4 +188,4 @@ The verb must be the second element.
 
 ---
 
-[← Lesson](present-tense-basics.md) | [Verb Index](README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Lesson](present-tense-basics.md) | [Verb Index](README.md) | [Next → `sein`](sein.md) | [↑ Master Index](../MASTER_INDEX.md)

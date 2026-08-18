@@ -2,6 +2,8 @@
 
 [↑ Master Index](../MASTER_INDEX.md) | [README](../README.md) | [Glossary](../GLOSSARY.md)
 
+This page lists reference pages as a lookup index, not the recommended study order. For the guided sequence, see [Start Here](../START-HERE.md).
+
 Background pages. You don't need to read these in order — look things up as they come up.
 
 | Page | Read it when |

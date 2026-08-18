@@ -356,4 +356,4 @@ B: Nein. Es dauert sehr lange. ___
 
 ---
 
-[← Back to **immer noch**](immer-noch.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **immer noch**](immer-noch.md) | [Category Index](./README.md) | [Next → wieder](../words/wieder.md) | [↑ Master Index](../MASTER_INDEX.md)

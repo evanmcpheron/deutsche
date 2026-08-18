@@ -348,4 +348,4 @@ B: ___
 
 ---
 
-[← Back to **noch nicht**](noch-nicht.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **noch nicht**](noch-nicht.md) | [Category Index](./README.md) | [Next → nicht mehr](nicht-mehr.md) | [↑ Master Index](../MASTER_INDEX.md)

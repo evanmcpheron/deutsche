@@ -70,4 +70,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](noch-vs-schon.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [Next → gerade vs. jetzt](gerade-vs-jetzt.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nicht mehr vs. noch](nicht-mehr-vs-noch.md) | [Category Index](./README.md) | [Next → **auch vs. noch** quiz](auch-vs-noch-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

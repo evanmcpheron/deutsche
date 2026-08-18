@@ -410,4 +410,4 @@ Ich wohne ___ in Hamburg.
 
 ---
 
-[← Back to **gerade vs. jetzt**](gerade-vs-jetzt.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **gerade vs. jetzt**](gerade-vs-jetzt.md) | [Category Index](./README.md) | [Next → Preposition Overview](../reference/preposition-overview.md) | [↑ Master Index](../MASTER_INDEX.md)

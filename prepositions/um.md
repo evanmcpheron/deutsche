@@ -119,4 +119,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [Cases at a Glance](../reference/cases-at-a-glance.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← für](fuer.md) | [Category Index](./README.md) | [Next → in](in.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← für](fuer.md) | [Category Index](./README.md) | [Next → **um** quiz](um-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

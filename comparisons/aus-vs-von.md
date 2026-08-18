@@ -81,4 +81,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [bei vs. mit](bei-vs-mit.md)
 - [Preposition Overview](../reference/preposition-overview.md)
 
-[← in vs. nach](in-vs-nach.md) | [Category Index](./README.md) | [Next → bei vs. mit](bei-vs-mit.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← in vs. nach](in-vs-nach.md) | [Category Index](./README.md) | [Next → **aus vs. von** quiz](aus-vs-von-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

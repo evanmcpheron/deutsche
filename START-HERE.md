@@ -204,6 +204,8 @@ Use two complementary checkpoints:
 
 If a repeated error appears, return to the specific lesson behind it rather than restarting the repository.
 
+Once these feel solid, [take the full progress assessment](assessment/README.md) to measure where you actually stand.
+
 ## What to Do When Something Does Not Stick
 
 - **A verb ending is unreliable:** redo controlled production from [Present-Tense Basics](verbs/present-tense-basics.md).

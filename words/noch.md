@@ -142,4 +142,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [schon](schon.md)
 - [erst](erst.md)
 
-[← auch](auch.md) | [Category Index](./README.md) | [Next → schon](schon.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← auch](auch.md) | [Category Index](./README.md) | [Next → **noch** quiz](noch-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

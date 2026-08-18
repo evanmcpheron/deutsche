@@ -73,4 +73,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [noch vs. schon](noch-vs-schon.md)
 - [Travel Patterns](../phrases/travel-patterns.md)
 
-[← noch vs. schon](noch-vs-schon.md) | [Category Index](./README.md) | [Next → noch vs. wieder](noch-vs-wieder.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch vs. schon](noch-vs-schon.md) | [Category Index](./README.md) | [Next → **erst vs. schon** quiz](erst-vs-schon-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

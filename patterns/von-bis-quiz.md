@@ -346,4 +346,4 @@ Try each question before opening its solution. Each solution is directly below t
 
 ---
 
-[← Back to **von … bis …**](von-bis.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **von … bis …**](von-bis.md) | [Category Index](./README.md) | [Next → Cases at a Glance](../reference/cases-at-a-glance.md) | [↑ Master Index](../MASTER_INDEX.md)

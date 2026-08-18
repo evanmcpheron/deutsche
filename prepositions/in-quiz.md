@@ -449,4 +449,4 @@ in die / wir / am Samstag / fahren / Stadt
 
 ---
 
-[← Back to **in**](in.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **in**](in.md) | [Category Index](./README.md) | [Next → in vs. nach](../comparisons/in-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)

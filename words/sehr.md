@@ -111,4 +111,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [gar nicht](../patterns/gar-nicht.md)
 - [Everyday Patterns](../phrases/everyday-patterns.md)
 
-[← nur](nur.md) | [Category Index](./README.md) | [Next → immer](immer.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← nur](nur.md) | [Category Index](./README.md) | [Next → **sehr** quiz](sehr-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

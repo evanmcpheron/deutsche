@@ -129,4 +129,4 @@ The quiz for this page is kept separately so you can work through the lesson wit
 - [erst](erst.md)
 - [wieder](wieder.md)
 
-[← noch](noch.md) | [Category Index](./README.md) | [Next → nur](nur.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← noch](noch.md) | [Category Index](./README.md) | [Next → **schon** quiz](schon-quiz.md) | [↑ Master Index](../MASTER_INDEX.md)

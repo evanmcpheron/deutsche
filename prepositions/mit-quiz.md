@@ -372,4 +372,4 @@ mit einem Stift / ich / schreibe
 
 ---
 
-[← Back to **mit**](mit.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **mit**](mit.md) | [Category Index](./README.md) | [Next → bei](bei.md) | [↑ Master Index](../MASTER_INDEX.md)

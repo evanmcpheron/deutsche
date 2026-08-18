@@ -466,4 +466,4 @@ meinem Freund / ich / mit / ins Konzert / gehe
 
 ---
 
-[← Back to **bei vs. mit**](bei-vs-mit.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **bei vs. mit**](bei-vs-mit.md) | [Category Index](./README.md) | [Next → zu](../prepositions/zu.md) | [↑ Master Index](../MASTER_INDEX.md)

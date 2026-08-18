@@ -401,4 +401,4 @@ Wir fliegen nach den USA.
 
 ---
 
-[← Back to **nach**](nach.md) | [Category Index](./README.md) | [↑ Master Index](../MASTER_INDEX.md)
+[← Back to **nach**](nach.md) | [Category Index](./README.md) | [Next → zu vs. nach](../comparisons/zu-vs-nach.md) | [↑ Master Index](../MASTER_INDEX.md)
